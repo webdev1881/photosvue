@@ -1,2456 +1,386 @@
 [
   {
-    "article": "43344",
-    "name": "Цукерки Червоний мак Рошен кг",
-    "images": [
-      "https://images.prom.ua/6618115317_w200_h200_tsukerki-shokoladni-chervonij.jpg",
-      "https://images.prom.ua/4596374018_w200_h200_konfety-krasnyj-mak.jpg",
-      "https://images.prom.ua/4006296652_w200_h200_konfety-roshen-roshen.jpg",
-      "https://images.prom.ua/6400358136_w200_h200_tsukerki-shokoladni-chervonij.jpg",
-      "https://images.prom.ua/6356679541_w200_h200_konfety-roshen-krasnyj.jpg",
-      "https://images.prom.ua/6363443713_w200_h200_tsukerki-chervonij-mak.jpg",
-      "https://images.prom.ua/3001096244_w200_h200_konfety-krasnyj-mak.jpg",
-      "https://images.prom.ua/5257012742_w200_h200_krasnyj-mak-konfety.jpg",
-      "https://images.prom.ua/4711465838_w200_h200_tsukerki-1kg-chervonij.jpg",
-      "https://images.prom.ua/3465978886_w200_h200_shokoladnye-konfety-roshen.jpg"
-    ]
-  },
-  {
-    "article": "43347",
-    "name": "Цукерки Червоний мак Престиж кг",
-    "images": [
-      "https://images.prom.ua/4006296652_w200_h200_konfety-roshen-roshen.jpg",
-      "https://images.prom.ua/6618115317_w200_h200_tsukerki-shokoladni-chervonij.jpg",
-      "https://images.prom.ua/6595308776_w200_h200_konfety-krasnyj-mak.jpg",
-      "https://images.prom.ua/5257012742_w200_h200_krasnyj-mak-konfety.jpg",
-      "https://images.prom.ua/4596374018_w200_h200_konfety-krasnyj-mak.jpg",
-      "https://images.prom.ua/5046439432_w200_h200_tm-maria-shokoladnye.jpg",
-      "https://images.prom.ua/6500299814_w200_h200_konfety-krasnyj-mak.jpg",
-      "https://images.prom.ua/5046425098_w200_h200_tm-maria-shokoladnye.jpg",
-      "https://images.prom.ua/6356679541_w200_h200_konfety-roshen-krasnyj.jpg",
-      "https://images.prom.ua/4711465838_w200_h200_tsukerki-1kg-chervonij.jpg"
-    ]
-  },
-  {
-    "article": "34024",
-    "name": "Цукерки ХЗПТ Ретро асорті кг",
-    "images": [
-      "https://images.prom.ua/6545578154_w200_h200_konfety-shokoladno-vafelnye-dobryj.jpg",
-      "https://images.prom.ua/4296029252_w200_h200_assorti-retro-2kg.jpg",
-      "https://images.prom.ua/6424790996_w200_h200_hzpt-tsukerki-asorti.jpg",
-      "https://images.prom.ua/6595234452_w200_h200_konfety-vafelnye-assorti.jpg",
-      "https://images.prom.ua/2893409498_w200_h200_konfety-assorti-multiki.jpg"
-    ]
-  },
-  {
-    "article": "42755",
-    "name": "Цукерки ХЗПТ Мультики кг",
-    "images": [
-      "https://images.prom.ua/2893409498_w200_h200_konfety-assorti-multiki.jpg"
-    ]
-  },
-  {
-    "article": "42754",
-    "name": "Цукерки ХБФ Ясочка кг",
-    "images": [
-      "https://images.prom.ua/3985374977_w200_h200_konfety-hbf-yasochka.jpg",
-      "https://images.prom.ua/4982755936_w200_h200_konfety-yasochka-1.jpg"
-    ]
-  },
-  {
-    "article": "34396",
-    "name": "Цукерки ХБФ М'ятні кг",
-    "images": [
-      "https://images.prom.ua/5526885257_w200_h200_tsukerki-wawel-pastilka.jpg",
-      "https://images.prom.ua/6192115518_w200_h200_konfety-karamelnye-myatnaya.jpg",
-      "https://images.prom.ua/6545333114_w200_h200_konfety-walkers-mint.jpg",
-      "https://images.prom.ua/5923704377_w200_h200_karamelnye-konfety-s.jpg"
-    ]
-  },
-  {
-    "article": "42660",
-    "name": "Цукерки ХБФ Мірель кг",
-    "images": [
-      "https://images.prom.ua/5944690848_w200_h200_shokoladnye-konfety-iz.jpg",
-      "https://images.prom.ua/686313273_w200_h200_konfety-mirel-4kg.jpg"
-    ]
-  },
-  {
-    "article": "8475",
-    "name": "Цукерки ХБФ Зоряний вечір кг",
-    "images": [
-      "https://images.prom.ua/6192117025_w200_h200_konfety-pomadnye-zvezdnyj.jpg",
-      "https://images.prom.ua/5923670061_w200_h200_konfety-iz-molochnoj.jpg",
-      "https://images.prom.ua/4873200337_w200_h200_tsukerki-zoryanij-vechir.jpg",
-      "https://images.prom.ua/4873184858_w200_h200_tsukerki-zoryanij-vechir.jpg",
-      "https://images.prom.ua/3729938499_w200_h200_konfety-glazirovannye-s.jpg"
-    ]
-  },
-  {
-    "article": "31561",
-    "name": "Цукерки Франческа Балу кг",
-    "images": [
-      "https://images.prom.ua/6382256178_w200_h200_tsukerki-francheska-balu.jpg",
-      "https://images.prom.ua/6382261490_w200_h200_tsukerki-francheska-migdal.jpg",
-      "https://images.prom.ua/5064090405_w200_h200_konfety-francheska-1kg.jpg",
-      "https://images.prom.ua/6390881713_w200_h200_tsukerki-francheska-konyak.jpg",
-      "https://images.prom.ua/3611110189_w200_h200_konfety-francheska-balu.jpg",
-      "https://images.prom.ua/2405276166_w200_h200_konfety-vafelnye-franchesko.jpg",
-      "https://images.prom.ua/3611174504_w200_h200_tsukerki-vafelni-francheska.jpg",
-      "https://images.prom.ua/5064086786_w200_h200_konfety-balu-francheska.jpg",
-      "https://images.prom.ua/4655355449_w200_h200_konfety-francheska-15kg.jpg",
-      "https://images.prom.ua/5882867792_w200_h200_konfety-francheska-s.jpg"
-    ]
-  },
-  {
-    "article": "41524",
-    "name": "Цукерки Флоренс пряжене молоко АВК кг",
-    "images": [
-      "https://images.prom.ua/6535883634_w200_h200_tsukerki-avk-florens.jpg",
-      "https://images.prom.ua/6402409819_w200_h200_konfety-avk-florens.jpg",
-      "https://images.prom.ua/6206619429_w200_h200_konfety-avk-florens.jpg",
-      "https://images.prom.ua/6535886816_w200_h200_tsukerki-avk-florens.jpg",
-      "https://images.prom.ua/6192128210_w200_h200_konfety-avk-florens.jpg",
-      "https://images.prom.ua/6192130456_w200_h200_konfety-avk-larotini.jpg",
-      "https://images.prom.ua/6535895006_w200_h200_tsukerki-avk-florens.jpg",
-      "https://images.prom.ua/6579974136_w200_h200_tsukerki-avk-florens.jpg",
-      "https://images.prom.ua/6248644863_w200_h200_konfety-avk-shokoladnaya.jpg",
-      "https://images.prom.ua/6302228349_w200_h200_konfety-florens-toplenoe.jpg"
-    ]
-  },
-  {
-    "article": "51487",
-    "name": "Цукерки Флай Мікс зі смаком дині Лукас кг",
-    "images": [
-      "https://images.prom.ua/6413809909_w200_h200_tsukerki-flai-mix.jpg",
-      "https://images.prom.ua/6579977504_w200_h200_tsukerki-lukas-flaj.jpg",
-      "https://images.prom.ua/6413813515_w200_h200_tsukerki-flai-mix.jpg",
-      "https://images.prom.ua/6192119629_w200_h200_konfety-karamelnye-fruddi-miks.jpg",
-      "https://images.prom.ua/6192121036_w200_h200_konfety-karamelnye-fruddi-miks.jpg",
-      "https://images.prom.ua/6555876546_w200_h200_konfety-grilyazhnye-bifesti.jpg",
-      "https://images.prom.ua/6562814441_w200_h200_konfety-grilyazhnye-bifesti.jpg",
-      "https://images.prom.ua/6562876977_w200_h200_konfety-melodiplum-so.jpg",
-      "https://images.prom.ua/6563004812_w200_h200_konfety-marmilike-so.jpg",
-      "https://images.prom.ua/6562827269_w200_h200_konfety-grilyazhnye-bifesti.jpg"
-    ]
-  },
-  {
-    "article": "61450",
-    "name": "Цукерки Фіні Зуби кг",
-    "images": [
-      "https://images.prom.ua/3053278194_w200_h200_fruktovye-zhevatelnye-konfety.jpg",
-      "https://images.prom.ua/3926357441_w200_h200_fini-fruktovye-zhevatelnye.jpg",
-      "https://images.prom.ua/4902957241_w200_h200_fruktovye-zhevatelnye-konfety.jpg"
-    ]
-  },
-  {
-    "article": "71413",
-    "name": "Цукерки Фіні жувальні Поліно торнадо кисла зі смаком кока-коли ваг",
-    "images": []
-  },
-  {
-    "article": "81376",
-    "name": "Цукерки Фіні желейні мікс міні фігурки кг",
-    "images": [
-      "https://images.prom.ua/3202371699_w200_h200_spagetti-multifrut-v.jpg",
-      "https://images.prom.ua/6317434949_w200_h200_lenta-fantaziya--.jpg",
-      "https://images.prom.ua/3197433323_w200_h200_fruktovaya-ataka--.jpg",
-      "https://images.prom.ua/3202330920_w200_h200_poleno-tornado-6.jpg",
-      "https://images.prom.ua/6473265138_w200_h200_banany-s-napolnitelem.jpg",
-      "https://images.prom.ua/4440768910_w200_h200_fini-zhevatelnyj-marmelad.jpg",
-      "https://images.prom.ua/5359188922_w200_h200_miks-kislyh-zheleek.jpg",
-      "https://images.prom.ua/4440760219_w200_h200_fini-zhevatelnyj-marmelad.jpg",
-      "https://images.prom.ua/4826232310_w200_h200_miks-kislyh-zheleek.jpg",
-      "https://images.prom.ua/6637251445_w200_h200_marmeladnye-konfety-fini.jpg"
-    ]
-  },
-  {
-    "article": "91339",
-    "name": "Цукерки Фіні желейні Гігантські ведмедики кг",
-    "images": [
-      "https://images.prom.ua/3202371699_w200_h200_spagetti-multifrut-v.jpg",
-      "https://images.prom.ua/6473265138_w200_h200_banany-s-napolnitelem.jpg",
-      "https://images.prom.ua/6317434949_w200_h200_lenta-fantaziya--.jpg",
-      "https://images.prom.ua/3197433323_w200_h200_fruktovaya-ataka--.jpg",
-      "https://images.prom.ua/6635736459_w200_h200_rozovaya-yagoda--.jpg",
-      "https://images.prom.ua/4969280564_w200_h200_zhelejki-vagovi-fini.jpg",
-      "https://images.prom.ua/6508873978_w200_h200_zhelejni-tsukerki-fini.jpg",
-      "https://images.prom.ua/6508877375_w200_h200_zhelejni-tsukerki-fini.jpg",
-      "https://images.prom.ua/6508926547_w200_h200_zhelejni-tsukerki-fini.jpg",
-      "https://images.prom.ua/6508912546_w200_h200_zhelejni-tsukerki-fini.jpg"
-    ]
-  },
-  {
-    "article": "101302",
-    "name": "Цукерки Фіні желейні Гігантська полуниця кг",
-    "images": [
-      "https://images.prom.ua/5205659589_w200_h200_fini-zhevatelnyj-marmelad.jpg",
-      "https://images.prom.ua/6508931209_w200_h200_zhelejni-tsukerki-fini.jpg",
-      "https://images.prom.ua/6583073650_w200_h200_zhelejni-tsukerki-fini.jpg",
-      "https://images.prom.ua/3202371699_w200_h200_spagetti-multifrut-v.jpg",
-      "https://images.prom.ua/3202330920_w200_h200_poleno-tornado-6.jpg",
-      "https://images.prom.ua/6317434949_w200_h200_lenta-fantaziya--.jpg",
-      "https://images.prom.ua/6473404482_w200_h200_klubnika-s-napolnitelem.jpg",
-      "https://images.prom.ua/3197433323_w200_h200_fruktovaya-ataka--.jpg",
-      "https://images.prom.ua/6243274844_w200_h200_zhelejni-tsukerki-trolli.jpg",
-      "https://images.prom.ua/6408103496_w200_h200_tsukerki-zhelejni-dzhelli.jpg"
-    ]
-  },
-  {
-    "article": "111265",
-    "name": "Цукерки Фіні желейні Вишеньки кг",
-    "images": [
-      "https://images.prom.ua/3202371699_w200_h200_spagetti-multifrut-v.jpg",
-      "https://images.prom.ua/6317434949_w200_h200_lenta-fantaziya--.jpg",
-      "https://images.prom.ua/3197433323_w200_h200_fruktovaya-ataka--.jpg",
-      "https://images.prom.ua/6473265138_w200_h200_banany-s-napolnitelem.jpg",
-      "https://images.prom.ua/6635736459_w200_h200_rozovaya-yagoda--.jpg",
-      "https://images.prom.ua/5956827556_w200_h200_1-kg-zhelejnih.jpg",
-      "https://images.prom.ua/6508873978_w200_h200_zhelejni-tsukerki-fini.jpg",
-      "https://images.prom.ua/6508926547_w200_h200_zhelejni-tsukerki-fini.jpg",
-      "https://images.prom.ua/6508882525_w200_h200_zhelejni-tsukerki-fini.jpg",
-      "https://images.prom.ua/6508887408_w200_h200_zhelejni-tsukerki-fini.jpg"
-    ]
-  },
-  {
-    "article": "121228",
-    "name": "Цукерки Фіні Гігантська жабка кг",
-    "images": [
-      "https://images.prom.ua/6583049282_w200_h200_zhelejni-tsukerki-fini.jpg",
-      "https://images.prom.ua/4969318584_w200_h200_zhelejki-vagovi-fini.jpg",
-      "https://images.prom.ua/6508931209_w200_h200_zhelejni-tsukerki-fini.jpg",
-      "https://images.prom.ua/6508934598_w200_h200_zhelejni-tsukerki-fini.jpg",
-      "https://images.prom.ua/6583073650_w200_h200_zhelejni-tsukerki-fini.jpg",
-      "https://images.prom.ua/4572220702_w200_h200_fini-zhevatelnyj-marmelad.jpg",
-      "https://images.prom.ua/4572205781_w200_h200_fini-zhevatelnyj-marmelad.jpg",
-      "https://images.prom.ua/6508873978_w200_h200_zhelejni-tsukerki-fini.jpg",
-      "https://images.prom.ua/5205659589_w200_h200_fini-zhevatelnyj-marmelad.jpg",
-      "https://images.prom.ua/6378298154_w200_h200_fruktovye-zhevatelnye-konfety.jpg"
-    ]
-  },
-  {
-    "article": "131191",
-    "name": "Цукерки Трюфель оригінальний АВК кг",
-    "images": [
-      "https://images.prom.ua/6530818250_w200_h200_tsukerki-tryufel-originalnij.jpg",
-      "https://images.prom.ua/3969792970_w200_h200_tsukerki-tryufel-originalnij.jpg",
-      "https://images.prom.ua/6192129390_w200_h200_konfety-avk-tryufel.jpg",
-      "https://images.prom.ua/6192130445_w200_h200_konfety-avk-tryufel.jpg",
-      "https://images.prom.ua/6192130447_w200_h200_konfety-avk-tryufel.jpg",
-      "https://images.prom.ua/6192129388_w200_h200_konfety-avk-tryufel.jpg",
-      "https://images.prom.ua/6530815306_w200_h200_tsukerki-avk-tryufel.jpg",
-      "https://images.prom.ua/6530821941_w200_h200_tsukerki-tryufel-biskvit.jpg",
-      "https://images.prom.ua/5835822916_w200_h200_shokoladnye-konfety-avk.jpg",
-      "https://images.prom.ua/5835831400_w200_h200_shokoladnye-konfety-avk.jpg"
-    ]
-  },
-  {
-    "article": "141154",
-    "name": "Цукерки Трюфель молочний АВК кг",
-    "images": [
-      "https://images.prom.ua/3969796983_w200_h200_tsukerki-tryufel-molochnij.jpg",
-      "https://images.prom.ua/6192129388_w200_h200_konfety-avk-tryufel.jpg",
-      "https://images.prom.ua/6530815306_w200_h200_tsukerki-avk-tryufel.jpg",
-      "https://images.prom.ua/6192130445_w200_h200_konfety-avk-tryufel.jpg",
-      "https://images.prom.ua/6192130447_w200_h200_konfety-avk-tryufel.jpg",
-      "https://images.prom.ua/6192129390_w200_h200_konfety-avk-tryufel.jpg",
-      "https://images.prom.ua/6192128200_w200_h200_konfety-avk-shokoladnaya.jpg",
-      "https://images.prom.ua/6530818250_w200_h200_tsukerki-tryufel-originalnij.jpg",
-      "https://images.prom.ua/6530821941_w200_h200_tsukerki-tryufel-biskvit.jpg",
-      "https://images.prom.ua/6536168112_w200_h200_tsukerki-avk-39.jpg"
-    ]
-  },
-  {
-    "article": "151117",
-    "name": "Цукерки Труфальє АВК кг",
-    "images": [
-      "https://images.prom.ua/4168652032_w200_h200_tsukerki-avk-trufalye.jpg",
-      "https://images.prom.ua/6239427548_w200_h200_konfety-avk-trufale.jpg"
-    ]
-  },
-  {
-    "article": "161080",
-    "name": "Цукерки Троллі Фруктові черв'яки мармелад жувальний кг",
-    "images": [
-      "https://images.prom.ua/4434919810_w200_h200_trolli-fruktovye-zhevatelnye.jpg",
-      "https://images.prom.ua/6586724057_w200_h200_zhevatelnye-konfety-marmelad.jpg",
-      "https://images.prom.ua/6551849269_w200_h200_zhelejnye-konfety-trolli.jpg",
-      "https://images.prom.ua/6622368775_w200_h200_konfety-zhelejnye-zhevatelnye.jpg",
-      "https://images.prom.ua/6583243036_w200_h200_zhevatelnye-konfety-marmelad.jpg",
-      "https://images.prom.ua/6586712940_w200_h200_zhevatelnye-konfety-marmelad.jpg",
-      "https://images.prom.ua/6446304425_w200_h200_marmelad-zhevatelnyj-trolli.jpg",
-      "https://images.prom.ua/6583256831_w200_h200_zhevatelnye-konfety-marmelad.jpg",
-      "https://images.prom.ua/6586718260_w200_h200_zhevatelnye-konfety-marmelad.jpg",
-      "https://images.prom.ua/5113326476_w200_h200_vidal-fruktovye-zhevatelnye.jpg"
-    ]
-  },
-  {
-    "article": "171043",
-    "name": "Цукерки Троллі Розвага для всіх мармелад жувальний кг",
-    "images": [
-      "https://images.prom.ua/6583243036_w200_h200_zhevatelnye-konfety-marmelad.jpg",
-      "https://images.prom.ua/6586724057_w200_h200_zhevatelnye-konfety-marmelad.jpg",
-      "https://images.prom.ua/6586712940_w200_h200_zhevatelnye-konfety-marmelad.jpg",
-      "https://images.prom.ua/6480823942_w200_h200_trolli-fruktovye-zhevatelnye.jpg",
-      "https://images.prom.ua/6583256831_w200_h200_zhevatelnye-konfety-marmelad.jpg",
-      "https://images.prom.ua/6586718260_w200_h200_zhevatelnye-konfety-marmelad.jpg",
-      "https://images.prom.ua/2777362305_w200_h200_zhelejnye-konfety-marmelad.jpg",
-      "https://images.prom.ua/3922427087_w200_h200_trolli-fruktovye-zhevatelnye.jpg",
-      "https://images.prom.ua/3094117119_w200_h200_zhelejnye-konfety-marmelad.jpg",
-      "https://images.prom.ua/6552140441_w200_h200_zhevatelnyj-marmelad-trolli.jpg"
-    ]
-  },
-  {
-    "article": "181006",
-    "name": "Цукерки Троллі Корови мармелад жувальний кг",
-    "images": [
-      "https://images.prom.ua/4434919810_w200_h200_trolli-fruktovye-zhevatelnye.jpg",
-      "https://images.prom.ua/6583243036_w200_h200_zhevatelnye-konfety-marmelad.jpg",
-      "https://images.prom.ua/6586724057_w200_h200_zhevatelnye-konfety-marmelad.jpg",
-      "https://images.prom.ua/6586712940_w200_h200_zhevatelnye-konfety-marmelad.jpg",
-      "https://images.prom.ua/6583256831_w200_h200_zhevatelnye-konfety-marmelad.jpg",
-      "https://images.prom.ua/6586718260_w200_h200_zhevatelnye-konfety-marmelad.jpg",
-      "https://images.prom.ua/2742396441_w200_h200_zhelejnye-konfety-marmelad.jpg",
-      "https://images.prom.ua/2777362305_w200_h200_zhelejnye-konfety-marmelad.jpg",
-      "https://images.prom.ua/2742400937_w200_h200_zhelejnye-konfety-marmelad.jpg",
-      "https://images.prom.ua/3094050673_w200_h200_zhelejnye-konfety-zhelejki.jpg"
-    ]
-  },
-  {
-    "article": "190969",
-    "name": "Цукерки Троллі Кислі світлячки мармелад жувальний кг",
-    "images": [
-      "https://images.prom.ua/3922427087_w200_h200_trolli-fruktovye-zhevatelnye.jpg",
-      "https://images.prom.ua/4434919810_w200_h200_trolli-fruktovye-zhevatelnye.jpg",
-      "https://images.prom.ua/6317559003_w200_h200_chervi-kislye-zhelejnye.jpg",
-      "https://images.prom.ua/2742396441_w200_h200_zhelejnye-konfety-marmelad.jpg",
-      "https://images.prom.ua/6583243036_w200_h200_zhevatelnye-konfety-marmelad.jpg",
-      "https://images.prom.ua/6586724057_w200_h200_zhevatelnye-konfety-marmelad.jpg",
-      "https://images.prom.ua/6586712940_w200_h200_zhevatelnye-konfety-marmelad.jpg",
-      "https://images.prom.ua/6583256831_w200_h200_zhevatelnye-konfety-marmelad.jpg",
-      "https://images.prom.ua/6586718260_w200_h200_zhevatelnye-konfety-marmelad.jpg",
-      "https://images.prom.ua/2742400937_w200_h200_zhelejnye-konfety-marmelad.jpg"
-    ]
-  },
-  {
-    "article": "200932",
-    "name": "Цукерки Троллі Змії мармелад жувальний кг",
-    "images": [
-      "https://images.prom.ua/6583256831_w200_h200_zhevatelnye-konfety-marmelad.jpg",
-      "https://images.prom.ua/6556024816_w200_h200_zhevatelnyj-marmelad-trolli.jpg",
-      "https://images.prom.ua/4434919810_w200_h200_trolli-fruktovye-zhevatelnye.jpg",
-      "https://images.prom.ua/5975478424_w200_h200_zmei-zhelejnye-konfety.jpg",
-      "https://images.prom.ua/6583243036_w200_h200_zhevatelnye-konfety-marmelad.jpg",
-      "https://images.prom.ua/6586724057_w200_h200_zhevatelnye-konfety-marmelad.jpg",
-      "https://images.prom.ua/6586712940_w200_h200_zhevatelnye-konfety-marmelad.jpg",
-      "https://images.prom.ua/6586718260_w200_h200_zhevatelnye-konfety-marmelad.jpg",
-      "https://images.prom.ua/2742396441_w200_h200_zhelejnye-konfety-marmelad.jpg",
-      "https://images.prom.ua/2777362305_w200_h200_zhelejnye-konfety-marmelad.jpg"
-    ]
-  },
-  {
-    "article": "210895",
-    "name": "Цукерки Тоффі з арахісом Престиж кг",
-    "images": [
-      "https://images.prom.ua/6434810145_w200_h200_tsukerki-glazurovani-vale.jpg",
-      "https://images.prom.ua/5168095776_w200_h200_konfety-tryufel-s.jpg",
-      "https://images.prom.ua/6628371091_w200_h200_tsukerki-roshen-candy.jpg",
-      "https://images.prom.ua/6631505148_w200_h200_konfety-praline-bilchen.jpg",
-      "https://images.prom.ua/4185093157_w200_h200_konfety-roshen-roshen.jpg",
-      "https://images.prom.ua/6628422093_w200_h200_tsukerki-roshen-roshen.jpg",
-      "https://images.prom.ua/6502300316_w200_h200_tsukerki-la-ran.jpg",
-      "https://images.prom.ua/6192119592_w200_h200_konfety-vafelnye-vafelnye.jpg",
-      "https://images.prom.ua/5890304692_w200_h200_tsukerki-asal-toffi.jpg",
-      "https://images.prom.ua/4633304277_w200_h200_konfety-candy-nut.jpg"
-    ]
-  },
-  {
-    "article": "220858",
-    "name": "Цукерки Тоффеліні з шоколадною начинкою Рошен кг",
-    "images": [
-      "https://images.prom.ua/3617337558_w200_h200_karamelnye-konfety-s.jpg",
-      "https://images.prom.ua/3624256012_w200_h200_shokoladnye-konfety-s.jpg",
-      "https://images.prom.ua/3471163178_w200_h200_shokoladnye-konfety-roshen.jpg",
-      "https://images.prom.ua/3472734074_w200_h200_shokoladnye-konfety-roshen.jpg",
-      "https://images.prom.ua/2856890529_w200_h200_shokoladnye-konfety-s.jpg",
-      "https://images.prom.ua/6242225888_w200_h200_konfety-shokoladnye-alkogolnye.jpg",
-      "https://images.prom.ua/6628418770_w200_h200_tsukerki-toffelini-z.jpg",
-      "https://images.prom.ua/2854589293_w200_h200_konfety-shokoladnoe-praline.jpg",
-      "https://images.prom.ua/6598730815_w200_h200_konfety-roshen-beri.jpg",
-      "https://images.prom.ua/5287531461_w200_h200_konfety-shokoladnye-toffelini.jpg"
-    ]
-  },
-  {
-    "article": "230821",
-    "name": "Цукерки Тортюфель Київ Шокобум кг",
-    "images": []
-  },
-  {
-    "article": "240784",
-    "name": "Цукерки Стефанія Конті кг",
-    "images": [
-      "https://images.prom.ua/6549794079_w200_h200_tsukerki-stefaniya-1kg.jpg",
-      "https://images.prom.ua/6402450799_w200_h200_konfety-konti-stefaniya.jpg",
-      "https://images.prom.ua/6489854540_w200_h200_tsukerki-konti-1kg.jpg",
-      "https://images.prom.ua/6356184603_w200_h200_konfety-konti-stefaniya.jpg",
-      "https://images.prom.ua/6402450800_w200_h200_konfety-konti-stefaniya.jpg",
-      "https://images.prom.ua/6356164393_w200_h200_konfety-konti-stefaniya.jpg"
-    ]
-  },
-  {
-    "article": "250747",
-    "name": "Цукерки Стакан молока Рошен кг",
-    "images": [
-      "https://images.prom.ua/4185106177_w200_h200_konfety-roshen-stakan.jpg",
-      "https://images.prom.ua/4443202868_w200_h200_konfety-roshen-stakan.jpg",
-      "https://images.prom.ua/4183204981_w200_h200_konfety-roshen-roshen.jpg",
-      "https://images.prom.ua/6145750865_w200_h200_konfety-roshen-stakan.jpg",
-      "https://images.prom.ua/6628402910_w200_h200_iris-roshen-roshen.jpg",
-      "https://images.prom.ua/6309645315_w200_h200_3-sht-tofi.jpg",
-      "https://images.prom.ua/5011668226_w200_h200_konfety-roshen-roshen.jpg",
-      "https://images.prom.ua/3023075768_w200_h200_konfety-vafelnye-glazirovannye.jpg"
-    ]
-  },
-  {
-    "article": "260710",
-    "name": "Цукерки Салекс Пломбір зі згущеним молоком кг",
-    "images": [
-      "https://images.prom.ua/6192130456_w200_h200_konfety-avk-larotini.jpg",
-      "https://images.prom.ua/6192118031_w200_h200_konfety-pomadnye-zabodajka.jpg",
-      "https://images.prom.ua/6380296227_w200_h200_konfety-piccolo-sguschennoe.jpg",
-      "https://images.prom.ua/4823658258_w200_h200_zefir-zi-zguschenim.jpg",
-      "https://images.prom.ua/6308830264_w200_h200_pechivo-mimi-2kg.jpg",
-      "https://images.prom.ua/6315125593_w200_h200_pechivo-mimi-095kg.jpg",
-      "https://images.prom.ua/4866733651_w200_h200_trostnik-zi-zguschenim.jpg",
-      "https://images.prom.ua/5508321461_w200_h200_trostnik-zolote-zerno.jpg",
-      "https://images.prom.ua/6260046587_w200_h200_tsukerka-barva-zi.jpg",
-      "https://images.prom.ua/4938036586_w200_h200_pechivo-gorishki-zi.jpg"
-    ]
-  },
-  {
-    "article": "270673",
-    "name": "Цукерки Салекс Пломбір з ароматом пломбіру кг",
-    "images": [
-      "https://images.prom.ua/3226616806_w200_h200_skrab-konfetki-dlya.jpg",
-      "https://images.prom.ua/5298427296_w200_h200_mafin-shokoladnij-z.jpg",
-      "https://images.prom.ua/5132614823_w200_h200_marshmellou-yizh-nashe.jpg",
-      "https://images.prom.ua/5926750370_w200_h200_shokoladnye-konfety-s.jpg",
-      "https://images.prom.ua/6472402031_w200_h200_kofejnyj-napitok-petrovskaya.jpg",
-      "https://images.prom.ua/6260046587_w200_h200_tsukerka-barva-zi.jpg",
-      "https://images.prom.ua/4639880330_w200_h200_marshmellou-s-aromatom.jpg",
-      "https://images.prom.ua/4668349878_w200_h200_zefir-marshmellou-yizh.jpg",
-      "https://images.prom.ua/4640035343_w200_h200_marshmellou-s-aromatom.jpg",
-      "https://images.prom.ua/5265130716_w200_h200_mafin-z-nachinkoyu.jpg"
-    ]
-  },
-  {
-    "article": "280636",
-    "name": "Цукерки Салекс Мілк'с вафельні з молочною начинкою кг",
-    "images": [
-      "https://images.prom.ua/6219064038_w200_h200_vafelnye-konfety-v.jpg"
-    ]
-  },
-  {
-    "article": "290599",
-    "name": "Цукерки Салекс Гулівер вафельні кг",
-    "images": [
-      "https://images.prom.ua/2739860769_w200_h200_tsukerka-avk-shokoladno-vafelna.jpg",
-      "https://images.prom.ua/6454360230_w200_h200_tsukerki-avk-guliver.jpg",
-      "https://images.prom.ua/6407377320_w200_h200_tsukerki-vafelni-the.jpg",
-      "https://images.prom.ua/3162033339_w200_h200_tsukerka-shokoladno-vafelna-gulivernizhnij.jpg",
-      "https://images.prom.ua/6435732432_w200_h200_vafelnye-konfety-gulliver.jpg",
-      "https://images.prom.ua/4312861477_w200_h200_tsukerki-vafelni-guliver.jpg",
-      "https://images.prom.ua/6263590070_w200_h200_konfety-vafelnye-saleks.jpg",
-      "https://images.prom.ua/5555189755_w200_h200_konfety-avk-guliver.jpg",
-      "https://images.prom.ua/684801223_w200_h200_konfety-guliver-ot.jpg",
-      "https://images.prom.ua/2325245037_w200_h200_konfety-guliver-25.jpg"
-    ]
-  },
-  {
-    "article": "300562",
-    "name": "Цукерки Салекс Галаретта з ароматом вишні кг",
-    "images": [
-      "https://images.prom.ua/5880297489_w200_h200_visk-opoliskuvach-dry-wax.jpg",
-      "https://images.prom.ua/5508123634_w200_h200_pryanik-mriya-kobelyaki-26kg.jpg",
-      "https://images.prom.ua/2856890529_w200_h200_shokoladnye-konfety-s.jpg",
-      "https://images.prom.ua/5880297489_w200_h200_visk-opoliskuvach-dry-wax.jpg",
-      "https://images.prom.ua/5878573189_w200_h200_visk-opoliskuvach-dry-wax.jpg",
-      "https://images.prom.ua/5266161456_w200_h200_chaj-chernyj-s.jpg",
-      "https://images.prom.ua/5276416799_w200_h200_chaj-zelenyj-s.jpg",
-      "https://images.prom.ua/2856890529_w200_h200_konfety-vishnya-v.jpg",
-      "https://images.prom.ua/2824021416_w200_h200_opilki-drevesnye-s.jpg",
-      "https://images.prom.ua/6192118054_w200_h200_konfety-pomadnye-verzhet.jpg"
-    ]
-  },
-  {
-    "article": "310525",
-    "name": "Цукерки Салекс Галаретта з ароматом апельсину кг",
-    "images": [
-      "https://images.prom.ua/6549737679_w200_h200_tsukerki-balu-koralik.jpg",
-      "https://images.prom.ua/5983043305_w200_h200_tsukerki-asal-brauni.jpg",
-      "https://images.prom.ua/3986527108_w200_h200_van-cat-orange.jpg",
-      "https://images.prom.ua/3986527108_w200_h200_van-cat-orange.jpg",
-      "https://images.prom.ua/6192118054_w200_h200_konfety-pomadnye-verzhet.jpg",
-      "https://images.prom.ua/5268050861_w200_h200_chaj-chernyj-s.jpg",
-      "https://images.prom.ua/5268333725_w200_h200_chaj-chernyj-s.jpg",
-      "https://images.prom.ua/5428706891_w200_h200_konfety-s-apelsinom.jpg",
-      "https://images.prom.ua/6422145648_w200_h200_zhidkoe-mylo-dlya.jpg",
-      "https://images.prom.ua/5287823942_w200_h200_fruktovyj-chaj-na.jpg"
-    ]
-  },
-  {
-    "article": "320488",
-    "name": "Цукерки Ромашка Рошен кг",
-    "images": [
-      "https://images.prom.ua/6420058629_w200_h200_tsukerki-romashka-roshen.jpg",
-      "https://images.prom.ua/6455081834_w200_h200_konfety-romashka-roshen.jpg",
-      "https://images.prom.ua/6497121588_w200_h200_konfety-romashka-roshen.jpg",
-      "https://images.prom.ua/4597006156_w200_h200_konfety-roshen-romashka.jpg",
-      "https://images.prom.ua/6400386144_w200_h200_tsukerki-roshen-romashka.jpg",
-      "https://images.prom.ua/5288398626_w200_h200_konfety-shokoladnye-romashka.jpg",
-      "https://images.prom.ua/5297264649_w200_h200_konfety-shokoladnye-romashka.jpg",
-      "https://images.prom.ua/6518249857_w200_h200_konfety-roshen-romashka.jpg",
-      "https://images.prom.ua/6497121588_w200_h200_konfety-romashka-roshen.jpg",
-      "https://images.prom.ua/5268951084_w200_h200_tsukerki-romashka-vkf.jpg"
-    ]
-  },
-  {
-    "article": "330451",
-    "name": "Цукерки Райський острів Суворов кг",
-    "images": [
-      "https://images.prom.ua/4848965450_w200_h200_konfety-rajskij-ostrov.jpg"
-    ]
-  },
-  {
-    "article": "340414",
-    "name": "Цукерки Пташине молоко Мікс біле та крем-какао Жако кг",
-    "images": [
-      "https://images.prom.ua/6599137187_w200_h200_tsukerka-3-kg.jpg",
-      "https://images.prom.ua/5153010196_w200_h200_tsukerki-zhako-ptashine.jpg",
-      "https://images.prom.ua/4312862076_w200_h200_tsukerki-tm-zhako.jpg",
-      "https://images.prom.ua/3472263568_w200_h200_tsukerki-ptashine-moloko.jpg"
-    ]
-  },
-  {
-    "article": "350377",
-    "name": "Цукерки Пташине молоко Жако кг",
-    "images": [
-      "https://images.prom.ua/6530769966_w200_h200_tsukerki-ptashine-moloko.jpg",
-      "https://images.prom.ua/6530778146_w200_h200_tsukerki-ptashine-moloko.jpg",
-      "https://images.prom.ua/3472264160_w200_h200_tsukerki-ptashine-moloko.jpg",
-      "https://images.prom.ua/4008135934_w200_h200_konfety-zhako-ptiche.jpg",
-      "https://images.prom.ua/4446023230_w200_h200_konfety-ptiche-moloko.jpg",
-      "https://images.prom.ua/4010013236_w200_h200_konfety-zhako-ptiche.jpg",
-      "https://images.prom.ua/4831797663_w200_h200_tsukerka-27-kg.jpg",
-      "https://images.prom.ua/4446058059_w200_h200_konfety-ptiche-moloko.jpg",
-      "https://images.prom.ua/6640795704_w200_h200_konfety-ptiche-moloko.jpg",
-      "https://images.prom.ua/6413660901_w200_h200_tsukerki-lukas-ptashine.jpg"
-    ]
-  },
-  {
-    "article": "360340",
-    "name": "Цукерки Престиж Кісс Ірис з арахісом кг",
-    "images": [
-      "https://images.prom.ua/6434810145_w200_h200_tsukerki-glazurovani-vale.jpg",
-      "https://images.prom.ua/5168095776_w200_h200_konfety-tryufel-s.jpg",
-      "https://images.prom.ua/6628371091_w200_h200_tsukerki-roshen-candy.jpg",
-      "https://images.prom.ua/6631505148_w200_h200_konfety-praline-bilchen.jpg",
-      "https://images.prom.ua/6502300316_w200_h200_tsukerki-la-ran.jpg",
-      "https://images.prom.ua/6628422093_w200_h200_tsukerki-roshen-roshen.jpg",
-      "https://images.prom.ua/4221032213_w200_h200_konfety-candy-nut.jpg",
-      "https://images.prom.ua/6192119592_w200_h200_konfety-vafelnye-vafelnye.jpg",
-      "https://images.prom.ua/4633304270_w200_h200_konfety-candy-nut.jpg",
-      "https://images.prom.ua/5944690848_w200_h200_shokoladnye-konfety-iz.jpg"
-    ]
-  },
-  {
-    "article": "370303",
-    "name": "Цукерки пралінові тришарове горіхове праліне Монблан Рошен кг",
-    "images": [
-      "https://images.prom.ua/6628372925_w200_h200_tsukerki-roshen-roshen.jpg",
-      "https://images.prom.ua/6375493080_w200_h200_tsukerki-monblan-1kg.jpg",
-      "https://images.prom.ua/4185349046_w200_h200_konfety-roshen-roshen.jpg",
-      "https://images.prom.ua/6375455673_w200_h200_tsukerki-monblan-1kg.jpg",
-      "https://images.prom.ua/6375422742_w200_h200_tsukerki-monblan-1kg.jpg",
-      "https://images.prom.ua/4611641952_w200_h200_konfety-shokoladnye-monblan.jpg",
-      "https://images.prom.ua/5297264654_w200_h200_konfety-shokoladnye-monblan.jpg",
-      "https://images.prom.ua/5288420938_w200_h200_konfety-shokoladnye-monblan.jpg"
-    ]
-  },
-  {
-    "article": "380266",
-    "name": "Цукерки Праліне-Натс Престиж кг",
-    "images": []
-  },
-  {
-    "article": "390229",
-    "name": "Цукерки Пломбіріні Суворов кг",
-    "images": [
-      "https://images.prom.ua/4848980618_w200_h200_konfety-plombirini-abrikosovaya.jpg",
-      "https://images.prom.ua/4848983360_w200_h200_konfety-plombirini-vanilnaya.jpg",
-      "https://images.prom.ua/4848985193_w200_h200_konfety-plombirini-vishnevaya.jpg",
-      "https://images.prom.ua/5469817569_w200_h200_tsukerki-plombirini-plombirini.jpg",
-      "https://images.prom.ua/5469819432_w200_h200_tsukerki-plombirini-plombirini.jpg",
-      "https://images.prom.ua/4848982052_w200_h200_konfety-plombirini-klubnichnaya.jpg",
-      "https://images.prom.ua/4848979599_w200_h200_konfety-plombirini-25kg.jpg"
-    ]
-  },
-  {
-    "article": "400192",
-    "name": "Цукерки Пломбіріні з вишневим ароматом Суворов кг",
-    "images": [
-      "https://images.prom.ua/6192118054_w200_h200_konfety-pomadnye-verzhet.jpg",
-      "https://images.prom.ua/4676997859_w200_h200_konfety-vafelnyj-sharik.jpg",
-      "https://images.prom.ua/6473531146_w200_h200_vafelnye-konfety-leo.jpg",
-      "https://images.prom.ua/6595071693_w200_h200_konfety-vafelnye-tuzik.jpg",
-      "https://images.prom.ua/5266161456_w200_h200_chaj-chernyj-s.jpg",
-      "https://images.prom.ua/6219004515_w200_h200_vafelnye-konfety-v.jpg",
-      "https://images.prom.ua/6219061714_w200_h200_vafelnye-konfety-v.jpg",
-      "https://images.prom.ua/3282727579_w200_h200_tsukerki-vafelni-tm.jpg",
-      "https://images.prom.ua/3282726697_w200_h200_tsukerki-vafelni-tm.jpg",
-      "https://images.prom.ua/3282727246_w200_h200_tsukerki-vafelni-tm.jpg"
-    ]
-  },
-  {
-    "article": "410155",
-    "name": "Цукерки Пасхальне асорті кг",
-    "images": []
-  },
-  {
-    "article": "420118",
-    "name": "Цукерки Панда Конфітрейд кг",
-    "images": [
-      "https://images.prom.ua/2759861182_w200_h200_tsukerki-panda-konfitrejd.jpg",
-      "https://images.prom.ua/6586824616_w200_h200_konfety-drazhe-panda.jpg",
-      "https://images.prom.ua/3979580775_w200_h200_tsukerki-panda-konfitrejd.jpg",
-      "https://images.prom.ua/2759861182_w200_h200_nabor-konfet-panda.jpg"
-    ]
-  },
-  {
-    "article": "430081",
-    "name": "Цукерки Одамер Лукас кг",
-    "images": [
-      "https://images.prom.ua/5717844917_w200_h200_konfety-lukas-odamer.jpg"
-    ]
-  },
-  {
-    "article": "440044",
-    "name": "Цукерки Несквік кг",
-    "images": [
-      "https://images.prom.ua/6323072571_w200_h200_tsukerki-svitoch-neskvik.jpg",
-      "https://images.prom.ua/6400716084_w200_h200_tsukerki-svitoch-neskvik.jpg"
-    ]
-  },
-  {
-    "article": "450007",
-    "name": "Цукерки неглазуровані з желейними начинками Мінкі бінкі Рошен кг",
-    "images": [
-      "https://images.prom.ua/6628399827_w200_h200_iris-roshen-roshen.jpg",
-      "https://images.prom.ua/6309684080_w200_h200_tsukerki-crazy-bee.jpg",
-      "https://images.prom.ua/3765237248_w200_h200_konfety-zhelejnye-s.jpg"
-    ]
-  },
-  {
-    "article": "459970",
-    "name": "Цукерки Монблан подрібненим мигдалем Рошен кг",
-    "images": [
-      "https://images.prom.ua/3531417642_w200_h200_konfety-roshen-monblan.jpg",
-      "https://images.prom.ua/4443203003_w200_h200_konfety-roshen-roshen.jpg",
-      "https://images.prom.ua/4443205147_w200_h200_konfety-roshen-roshen.jpg",
-      "https://images.prom.ua/3531369798_w200_h200_shokoladnye-konfety-roshen.jpg",
-      "https://images.prom.ua/4185272496_w200_h200_konfety-roshen-roshen.jpg",
-      "https://images.prom.ua/4443203004_w200_h200_konfety-roshen-roshen.jpg",
-      "https://images.prom.ua/6628372925_w200_h200_tsukerki-roshen-roshen.jpg",
-      "https://images.prom.ua/6628371743_w200_h200_tsukerki-roshen-roshen.jpg",
-      "https://images.prom.ua/6392638574_w200_h200_konfety-roshen-roshen.jpg",
-      "https://images.prom.ua/4443200056_w200_h200_konfety-roshen-roshen.jpg"
-    ]
-  },
-  {
-    "article": "469933",
-    "name": "Цукерки Монблан з шоколадом та сезамом Рошен кг",
-    "images": [
-      "https://images.prom.ua/4185272496_w200_h200_konfety-roshen-roshen.jpg",
-      "https://images.prom.ua/3470758830_w200_h200_shokoladnye-konfety-roshen.jpg",
-      "https://images.prom.ua/6628371743_w200_h200_tsukerki-roshen-roshen.jpg",
-      "https://images.prom.ua/6376865817_w200_h200_tsukerki-monblan-sezam.jpg",
-      "https://images.prom.ua/6628372925_w200_h200_tsukerki-roshen-roshen.jpg",
-      "https://images.prom.ua/5288445184_w200_h200_konfety-shokoladnye-monblan.jpg",
-      "https://images.prom.ua/6375455673_w200_h200_tsukerki-monblan-1kg.jpg",
-      "https://images.prom.ua/5297266292_w200_h200_konfety-shokoladnye-monblan.jpg",
-      "https://images.prom.ua/6628373739_w200_h200_tsukerki-roshen-roshen.jpg",
-      "https://images.prom.ua/4185252120_w200_h200_konfety-roshen-roshen.jpg"
-    ]
-  },
-  {
-    "article": "479896",
-    "name": "Цукерки Монблан з мигдалем та кокосовим кремом Рошен кг",
-    "images": [
-      "https://images.prom.ua/6192185210_w200_h200_konfety-avk-korolevskij.jpg",
-      "https://images.prom.ua/6261855693_w200_h200_shokoladnye-konfety-roshen.jpg",
-      "https://images.prom.ua/6628384716_w200_h200_tsukerki-monblan-z.jpg",
-      "https://images.prom.ua/4611652262_w200_h200_konfety-shokoladnye-monblan.jpg",
-      "https://images.prom.ua/2405276166_w200_h200_konfety-vafelnye-franchesko.jpg",
-      "https://images.prom.ua/6628373739_w200_h200_tsukerki-roshen-roshen.jpg",
-      "https://images.prom.ua/6628372925_w200_h200_tsukerki-roshen-roshen.jpg",
-      "https://images.prom.ua/4368885557_w200_h200_konfety-roshen-roshen.jpg",
-      "https://images.prom.ua/6628384231_w200_h200_tsukerki-roshen-roshen.jpg",
-      "https://images.prom.ua/4185383212_w200_h200_konfety-roshen-roshen.jpg"
-    ]
-  },
-  {
-    "article": "489859",
-    "name": "Цукерки Монблан з карамелізованим мигдалем Рошен кг",
-    "images": [
-      "https://images.prom.ua/4443203004_w200_h200_konfety-roshen-roshen.jpg",
-      "https://images.prom.ua/4443205147_w200_h200_konfety-roshen-roshen.jpg",
-      "https://images.prom.ua/4185272496_w200_h200_konfety-roshen-roshen.jpg",
-      "https://images.prom.ua/3531417642_w200_h200_konfety-roshen-monblan.jpg",
-      "https://images.prom.ua/6628371743_w200_h200_tsukerki-roshen-roshen.jpg",
-      "https://images.prom.ua/4443203003_w200_h200_konfety-roshen-roshen.jpg",
-      "https://images.prom.ua/6375493080_w200_h200_tsukerki-monblan-1kg.jpg",
-      "https://images.prom.ua/4185383212_w200_h200_konfety-roshen-roshen.jpg",
-      "https://images.prom.ua/4611615274_w200_h200_konfety-shokoladnye-monblan.jpg",
-      "https://images.prom.ua/5288436957_w200_h200_konfety-shokoladnye-monblan.jpg"
-    ]
-  },
-  {
-    "article": "499822",
-    "name": "Цукерки Міні Твікс кг",
-    "images": [
-      "https://images.prom.ua/3541029111_w200_h200_shokoladnye-mini-konfety.jpg"
-    ]
-  },
-  {
-    "article": "509785",
-    "name": "Цукерки Міні Снікерс кг",
-    "images": [
-      "https://images.prom.ua/6324072652_w200_h200_tsukerki-snikers-mini.jpg"
-    ]
-  },
-  {
-    "article": "519748",
-    "name": "Цукерки Міні Мілкі Вей кг",
-    "images": [
-      "https://images.prom.ua/3985136684_w200_h200_konfety-milki-vej.jpg",
-      "https://images.prom.ua/5015255561_w200_h200_tsukerka-milki-vej.jpg"
-    ]
-  },
-  {
-    "article": "529711",
-    "name": "Цукерки Міні Марс кг",
-    "images": [
-      "https://images.prom.ua/4478814074_w200_h200_shokoladnye-konfety-mars.jpg",
-      "https://images.prom.ua/1681332493_w200_h200_konfety-baunti-bounty.jpg"
-    ]
-  },
-  {
-    "article": "539674",
-    "name": "Цукерки міні Лайон кг",
-    "images": [
-      "https://images.prom.ua/6509511386_w200_h200_tsukerki-lion-mini.jpg"
-    ]
-  },
-  {
-    "article": "549637",
-    "name": "Цукерки Мигдаль в шоколаді Домінік кг",
-    "images": [
-      "https://images.prom.ua/6566732753_w200_h200_konfety-mindal-v.jpg",
-      "https://images.prom.ua/6566749993_w200_h200_konfety-funduk-v.jpg",
-      "https://images.prom.ua/5526885257_w200_h200_tsukerki-wawel-pastilka.jpg",
-      "https://images.prom.ua/6500320318_w200_h200_konfety-balu-mindal.jpg",
-      "https://images.prom.ua/4935492235_w200_h200_tsukerki-amanti-asorti.jpg",
-      "https://images.prom.ua/4209950781_w200_h200_konfety-zolotoj-mindal.jpg",
-      "https://images.prom.ua/6439706684_w200_h200_tsukerki-halva-v.jpg",
-      "https://images.prom.ua/5065932324_w200_h200_tsukerki-amanti-shidnij.jpg",
-      "https://images.prom.ua/5551824652_w200_h200_tsukerki-suhofrukti-v.jpg",
-      "https://images.prom.ua/5765271675_w200_h200_tsukerki-v-bilomu.jpg"
-    ]
-  },
-  {
-    "article": "559600",
-    "name": "Цукерки мармелад жувальний Тарантул Троллі кг",
-    "images": [
-      "https://images.prom.ua/6583243036_w200_h200_zhevatelnye-konfety-marmelad.jpg",
-      "https://images.prom.ua/4510823775_w200_h200_trolli-fruktovye-zhevatelnye.jpg",
-      "https://images.prom.ua/6552145234_w200_h200_zhevatelnyj-marmelad-trolli.jpg",
-      "https://images.prom.ua/5975613522_w200_h200_tarantul-zhelejnye-konfety.jpg",
-      "https://images.prom.ua/5975478424_w200_h200_zmei-zhelejnye-konfety.jpg",
-      "https://images.prom.ua/4434919810_w200_h200_trolli-fruktovye-zhevatelnye.jpg",
-      "https://images.prom.ua/2742396441_w200_h200_zhelejnye-konfety-marmelad.jpg",
-      "https://images.prom.ua/5975628879_w200_h200_chervi-zhelejnye-konfety.jpg",
-      "https://images.prom.ua/5975655753_w200_h200_myshi-zhelejnye-konfety.jpg",
-      "https://images.prom.ua/6243274844_w200_h200_zhelejni-tsukerki-trolli.jpg"
-    ]
-  },
-  {
-    "article": "569563",
-    "name": "Цукерки мармелад жувальний Морська зірка Троллі кг",
-    "images": [
-      "https://images.prom.ua/6586712940_w200_h200_zhevatelnye-konfety-marmelad.jpg",
-      "https://images.prom.ua/6552146840_w200_h200_zhevatelnyj-marmelad-trolli.jpg",
-      "https://images.prom.ua/4434919810_w200_h200_trolli-fruktovye-zhevatelnye.jpg",
-      "https://images.prom.ua/6583243036_w200_h200_zhevatelnye-konfety-marmelad.jpg",
-      "https://images.prom.ua/6586724057_w200_h200_zhevatelnye-konfety-marmelad.jpg",
-      "https://images.prom.ua/6480823942_w200_h200_trolli-fruktovye-zhevatelnye.jpg",
-      "https://images.prom.ua/4242751737_w200_h200_konfety-marmelad-trolli.jpg",
-      "https://images.prom.ua/6583256831_w200_h200_zhevatelnye-konfety-marmelad.jpg",
-      "https://images.prom.ua/6586718260_w200_h200_zhevatelnye-konfety-marmelad.jpg",
-      "https://images.prom.ua/2742396441_w200_h200_zhelejnye-konfety-marmelad.jpg"
-    ]
-  },
-  {
-    "article": "579526",
-    "name": "Цукерки мармелад жувальний Миша Троллі кг",
-    "images": [
-      "https://images.prom.ua/6586889045_w200_h200_zhevatelnye-konfety-marmelad.jpg",
-      "https://images.prom.ua/4434919810_w200_h200_trolli-fruktovye-zhevatelnye.jpg",
-      "https://images.prom.ua/6552134702_w200_h200_zhevatelnyj-marmelad-trolli.jpg",
-      "https://images.prom.ua/6583243036_w200_h200_zhevatelnye-konfety-marmelad.jpg",
-      "https://images.prom.ua/6586724057_w200_h200_zhevatelnye-konfety-marmelad.jpg",
-      "https://images.prom.ua/6586712940_w200_h200_zhevatelnye-konfety-marmelad.jpg",
-      "https://images.prom.ua/6480823942_w200_h200_trolli-fruktovye-zhevatelnye.jpg",
-      "https://images.prom.ua/6583256831_w200_h200_zhevatelnye-konfety-marmelad.jpg",
-      "https://images.prom.ua/2742396441_w200_h200_zhelejnye-konfety-marmelad.jpg",
-      "https://images.prom.ua/2777362305_w200_h200_zhelejnye-konfety-marmelad.jpg"
-    ]
-  },
-  {
-    "article": "589489",
-    "name": "Цукерки мармелад жувальний Миша Елван кг",
-    "images": [
-      "https://images.prom.ua/6586889045_w200_h200_zhevatelnye-konfety-marmelad.jpg",
-      "https://images.prom.ua/2742396441_w200_h200_zhelejnye-konfety-marmelad.jpg",
-      "https://images.prom.ua/6583243036_w200_h200_zhevatelnye-konfety-marmelad.jpg",
-      "https://images.prom.ua/6586724057_w200_h200_zhevatelnye-konfety-marmelad.jpg",
-      "https://images.prom.ua/6586712940_w200_h200_zhevatelnye-konfety-marmelad.jpg",
-      "https://images.prom.ua/2777362305_w200_h200_zhelejnye-konfety-marmelad.jpg",
-      "https://images.prom.ua/6552134702_w200_h200_zhevatelnyj-marmelad-trolli.jpg",
-      "https://images.prom.ua/6583256831_w200_h200_zhevatelnye-konfety-marmelad.jpg",
-      "https://images.prom.ua/2742400937_w200_h200_zhelejnye-konfety-marmelad.jpg",
-      "https://images.prom.ua/6552145234_w200_h200_zhevatelnyj-marmelad-trolli.jpg"
-    ]
-  },
-  {
-    "article": "599452",
-    "name": "Цукерки мармелад жувальний Крокодил Елван кг",
-    "images": [
-      "https://images.prom.ua/3967987477_w200_h200_fini-fruktovye-zhevatelnye.jpg",
-      "https://images.prom.ua/5113326476_w200_h200_vidal-fruktovye-zhevatelnye.jpg",
-      "https://images.prom.ua/3927825763_w200_h200_fini-fruktovye-zhevatelnye.jpg",
-      "https://images.prom.ua/3947834520_w200_h200_fini-fruktovye-zhevatelnye.jpg",
-      "https://images.prom.ua/2742396441_w200_h200_zhelejnye-konfety-marmelad.jpg",
-      "https://images.prom.ua/4434919810_w200_h200_trolli-fruktovye-zhevatelnye.jpg",
-      "https://images.prom.ua/2742400937_w200_h200_zhelejnye-konfety-marmelad.jpg",
-      "https://images.prom.ua/6583243036_w200_h200_zhevatelnye-konfety-marmelad.jpg",
-      "https://images.prom.ua/6586724057_w200_h200_zhevatelnye-konfety-marmelad.jpg",
-      "https://images.prom.ua/6586712940_w200_h200_zhevatelnye-konfety-marmelad.jpg"
-    ]
-  },
-  {
-    "article": "609415",
-    "name": "Цукерки мармелад жувальний Кобра Елван кг",
-    "images": [
-      "https://images.prom.ua/5113326476_w200_h200_vidal-fruktovye-zhevatelnye.jpg",
-      "https://images.prom.ua/3927825763_w200_h200_fini-fruktovye-zhevatelnye.jpg",
-      "https://images.prom.ua/3947834520_w200_h200_fini-fruktovye-zhevatelnye.jpg",
-      "https://images.prom.ua/3967987477_w200_h200_fini-fruktovye-zhevatelnye.jpg",
-      "https://images.prom.ua/2742396441_w200_h200_zhelejnye-konfety-marmelad.jpg",
-      "https://images.prom.ua/4434919810_w200_h200_trolli-fruktovye-zhevatelnye.jpg",
-      "https://images.prom.ua/2742400937_w200_h200_zhelejnye-konfety-marmelad.jpg",
-      "https://images.prom.ua/6583243036_w200_h200_zhevatelnye-konfety-marmelad.jpg",
-      "https://images.prom.ua/6586724057_w200_h200_zhevatelnye-konfety-marmelad.jpg",
-      "https://images.prom.ua/6586712940_w200_h200_zhevatelnye-konfety-marmelad.jpg"
-    ]
-  },
-  {
-    "article": "619378",
-    "name": "Цукерки мармелад жувальний кг",
-    "images": [
-      "https://images.prom.ua/5113326476_w200_h200_vidal-fruktovye-zhevatelnye.jpg",
-      "https://images.prom.ua/6583243036_w200_h200_zhevatelnye-konfety-marmelad.jpg",
-      "https://images.prom.ua/6586724057_w200_h200_zhevatelnye-konfety-marmelad.jpg",
-      "https://images.prom.ua/6586712940_w200_h200_zhevatelnye-konfety-marmelad.jpg",
-      "https://images.prom.ua/2777362305_w200_h200_zhelejnye-konfety-marmelad.jpg",
-      "https://images.prom.ua/6583256831_w200_h200_zhevatelnye-konfety-marmelad.jpg",
-      "https://images.prom.ua/6586718260_w200_h200_zhevatelnye-konfety-marmelad.jpg",
-      "https://images.prom.ua/6480823942_w200_h200_trolli-fruktovye-zhevatelnye.jpg",
-      "https://images.prom.ua/3094117119_w200_h200_zhelejnye-konfety-marmelad.jpg",
-      "https://images.prom.ua/5810888110_w200_h200_tsukerki-zhelejni-zhuvi.jpg"
-    ]
-  },
-  {
-    "article": "629341",
-    "name": "Цукерки мармелад жувальний Касатка Троллі кг",
-    "images": [
-      "https://images.prom.ua/4434919810_w200_h200_trolli-fruktovye-zhevatelnye.jpg",
-      "https://images.prom.ua/6583243036_w200_h200_zhevatelnye-konfety-marmelad.jpg",
-      "https://images.prom.ua/6586724057_w200_h200_zhevatelnye-konfety-marmelad.jpg",
-      "https://images.prom.ua/6586712940_w200_h200_zhevatelnye-konfety-marmelad.jpg",
-      "https://images.prom.ua/6480823942_w200_h200_trolli-fruktovye-zhevatelnye.jpg",
-      "https://images.prom.ua/6583256831_w200_h200_zhevatelnye-konfety-marmelad.jpg",
-      "https://images.prom.ua/6586718260_w200_h200_zhevatelnye-konfety-marmelad.jpg",
-      "https://images.prom.ua/2742396441_w200_h200_zhelejnye-konfety-marmelad.jpg",
-      "https://images.prom.ua/2777362305_w200_h200_zhelejnye-konfety-marmelad.jpg",
-      "https://images.prom.ua/2742400937_w200_h200_zhelejnye-konfety-marmelad.jpg"
-    ]
-  },
-  {
-    "article": "639304",
-    "name": "Цукерки мармелад жувальний Дракула Троллі кг",
-    "images": [
-      "https://images.prom.ua/6480823942_w200_h200_trolli-fruktovye-zhevatelnye.jpg",
-      "https://images.prom.ua/3094117119_w200_h200_zhelejnye-konfety-marmelad.jpg",
-      "https://images.prom.ua/4013651292_w200_h200_konfety-zhelejnye-zhevatelnye.jpg",
-      "https://images.prom.ua/4434919810_w200_h200_trolli-fruktovye-zhevatelnye.jpg",
-      "https://images.prom.ua/2742396441_w200_h200_zhelejnye-konfety-marmelad.jpg",
-      "https://images.prom.ua/6583243036_w200_h200_zhevatelnye-konfety-marmelad.jpg",
-      "https://images.prom.ua/6586724057_w200_h200_zhevatelnye-konfety-marmelad.jpg",
-      "https://images.prom.ua/6586712940_w200_h200_zhevatelnye-konfety-marmelad.jpg",
-      "https://images.prom.ua/2742400937_w200_h200_zhelejnye-konfety-marmelad.jpg",
-      "https://images.prom.ua/6583256831_w200_h200_zhevatelnye-konfety-marmelad.jpg"
-    ]
-  },
-  {
-    "article": "649267",
-    "name": "Цукерки мармелад жувальний Ведмедики Троллі кг",
-    "images": [
-      "https://images.prom.ua/4434919810_w200_h200_trolli-fruktovye-zhevatelnye.jpg",
-      "https://images.prom.ua/6583243036_w200_h200_zhevatelnye-konfety-marmelad.jpg",
-      "https://images.prom.ua/6586724057_w200_h200_zhevatelnye-konfety-marmelad.jpg",
-      "https://images.prom.ua/6586712940_w200_h200_zhevatelnye-konfety-marmelad.jpg",
-      "https://images.prom.ua/6480823942_w200_h200_trolli-fruktovye-zhevatelnye.jpg",
-      "https://images.prom.ua/6583256831_w200_h200_zhevatelnye-konfety-marmelad.jpg",
-      "https://images.prom.ua/6586718260_w200_h200_zhevatelnye-konfety-marmelad.jpg",
-      "https://images.prom.ua/2742396441_w200_h200_zhelejnye-konfety-marmelad.jpg",
-      "https://images.prom.ua/2777362305_w200_h200_zhelejnye-konfety-marmelad.jpg",
-      "https://images.prom.ua/2742400937_w200_h200_zhelejnye-konfety-marmelad.jpg"
-    ]
-  },
-  {
-    "article": "659230",
-    "name": "Цукерки мармелад жувальний Банани Троллі кг",
-    "images": [
-      "https://images.prom.ua/4434919810_w200_h200_trolli-fruktovye-zhevatelnye.jpg",
-      "https://images.prom.ua/6583243036_w200_h200_zhevatelnye-konfety-marmelad.jpg",
-      "https://images.prom.ua/6586724057_w200_h200_zhevatelnye-konfety-marmelad.jpg",
-      "https://images.prom.ua/6586712940_w200_h200_zhevatelnye-konfety-marmelad.jpg",
-      "https://images.prom.ua/6480823942_w200_h200_trolli-fruktovye-zhevatelnye.jpg",
-      "https://images.prom.ua/6583256831_w200_h200_zhevatelnye-konfety-marmelad.jpg",
-      "https://images.prom.ua/6586718260_w200_h200_zhevatelnye-konfety-marmelad.jpg",
-      "https://images.prom.ua/2742396441_w200_h200_zhelejnye-konfety-marmelad.jpg",
-      "https://images.prom.ua/2777362305_w200_h200_zhelejnye-konfety-marmelad.jpg",
-      "https://images.prom.ua/2742400937_w200_h200_zhelejnye-konfety-marmelad.jpg"
-    ]
-  },
-  {
-    "article": "669193",
-    "name": "Цукерки Лукас Мега Шарзан кг",
-    "images": [
-      "https://images.prom.ua/5718320186_w200_h200_konfety-lukas-sharzan.jpg",
-      "https://images.prom.ua/6463406778_w200_h200_konfety-glazirovannye-mega.jpg",
-      "https://images.prom.ua/3470556751_w200_h200_konfety-sharzan-3.jpg"
-    ]
-  },
-  {
-    "article": "679156",
-    "name": "Цукерки Лукас Лакі злакі зі смаком полуниці кг",
-    "images": [
-      "https://images.prom.ua/6555876546_w200_h200_konfety-grilyazhnye-bifesti.jpg",
-      "https://images.prom.ua/6562814441_w200_h200_konfety-grilyazhnye-bifesti.jpg",
-      "https://images.prom.ua/6610490081_w200_h200_zhelejnye-konfety-so.jpg",
-      "https://images.prom.ua/6562876977_w200_h200_konfety-melodiplum-so.jpg",
-      "https://images.prom.ua/6563004812_w200_h200_konfety-marmilike-so.jpg",
-      "https://images.prom.ua/6562827269_w200_h200_konfety-grilyazhnye-bifesti.jpg",
-      "https://images.prom.ua/5304437451_w200_h200_kruassanchik-s-napolnitelem.jpg",
-      "https://images.prom.ua/4840703818_w200_h200_tsukerki-plombirini-zi.jpg",
-      "https://images.prom.ua/4840703818_w200_h200_tsukerki-plombirini-zi.jpg",
-      "https://images.prom.ua/4330806118_w200_h200_tsukerki-lukas-arkadiya.jpg"
-    ]
-  },
-  {
-    "article": "689119",
-    "name": "Цукерки Лукабон Лукас кг",
-    "images": []
-  },
-  {
-    "article": "699082",
-    "name": "Цукерки Ліщина Рошен кг",
-    "images": [
-      "https://images.prom.ua/6628370461_w200_h200_tsukerki-shokoladni-lischina.jpg",
-      "https://images.prom.ua/6363444022_w200_h200_tsukerki-lischina-roshen.jpg",
-      "https://images.prom.ua/4183471445_w200_h200_konfety-roshen-roshen.jpg",
-      "https://images.prom.ua/6500333754_w200_h200_konfety-leschina-roshen.jpg",
-      "https://images.prom.ua/4596374141_w200_h200_konfety-glazirovannye-roshen.jpg",
-      "https://images.prom.ua/6400415362_w200_h200_tsukerki-shokoladni-lischina.jpg",
-      "https://images.prom.ua/5288391932_w200_h200_konfety-shokoladnye-leschina.jpg",
-      "https://images.prom.ua/5297264646_w200_h200_konfety-shokoladnye-leschina.jpg",
-      "https://images.prom.ua/5268967534_w200_h200_tsukerki-lischina-vkf.jpg",
-      "https://images.prom.ua/5112459396_w200_h200_tsukerki-glazurovani-roshen.jpg"
-    ]
-  },
-  {
-    "article": "709045",
-    "name": "Цукерки Лайон Вайт Рок кг",
-    "images": [
-      "https://images.prom.ua/6509511386_w200_h200_tsukerki-lion-mini.jpg",
-      "https://images.prom.ua/6456355282_w200_h200_tsukerki-svitoch-lajon.jpg",
-      "https://images.prom.ua/5251315635_w200_h200_tsukerki-lion-white.jpg",
-      "https://images.prom.ua/6509511386_w200_h200_tsukerki-lion-vajt.jpg"
-    ]
-  },
-  {
-    "article": "719008",
-    "name": "Цукерки Лагом чорнослив з волоським горіхом кг",
-    "images": [
-      "https://images.prom.ua/4935541493_w200_h200_tsukerki-amanti-chornosliv.jpg",
-      "https://images.prom.ua/6545620830_w200_h200_chernosliv-v-shokolade.jpg",
-      "https://images.prom.ua/6257197611_w200_h200_tsukerka-chornosliv-ta.jpg",
-      "https://images.prom.ua/4935540216_w200_h200_tsukerki-amanti-kuraga.jpg",
-      "https://images.prom.ua/6637639530_w200_h200_konfety-kuraga-s.jpg",
-      "https://images.prom.ua/6409612187_w200_h200_konfety-amanti-1.jpg",
-      "https://images.prom.ua/6257197611_w200_h200_tsukerka-chornosliv-ta.jpg",
-      "https://images.prom.ua/6323258132_w200_h200_tsukerka-zhajvir-like.jpg",
-      "https://images.prom.ua/6425890062_w200_h200_tsukerka-zhajvir-like.jpg",
-      "https://images.prom.ua/2751461662_w200_h200_konfety-chernosliv-s.jpg"
-    ]
-  },
-  {
-    "article": "728971",
-    "name": "Цукерки Лагом курага з волоським горіхом кг",
-    "images": [
-      "https://images.prom.ua/6637639530_w200_h200_konfety-kuraga-s.jpg",
-      "https://images.prom.ua/6495641780_w200_h200_tsukerki-kuraga-z.jpg",
-      "https://images.prom.ua/4935540216_w200_h200_tsukerki-amanti-kuraga.jpg",
-      "https://images.prom.ua/3374537424_w200_h200_kuraga-s-gretskim.jpg",
-      "https://images.prom.ua/4935541493_w200_h200_tsukerki-amanti-chornosliv.jpg",
-      "https://images.prom.ua/5159212036_w200_h200_konfety-amanti-kuraga.jpg",
-      "https://images.prom.ua/6323258132_w200_h200_tsukerka-zhajvir-like.jpg",
-      "https://images.prom.ua/6425890062_w200_h200_tsukerka-zhajvir-like.jpg",
-      "https://images.prom.ua/5266198218_w200_h200_konfety-kuraga-s.jpg",
-      "https://images.prom.ua/6257197611_w200_h200_tsukerka-chornosliv-ta.jpg"
-    ]
-  },
-  {
-    "article": "738934",
-    "name": "Цукерки Курага з горіхом Аметист плюс кг",
-    "images": [
-      "https://images.prom.ua/6257197611_w200_h200_tsukerka-chornosliv-ta.jpg",
-      "https://images.prom.ua/6257202318_w200_h200_tsukerka-kuraga-z.jpg",
-      "https://images.prom.ua/6257202318_w200_h200_tsukerka-kuraga-z.jpg",
-      "https://images.prom.ua/6257202318_w200_h200_tsukerka-kuraga-z.jpg",
-      "https://images.prom.ua/6257197611_w200_h200_tsukerka-chornosliv-ta.jpg",
-      "https://images.prom.ua/3916446184_w200_h200_tsukerki-kuraga-z.jpg",
-      "https://images.prom.ua/6495641780_w200_h200_tsukerki-kuraga-z.jpg",
-      "https://images.prom.ua/6637639530_w200_h200_konfety-kuraga-s.jpg",
-      "https://images.prom.ua/4935540216_w200_h200_tsukerki-amanti-kuraga.jpg",
-      "https://images.prom.ua/4525413662_w200_h200_tsukerki-finik-z.jpg"
-    ]
-  },
-  {
-    "article": "748897",
-    "name": "Цукерки Курага в шоколаді Аманті кг",
-    "images": [
-      "https://images.prom.ua/4935492235_w200_h200_tsukerki-amanti-asorti.jpg",
-      "https://images.prom.ua/4935540216_w200_h200_tsukerki-amanti-kuraga.jpg",
-      "https://images.prom.ua/5065932324_w200_h200_tsukerki-amanti-shidnij.jpg",
-      "https://images.prom.ua/4935541494_w200_h200_tsukerki-amanti-chornosliv.jpg",
-      "https://images.prom.ua/5551824652_w200_h200_tsukerki-suhofrukti-v.jpg",
-      "https://images.prom.ua/3374537424_w200_h200_kuraga-s-gretskim.jpg",
-      "https://images.prom.ua/5223075520_w200_h200_shokoladnye-konfety-amanti.jpg",
-      "https://images.prom.ua/6409610733_w200_h200_konfety-amanti-1.jpg",
-      "https://images.prom.ua/6499565670_w200_h200_shokoladni-tsukerki-amanti.jpg",
-      "https://images.prom.ua/5159212036_w200_h200_konfety-amanti-kuraga.jpg"
-    ]
-  },
-  {
-    "article": "758860",
-    "name": "Цукерки Крок з арахісовою пастою Рошен кг",
-    "images": [
-      "https://images.prom.ua/3466093427_w200_h200_konfety-roshen-krock.jpg",
-      "https://images.prom.ua/4183379828_w200_h200_konfety-roshen-roshen.jpg",
-      "https://images.prom.ua/3792598366_w200_h200_tsukerki-tom-z.jpg",
-      "https://images.prom.ua/6628413319_w200_h200_tsukerki-roshen-roshen.jpg",
-      "https://images.prom.ua/4199803404_w200_h200_tom-konfety-s.jpg",
-      "https://images.prom.ua/4423182996_w200_h200_tsukerki-tom-z.jpg",
-      "https://images.prom.ua/4093690752_w200_h200_shokoladni-tsukerki-reeses.jpg",
-      "https://images.prom.ua/6628371743_w200_h200_tsukerki-roshen-roshen.jpg",
-      "https://images.prom.ua/4633304277_w200_h200_konfety-candy-nut.jpg",
-      "https://images.prom.ua/4605085010_w200_h200_konfety-roshen-krock.jpg"
-    ]
-  },
-  {
-    "article": "768823",
-    "name": "Цукерки Крем-брюле Лукас кг",
-    "images": [
-      "https://images.prom.ua/6413732175_w200_h200_tsukerki-lukas-krem.jpg",
-      "https://images.prom.ua/6192117004_w200_h200_konfety-shokoladnye-nikol.jpg",
-      "https://images.prom.ua/6383650619_w200_h200_tsukerki-konti-1kg.jpg",
-      "https://images.prom.ua/3985231810_w200_h200_konfety-hbf-nikol.jpg",
-      "https://images.prom.ua/4981072368_w200_h200_konfet-nikol-krem-bryule.jpg",
-      "https://images.prom.ua/3856243105_w200_h200_belissimo-klassik-krem.jpg",
-      "https://images.prom.ua/1829827609_w200_h200_tsukerki-vafelnij-desert.jpg",
-      "https://images.prom.ua/6383970266_w200_h200_tsukerki-1kg-belissimo.jpg",
-      "https://images.prom.ua/4237977942_w200_h200_konfety-assorti-brauni.jpg",
-      "https://images.prom.ua/4312858996_w200_h200_tsukerki-lukas-krem-bryule.jpg"
-    ]
-  },
-  {
-    "article": "778786",
-    "name": "Цукерки Королівський Шарм з шоколадним кремом АВК кг",
-    "images": [
-      "https://images.prom.ua/6192128192_w200_h200_konfety-avk-korolevskij.jpg",
-      "https://images.prom.ua/5066923415_w200_h200_konfety-avk-sharm.jpg",
-      "https://images.prom.ua/3635430876_w200_h200_konfety-avk-korolevskij.jpg",
-      "https://images.prom.ua/6536102091_w200_h200_tsukerki-avk-korolivskij.jpg",
-      "https://images.prom.ua/4724305336_w200_h200_konfety-avk-korolevskij.jpg",
-      "https://images.prom.ua/6518830131_w200_h200_tsukerki-avk-korolivskij.jpg",
-      "https://images.prom.ua/6192112410_w200_h200_konfety-avk-korolevskij.jpg",
-      "https://images.prom.ua/6192185210_w200_h200_konfety-avk-korolevskij.jpg",
-      "https://images.prom.ua/6573494706_w200_h200_tsukerki-avk-kokos.jpg",
-      "https://images.prom.ua/6580013019_w200_h200_tsukerki-avk-korolivskij.jpg"
-    ]
-  },
-  {
-    "article": "788749",
-    "name": "Цукерки Королівський Шарм з горіховою начинкою АВК кг",
-    "images": [
-      "https://images.prom.ua/6192128191_w200_h200_konfety-avk-korolevskij.jpg",
-      "https://images.prom.ua/6192128188_w200_h200_konfety-avk-korolevskij.jpg",
-      "https://images.prom.ua/6192127437_w200_h200_konfety-avk-korolevskij.jpg",
-      "https://images.prom.ua/6192112410_w200_h200_konfety-avk-korolevskij.jpg",
-      "https://images.prom.ua/6611983945_w200_h200_konfety-avk-korolevskij.jpg",
-      "https://images.prom.ua/3886858852_w200_h200_shokoladnye-konfety-avk.jpg",
-      "https://images.prom.ua/3283866898_w200_h200_tsukerki-avk-korolivskij.jpg",
-      "https://images.prom.ua/6536102091_w200_h200_tsukerki-avk-korolivskij.jpg",
-      "https://images.prom.ua/3886963665_w200_h200_shokoladnye-konfety-avk.jpg",
-      "https://images.prom.ua/3283879923_w200_h200_tsukerki-avk-korolivskij.jpg"
-    ]
-  },
-  {
-    "article": "798712",
-    "name": "Цукерки Королівський Шарм з вершковою начинкою АВК кг",
-    "images": [
-      "https://images.prom.ua/6192127437_w200_h200_konfety-avk-korolevskij.jpg",
-      "https://images.prom.ua/6192128188_w200_h200_konfety-avk-korolevskij.jpg",
-      "https://images.prom.ua/6192128191_w200_h200_konfety-avk-korolevskij.jpg",
-      "https://images.prom.ua/6192112410_w200_h200_konfety-avk-korolevskij.jpg",
-      "https://images.prom.ua/6192131232_w200_h200_konfety-avk-korolevskij.jpg",
-      "https://images.prom.ua/3886858852_w200_h200_shokoladnye-konfety-avk.jpg",
-      "https://images.prom.ua/3283879923_w200_h200_tsukerki-avk-korolivskij.jpg",
-      "https://images.prom.ua/6536102091_w200_h200_tsukerki-avk-korolivskij.jpg",
-      "https://images.prom.ua/3886963665_w200_h200_shokoladnye-konfety-avk.jpg",
-      "https://images.prom.ua/6580013019_w200_h200_tsukerki-avk-korolivskij.jpg"
-    ]
-  },
-  {
-    "article": "808675",
-    "name": "Цукерки Корівка Рошен кг",
-    "images": [
-      "https://images.prom.ua/4006282739_w200_h200_konfety-roshen-roshen.jpg",
-      "https://images.prom.ua/6628402678_w200_h200_tsukerki-roshen-roshen.jpg",
-      "https://images.prom.ua/6395708254_w200_h200_tsukerki-korovka-1kg.jpg",
-      "https://images.prom.ua/5287606935_w200_h200_konfety-korovka-roshen.jpg",
-      "https://images.prom.ua/5297263189_w200_h200_konfety-korovka-roshen.jpg",
-      "https://images.prom.ua/6502260189_w200_h200_konfety-korovka-roshen.jpg",
-      "https://images.prom.ua/4597277947_w200_h200_konfety-roshen-roshen.jpg",
-      "https://images.prom.ua/6400402016_w200_h200_tsukerki-roshen-korivka.jpg",
-      "https://images.prom.ua/2714347945_w200_h200_konfety-roshen-korovka.jpg",
-      "https://images.prom.ua/2352908866_w200_h200_konfety-roshen-korovka.jpg"
-    ]
-  },
-  {
-    "article": "818638",
-    "name": "Цукерки Конті-мус смак капучино Конті кг",
-    "images": [
-      "https://images.prom.ua/6409194216_w200_h200_tsukerki-dzhek-shok.jpg",
-      "https://images.prom.ua/6527655223_w200_h200_konti-konti-mus-moloko.jpg",
-      "https://images.prom.ua/6383634670_w200_h200_tsukerki-konti-1kg.jpg",
-      "https://images.prom.ua/6497420756_w200_h200_tsukerki-konti-mousse.jpg",
-      "https://images.prom.ua/6439783216_w200_h200_tsukerki-zolota-liliya.jpg",
-      "https://images.prom.ua/6527586272_w200_h200_tsukerki-molochnij-tryufel.jpg",
-      "https://images.prom.ua/6635739592_w200_h200_konfety-konti-konti.jpg",
-      "https://images.prom.ua/6402450799_w200_h200_konfety-konti-stefaniya.jpg",
-      "https://images.prom.ua/6356487248_w200_h200_konfety-konti-konti.jpg",
-      "https://images.prom.ua/6402450804_w200_h200_konfety-konti-rachki.jpg"
-    ]
-  },
-  {
-    "article": "828601",
-    "name": "Цукерки Конті Му-му кг",
-    "images": [
-      "https://images.prom.ua/6541782084_w200_h200_tsukerki-avk-hto.jpg",
-      "https://images.prom.ua/6541792873_w200_h200_tsukerki-avk-hto.jpg",
-      "https://images.prom.ua/4264896344_w200_h200_karam-mu-mu-2kgyasch.jpg"
-    ]
-  },
-  {
-    "article": "838564",
-    "name": "Цукерки Конафетто бьянко Рошен кг",
-    "images": [
-      "https://images.prom.ua/6510890455_w200_h200_tsukerki-roshen-konafetto.jpg",
-      "https://images.prom.ua/4006246184_w200_h200_konfety-roshen-roshen.jpg",
-      "https://images.prom.ua/5112552629_w200_h200_tsukerki-glazurovani-roshen.jpg"
-    ]
-  },
-  {
-    "article": "848527",
-    "name": "Цукерки Коко Чоко Вайт Рошен кг",
-    "images": [
-      "https://images.prom.ua/6628385834_w200_h200_tsukerki-roshen-roshen.jpg",
-      "https://images.prom.ua/6364416799_w200_h200_tsukerki-ko-ko-roshen.jpg",
-      "https://images.prom.ua/4006242964_w200_h200_konfety-roshen-roshen.jpg",
-      "https://images.prom.ua/6376856177_w200_h200_tsukerki-shipuchka-roshen.jpg",
-      "https://images.prom.ua/6409190476_w200_h200_tsukerki-slivki-lenivki.jpg",
-      "https://images.prom.ua/4443200964_w200_h200_konfety-roshen-roshen.jpg",
-      "https://images.prom.ua/3458582091_w200_h200_shokoladnye-konfety-roshen.jpg",
-      "https://images.prom.ua/5276503704_w200_h200_konfety-shokoladnye-ko-ko.jpg",
-      "https://images.prom.ua/4141443847_w200_h200_zhelejnye-konfety-dzhelli.jpg",
-      "https://images.prom.ua/6375574424_w200_h200_tsukerki-kandy-nut.jpg"
-    ]
-  },
-  {
-    "article": "858490",
-    "name": "Цукерки Кенді Нат нуга карамель з арахісом Рошен кг",
-    "images": [
-      "https://images.prom.ua/4633304277_w200_h200_konfety-candy-nut.jpg",
-      "https://images.prom.ua/3458531667_w200_h200_shokoladnye-konfety-roshen.jpg",
-      "https://images.prom.ua/6628422093_w200_h200_tsukerki-roshen-roshen.jpg",
-      "https://images.prom.ua/4633304270_w200_h200_konfety-candy-nut.jpg",
-      "https://images.prom.ua/6628371091_w200_h200_tsukerki-roshen-candy.jpg",
-      "https://images.prom.ua/5276615420_w200_h200_konfety-shokoladnye-candy.jpg",
-      "https://images.prom.ua/6434810145_w200_h200_tsukerki-glazurovani-vale.jpg",
-      "https://images.prom.ua/5297260267_w200_h200_konfety-shokoladnye-candy.jpg",
-      "https://images.prom.ua/4605089687_w200_h200_konfety-roshen-candy.jpg",
-      "https://images.prom.ua/6506696293_w200_h200_konfety-candy-nut.jpg"
-    ]
-  },
-  {
-    "article": "868453",
-    "name": "Цукерки Кенді Нат м'яка карамель з арахісом Рошен кг",
-    "images": [
-      "https://images.prom.ua/4633304270_w200_h200_konfety-candy-nut.jpg",
-      "https://images.prom.ua/4633304277_w200_h200_konfety-candy-nut.jpg",
-      "https://images.prom.ua/6628371091_w200_h200_tsukerki-roshen-candy.jpg",
-      "https://images.prom.ua/6628422093_w200_h200_tsukerki-roshen-roshen.jpg",
-      "https://images.prom.ua/5276615420_w200_h200_konfety-shokoladnye-candy.jpg",
-      "https://images.prom.ua/5297260267_w200_h200_konfety-shokoladnye-candy.jpg",
-      "https://images.prom.ua/4605089687_w200_h200_konfety-roshen-candy.jpg",
-      "https://images.prom.ua/4605089879_w200_h200_konfety-candy-nut.jpg",
-      "https://images.prom.ua/6400428232_w200_h200_tsukerki-roshen-candy.jpg",
-      "https://images.prom.ua/5112609622_w200_h200_tsukerki-glazurovani-roshen.jpg"
-    ]
-  },
-  {
-    "article": "878416",
-    "name": "Цукерки Кафетка Лукас кг",
-    "images": []
-  },
-  {
-    "article": "888379",
-    "name": "Цукерки карамельні Вкуся-мікс слива-лимон-абрикос ХБФ кг",
-    "images": [
-      "https://images.prom.ua/6192115514_w200_h200_konfety-karamelnye-vkusya-miks.jpg",
-      "https://images.prom.ua/6192121052_w200_h200_konfety-karamelnye-vkusya-miks.jpg",
-      "https://images.prom.ua/5945023352_w200_h200_karamelnye-konfety-vkusya.jpg",
-      "https://images.prom.ua/6529985625_w200_h200_vkusya-miks-sliva-limon-abrikos-1kg.jpg",
-      "https://images.prom.ua/4161806524_w200_h200_konfety-karamelnye-vkusya.jpg",
-      "https://images.prom.ua/3636133753_w200_h200_konfety-karamelnye-vkusya.jpg"
-    ]
-  },
-  {
-    "article": "898342",
-    "name": "Цукерки Карамелькино Дюшес Рошен кг",
-    "images": [
-      "https://images.prom.ua/6628419984_w200_h200_karamel-karamelkino-dyushes.jpg",
-      "https://images.prom.ua/5273318789_w200_h200_karamel-karamelkino-dyushes.jpg",
-      "https://images.prom.ua/5297257256_w200_h200_karamel-karamelkino-dyushes.jpg",
-      "https://images.prom.ua/6382195372_w200_h200_tsukerki-dyushes-roshen.jpg",
-      "https://images.prom.ua/4005004047_w200_h200_konfety-roshen-roshen.jpg",
-      "https://images.prom.ua/4614516526_w200_h200_konfety-ledentsovye-roshen.jpg",
-      "https://images.prom.ua/4605073418_w200_h200_karamelnye-konfety-roshen.jpg",
-      "https://images.prom.ua/4611560241_w200_h200_konfety-karamel-dyushes.jpg",
-      "https://images.prom.ua/2352939590_w200_h200_konfety-roshen-dyushes.jpg"
-    ]
-  },
-  {
-    "article": "908305",
-    "name": "Цукерки Карамелькино Барбарис Рошен кг",
-    "images": [
-      "https://images.prom.ua/6628419514_w200_h200_karamel-karamelkino-barbaris.jpg",
-      "https://images.prom.ua/3457793606_w200_h200_karamelnye-konfety-karamelkino.jpg",
-      "https://images.prom.ua/5273312197_w200_h200_karamel-karamelkino-barbaris.jpg",
-      "https://images.prom.ua/5297257253_w200_h200_karamel-karamelkino-barbaris.jpg",
-      "https://images.prom.ua/4614516526_w200_h200_konfety-ledentsovye-roshen.jpg",
-      "https://images.prom.ua/4004988310_w200_h200_konfety-roshen-roshen.jpg",
-      "https://images.prom.ua/3856236773_w200_h200_barbaris-karamelkino-roshen.jpg",
-      "https://images.prom.ua/4611566619_w200_h200_konfety-karamel-barbaris.jpg",
-      "https://images.prom.ua/5729966549_w200_h200_karamel-karamelkinobarbaris-krkf.jpg",
-      "https://images.prom.ua/2355354530_w200_h200_konfety-ledentsovye-roshen.jpg"
-    ]
-  },
-  {
-    "article": "918268",
-    "name": "Цукерки Карамель Шипучка Рошен кг",
-    "images": [
-      "https://images.prom.ua/6508961121_w200_h200_konfety-roshen-karamel.jpg",
-      "https://images.prom.ua/6376856177_w200_h200_tsukerki-shipuchka-roshen.jpg",
-      "https://images.prom.ua/5963855086_w200_h200_karamel-shipuchka-roshen.jpg",
-      "https://images.prom.ua/6598730817_w200_h200_konfety-roshen-karamel.jpg",
-      "https://images.prom.ua/4633304270_w200_h200_konfety-candy-nut.jpg",
-      "https://images.prom.ua/6598730815_w200_h200_konfety-roshen-beri.jpg",
-      "https://images.prom.ua/5293024376_w200_h200_karamel-shipuchka-roshen.jpg",
-      "https://images.prom.ua/5297266294_w200_h200_karamel-shipuchka-roshen.jpg",
-      "https://images.prom.ua/4633304277_w200_h200_konfety-candy-nut.jpg",
-      "https://images.prom.ua/6628371091_w200_h200_tsukerki-roshen-candy.jpg"
-    ]
-  },
-  {
-    "article": "928231",
-    "name": "Цукерки Карамель Цитрусовій мікс Рошен кг",
-    "images": [
-      "https://images.prom.ua/6598730817_w200_h200_konfety-roshen-karamel.jpg",
-      "https://images.prom.ua/3471006080_w200_h200_karamelnye-konfety-roshen.jpg",
-      "https://images.prom.ua/6598730813_w200_h200_konfety-roshen-karamel.jpg",
-      "https://images.prom.ua/4220964650_w200_h200_karamel-rachki-roshen.jpg",
-      "https://images.prom.ua/5273410915_w200_h200_karamel-tsitrusovyj-miks.jpg",
-      "https://images.prom.ua/5505152190_w200_h200_konfety-karamel-barbaris.jpg",
-      "https://images.prom.ua/4633304270_w200_h200_konfety-candy-nut.jpg",
-      "https://images.prom.ua/3457884877_w200_h200_karamelnye-konfety-roshen.jpg",
-      "https://images.prom.ua/6392638574_w200_h200_konfety-roshen-roshen.jpg",
-      "https://images.prom.ua/6598730815_w200_h200_konfety-roshen-beri.jpg"
-    ]
-  },
-  {
-    "article": "938194",
-    "name": "Цукерки Карамель Рачки Рошен кг",
-    "images": [
-      "https://images.prom.ua/4220964650_w200_h200_karamel-rachki-roshen.jpg",
-      "https://images.prom.ua/4006367727_w200_h200_konfety-roshen-roshen.jpg",
-      "https://images.prom.ua/6598730813_w200_h200_konfety-roshen-karamel.jpg",
-      "https://images.prom.ua/6598730817_w200_h200_konfety-roshen-karamel.jpg",
-      "https://images.prom.ua/6628412527_w200_h200_karamel-roshen-roshen.jpg",
-      "https://images.prom.ua/4633304270_w200_h200_konfety-candy-nut.jpg",
-      "https://images.prom.ua/6598730815_w200_h200_konfety-roshen-beri.jpg",
-      "https://images.prom.ua/5273398252_w200_h200_karamel-rachki-roshen.jpg",
-      "https://images.prom.ua/5297257261_w200_h200_karamel-rachki-roshen.jpg",
-      "https://images.prom.ua/4633304277_w200_h200_konfety-candy-nut.jpg"
-    ]
-  },
-  {
-    "article": "948157",
-    "name": "Цукерки Карамель молочно-вершкова ХБФ кг",
-    "images": [
-      "https://images.prom.ua/6192115516_w200_h200_konfety-karamelnye-molochno-slivochnye.jpg",
-      "https://images.prom.ua/5011860928_w200_h200_konfety-hbf-gloriya.jpg",
-      "https://images.prom.ua/3985187148_w200_h200_konfety-hbf-ananasnye.jpg",
-      "https://images.prom.ua/3985197429_w200_h200_konfety-hbf-venok.jpg",
-      "https://images.prom.ua/5011951881_w200_h200_konfety-hbf-vinograd.jpg",
-      "https://images.prom.ua/6592698167_w200_h200_krem-karamel--.jpg",
-      "https://images.prom.ua/4919912688_w200_h200_krem-karamel--zhelejnye.jpg",
-      "https://images.prom.ua/4185412612_w200_h200_konfety-hbf-kurortnye.jpg",
-      "https://images.prom.ua/5926774382_w200_h200_karamelnye-konfety-molochno-slivochnye.jpg",
-      "https://images.prom.ua/6493226323_w200_h200_tsukerki-korolivskij-sharm.jpg"
-    ]
-  },
-  {
-    "article": "958120",
-    "name": "Цукерки Карамель Молочна крапля Рошен кг",
-    "images": [
-      "https://images.prom.ua/6409190476_w200_h200_tsukerki-slivki-lenivki.jpg",
-      "https://images.prom.ua/3466369602_w200_h200_karamelnye-konfety-roshen.jpg",
-      "https://images.prom.ua/6598730813_w200_h200_konfety-roshen-karamel.jpg",
-      "https://images.prom.ua/4220964650_w200_h200_karamel-rachki-roshen.jpg",
-      "https://images.prom.ua/6598730817_w200_h200_konfety-roshen-karamel.jpg",
-      "https://images.prom.ua/5505152190_w200_h200_konfety-karamel-barbaris.jpg",
-      "https://images.prom.ua/4633304270_w200_h200_konfety-candy-nut.jpg",
-      "https://images.prom.ua/6377758954_w200_h200_tsukerki-molochna-kraplya.jpg",
-      "https://images.prom.ua/3457884877_w200_h200_karamelnye-konfety-roshen.jpg",
-      "https://images.prom.ua/6376856177_w200_h200_tsukerki-shipuchka-roshen.jpg"
-    ]
-  },
-  {
-    "article": "968083",
-    "name": "Цукерки Карамель льодяникова зі смаком ягід та ментолу Мінтекс+ кг",
-    "images": [
-      "https://images.prom.ua/5069051670_w200_h200_karamel-mintex-mint.jpg"
-    ]
-  },
-  {
-    "article": "978046",
-    "name": "Цукерки Карамель льодяникова зі смаком м'яти Мінтекс+ кг",
-    "images": [
-      "https://images.prom.ua/4543142775_w200_h200_karamelnye-konfety-roshen.jpg",
-      "https://images.prom.ua/3466358667_w200_h200_karamelnye-konfety-ledentsy.jpg",
-      "https://images.prom.ua/4543140485_w200_h200_karamelnye-konfety-ledentsy.jpg",
-      "https://images.prom.ua/5069051670_w200_h200_karamel-mintex-mint.jpg",
-      "https://images.prom.ua/5273246017_w200_h200_karamel-mintex-mint.jpg",
-      "https://images.prom.ua/5297255750_w200_h200_karamel-mintex-mint.jpg",
-      "https://images.prom.ua/4611584872_w200_h200_konfety-karamel-mintex.jpg",
-      "https://images.prom.ua/6269391958_w200_h200_karamel-mintex-mint.jpg",
-      "https://images.prom.ua/4605073750_w200_h200_ledentsy-roshen-mintex.jpg",
-      "https://images.prom.ua/4605075122_w200_h200_ledentsy-roshen-mintex.jpg"
-    ]
-  },
-  {
-    "article": "988009",
-    "name": "Цукерки Карамель льодяникова зі смаком лимону та ментолу Мінтекс+ кг",
-    "images": [
-      "https://images.prom.ua/6242034856_w200_h200_karamel-mintex-mint.jpg"
-    ]
-  },
-  {
-    "article": "997972",
-    "name": "Цукерки Карамель льодяникова Дюшес ХБФ кг",
-    "images": [
-      "https://images.prom.ua/3985221081_w200_h200_konfety-hbf-dyushes.jpg",
-      "https://images.prom.ua/6585886340_w200_h200_karamel-ledentsovaya-roks.jpg",
-      "https://images.prom.ua/6585886529_w200_h200_karamel-ledentsovaya-sharik.jpg",
-      "https://images.prom.ua/6613063760_w200_h200_karamel-ledentsovaya-soska.jpg",
-      "https://images.prom.ua/6192121065_w200_h200_konfety-karamelnye-dyushes.jpg",
-      "https://images.prom.ua/3985187148_w200_h200_konfety-hbf-ananasnye.jpg",
-      "https://images.prom.ua/5011860928_w200_h200_konfety-hbf-gloriya.jpg",
-      "https://images.prom.ua/4185412612_w200_h200_konfety-hbf-kurortnye.jpg",
-      "https://images.prom.ua/3655041231_w200_h200_roshen-yogurtini-karamel.jpg",
-      "https://images.prom.ua/3985273140_w200_h200_konfety-hbf-skvortsy.jpg"
-    ]
-  },
-  {
-    "article": "1007935",
-    "name": "Цукерки Карамель Лолліпопс фруктовий мікс Рошен кг",
-    "images": [
-      "https://images.prom.ua/6598730817_w200_h200_konfety-roshen-karamel.jpg",
-      "https://images.prom.ua/4443202863_w200_h200_konfety-roshen-roshen.jpg",
-      "https://images.prom.ua/6598730813_w200_h200_konfety-roshen-karamel.jpg",
-      "https://images.prom.ua/4633304270_w200_h200_konfety-candy-nut.jpg",
-      "https://images.prom.ua/6598730815_w200_h200_konfety-roshen-beri.jpg",
-      "https://images.prom.ua/6256724682_w200_h200_karamelni-tsukerki-vid.jpg",
-      "https://images.prom.ua/4633304277_w200_h200_konfety-candy-nut.jpg",
-      "https://images.prom.ua/6233403169_w200_h200_fruktova-karamel-miks.jpg",
-      "https://images.prom.ua/6388025697_w200_h200_konfety-roshen-roshen.jpg",
-      "https://images.prom.ua/4172807568_w200_h200_fruktova-karamel-classik.jpg"
-    ]
-  },
-  {
-    "article": "1017898",
-    "name": "Цукерки Карамель Йогуртіні Рошен кг",
-    "images": [
-      "https://images.prom.ua/6419299213_w200_h200_tsukerki-roshen-jogurtini.jpg",
-      "https://images.prom.ua/6598730813_w200_h200_konfety-roshen-karamel.jpg",
-      "https://images.prom.ua/6598730817_w200_h200_konfety-roshen-karamel.jpg",
-      "https://images.prom.ua/4633304270_w200_h200_konfety-candy-nut.jpg",
-      "https://images.prom.ua/6598730815_w200_h200_konfety-roshen-beri.jpg",
-      "https://images.prom.ua/4633304277_w200_h200_konfety-candy-nut.jpg",
-      "https://images.prom.ua/6628371091_w200_h200_tsukerki-roshen-candy.jpg",
-      "https://images.prom.ua/5982099624_w200_h200_konfety-roshen-karamel.jpg",
-      "https://images.prom.ua/6628422093_w200_h200_tsukerki-roshen-roshen.jpg",
-      "https://images.prom.ua/6377760338_w200_h200_tsukerki-kofe-lajk.jpg"
-    ]
-  },
-  {
-    "article": "1027861",
-    "name": "Цукерки карамель із молочно-кавовою начинкою Коффілайк Рошен кг",
-    "images": [
-      "https://images.prom.ua/2714195403_w200_h200_konfety-karamel-s.jpg",
-      "https://images.prom.ua/3812765686_w200_h200_karamel-s-molochno-kofejnoj.jpg",
-      "https://images.prom.ua/3812765686_w200_h200_karamel-s-molochno-kofejnoj.jpg",
-      "https://images.prom.ua/4020519602_w200_h200_karamel-s-molochno-kofejnoj.jpg"
-    ]
-  },
-  {
-    "article": "1037824",
-    "name": "Цукерки Карамель Золотий рачок ХБФ кг",
-    "images": [
-      "https://images.prom.ua/4443203708_w200_h200_konfety-hbf-zolotoe.jpg",
-      "https://images.prom.ua/4244837900_w200_h200_konfety-hbf-zolotoe.jpg",
-      "https://images.prom.ua/4220964650_w200_h200_karamel-rachki-roshen.jpg",
-      "https://images.prom.ua/5011860928_w200_h200_konfety-hbf-gloriya.jpg",
-      "https://images.prom.ua/3985187148_w200_h200_konfety-hbf-ananasnye.jpg",
-      "https://images.prom.ua/6192121043_w200_h200_konfety-karamelnye-zolotoj.jpg",
-      "https://images.prom.ua/3985197429_w200_h200_konfety-hbf-venok.jpg",
-      "https://images.prom.ua/5011951881_w200_h200_konfety-hbf-vinograd.jpg",
-      "https://images.prom.ua/6592698167_w200_h200_krem-karamel--.jpg",
-      "https://images.prom.ua/4919912688_w200_h200_krem-karamel--zhelejnye.jpg"
-    ]
-  },
-  {
-    "article": "1047787",
-    "name": "Цукерки Карамель з фруктово-ягідною начинкою Пеппінез Рошен кг",
-    "images": [
-      "https://images.prom.ua/6598730815_w200_h200_konfety-roshen-beri.jpg",
-      "https://images.prom.ua/3471022117_w200_h200_konfety-ledentsy-roshen.jpg",
-      "https://images.prom.ua/5945023352_w200_h200_karamelnye-konfety-vkusya.jpg",
-      "https://images.prom.ua/5273290354_w200_h200_karamel-bim-bom-s.jpg",
-      "https://images.prom.ua/5297255753_w200_h200_karamel-bim-bom-s.jpg",
-      "https://images.prom.ua/2714195403_w200_h200_konfety-karamel-s.jpg",
-      "https://images.prom.ua/3812795136_w200_h200_karamel-ledentsovaya-s.jpg",
-      "https://images.prom.ua/3820152020_w200_h200_karamel-s-fruktovo-yagodnoj.jpg",
-      "https://images.prom.ua/3812795136_w200_h200_karamel-ledentsovaya-s.jpg",
-      "https://images.prom.ua/2347471831_w200_h200_konfety-karamel-roshen.jpg"
-    ]
-  },
-  {
-    "article": "1057750",
-    "name": "Цукерки Карамель Евкаліпт-ментол Рошен кг",
-    "images": [
-      "https://images.prom.ua/4006394136_w200_h200_konfety-roshen-roshen.jpg",
-      "https://images.prom.ua/3466183867_w200_h200_karamelnye-konfety-roshen.jpg",
-      "https://images.prom.ua/6137826931_w200_h200_konfety-roshen-roshen.jpg",
-      "https://images.prom.ua/4443201088_w200_h200_konfety-roshen-roshen.jpg",
-      "https://images.prom.ua/6598730813_w200_h200_konfety-roshen-karamel.jpg",
-      "https://images.prom.ua/5273420997_w200_h200_karamel-evkalipt-mentol-roshen.jpg",
-      "https://images.prom.ua/4220964650_w200_h200_karamel-rachki-roshen.jpg",
-      "https://images.prom.ua/6598730817_w200_h200_konfety-roshen-karamel.jpg",
-      "https://images.prom.ua/5505152190_w200_h200_konfety-karamel-barbaris.jpg",
-      "https://images.prom.ua/4633304270_w200_h200_konfety-candy-nut.jpg"
-    ]
-  },
-  {
-    "article": "1067713",
-    "name": "Цукерки Карамель Джус мікс Рошен кг",
-    "images": [
-      "https://images.prom.ua/6598730817_w200_h200_konfety-roshen-karamel.jpg",
-      "https://images.prom.ua/3471022117_w200_h200_konfety-ledentsy-roshen.jpg",
-      "https://images.prom.ua/6137698102_w200_h200_konfety-roshen-roshen.jpg",
-      "https://images.prom.ua/6598730813_w200_h200_konfety-roshen-karamel.jpg",
-      "https://images.prom.ua/4220964650_w200_h200_karamel-rachki-roshen.jpg",
-      "https://images.prom.ua/6477577055_w200_h200_tsukerki-dzhus-miks.jpg",
-      "https://images.prom.ua/5273303884_w200_h200_karamel-dzhus-miks.jpg",
-      "https://images.prom.ua/4443200962_w200_h200_konfety-roshen-roshen.jpg",
-      "https://images.prom.ua/5505152190_w200_h200_konfety-karamel-barbaris.jpg",
-      "https://images.prom.ua/4633304270_w200_h200_konfety-candy-nut.jpg"
-    ]
-  },
-  {
-    "article": "1077676",
-    "name": "Цукерки Карамель Бутер-мілк Рошен кг",
-    "images": [
-      "https://images.prom.ua/6598730813_w200_h200_konfety-roshen-karamel.jpg",
-      "https://images.prom.ua/4220964650_w200_h200_karamel-rachki-roshen.jpg",
-      "https://images.prom.ua/6598730817_w200_h200_konfety-roshen-karamel.jpg",
-      "https://images.prom.ua/5505152190_w200_h200_konfety-karamel-barbaris.jpg",
-      "https://images.prom.ua/4633304270_w200_h200_konfety-candy-nut.jpg",
-      "https://images.prom.ua/3457884877_w200_h200_karamelnye-konfety-roshen.jpg",
-      "https://images.prom.ua/6376856177_w200_h200_tsukerki-shipuchka-roshen.jpg",
-      "https://images.prom.ua/6598730815_w200_h200_konfety-roshen-beri.jpg",
-      "https://images.prom.ua/6549709962_w200_h200_tsukerki-roshen-peppinez.jpg",
-      "https://images.prom.ua/4633304277_w200_h200_konfety-candy-nut.jpg"
-    ]
-  },
-  {
-    "article": "1087639",
-    "name": "Цукерки Карамель Бім-Бом Рошен кг",
-    "images": [
-      "https://images.prom.ua/4005020684_w200_h200_konfety-roshen-roshen.jpg",
-      "https://images.prom.ua/4443200960_w200_h200_konfety-roshen-roshen.jpg",
-      "https://images.prom.ua/6477587646_w200_h200_tsukerki-bim-bom.jpg",
-      "https://images.prom.ua/3269869332_w200_h200_karamel-roshen-roshen.jpg",
-      "https://images.prom.ua/6598730813_w200_h200_konfety-roshen-karamel.jpg",
-      "https://images.prom.ua/4220964650_w200_h200_karamel-rachki-roshen.jpg",
-      "https://images.prom.ua/5273290354_w200_h200_karamel-bim-bom-s.jpg",
-      "https://images.prom.ua/3457821204_w200_h200_karamelnye-konfety-bim-bom.jpg",
-      "https://images.prom.ua/6598730817_w200_h200_konfety-roshen-karamel.jpg",
-      "https://images.prom.ua/5505152190_w200_h200_konfety-karamel-barbaris.jpg"
-    ]
-  },
-  {
-    "article": "1097602",
-    "name": "Цукерки Карамель Бері Рошен кг",
-    "images": [
-      "https://images.prom.ua/6477590557_w200_h200_tsukerki-beri-roshen.jpg",
-      "https://images.prom.ua/6598730815_w200_h200_konfety-roshen-beri.jpg",
-      "https://images.prom.ua/6598730813_w200_h200_konfety-roshen-karamel.jpg",
-      "https://images.prom.ua/6598730817_w200_h200_konfety-roshen-karamel.jpg",
-      "https://images.prom.ua/4633304270_w200_h200_konfety-candy-nut.jpg",
-      "https://images.prom.ua/4633304277_w200_h200_konfety-candy-nut.jpg",
-      "https://images.prom.ua/6628371091_w200_h200_tsukerki-roshen-candy.jpg",
-      "https://images.prom.ua/5982099624_w200_h200_konfety-roshen-karamel.jpg",
-      "https://images.prom.ua/6628422093_w200_h200_tsukerki-roshen-roshen.jpg",
-      "https://images.prom.ua/6377760338_w200_h200_tsukerki-kofe-lajk.jpg"
-    ]
-  },
-  {
-    "article": "1107565",
-    "name": "Цукерки Карамель Барбарис ХБФ кг",
-    "images": [
-      "https://images.prom.ua/3985225070_w200_h200_konfety-hbf-barbaris.jpg",
-      "https://images.prom.ua/4611566619_w200_h200_konfety-karamel-barbaris.jpg",
-      "https://images.prom.ua/5034317967_w200_h200_karamelni-tsukerki-fruktovi.jpg",
-      "https://images.prom.ua/5034317967_w200_h200_karamelni-tsukerki-fruktovi.jpg",
-      "https://images.prom.ua/6598394074_w200_h200_karamel-barbaris-mini.jpg",
-      "https://images.prom.ua/5034317967_w200_h200_karamelni-tsukerki-fruktovi.jpg"
-    ]
-  },
-  {
-    "article": "1117528",
-    "name": "Цукерки Кара-кум Рошен кг",
-    "images": [
-      "https://images.prom.ua/5287557731_w200_h200_konfety-shokoladnye-kara-kum.jpg",
-      "https://images.prom.ua/5297263188_w200_h200_konfety-shokoladnye-kara-kum.jpg",
-      "https://images.prom.ua/6628369851_w200_h200_tsukerki-shokoladni-kara-kum.jpg",
-      "https://images.prom.ua/6552508454_w200_h200_konfety-kara-kum-roshen.jpg",
-      "https://images.prom.ua/4443200963_w200_h200_konfety-roshen-roshen.jpg",
-      "https://images.prom.ua/3458548268_w200_h200_shokoladnye-konfety-roshen.jpg",
-      "https://images.prom.ua/6137498295_w200_h200_konfety-roshen-roshen.jpg",
-      "https://images.prom.ua/4005171147_w200_h200_konfety-roshen-roshen.jpg",
-      "https://images.prom.ua/6535648383_w200_h200_konfety-millenium-kara.jpg",
-      "https://images.prom.ua/4596374331_w200_h200_konfety-roshen-roshen.jpg"
-    ]
-  },
-  {
-    "article": "1127491",
-    "name": "Цукерки Кара-Кум Престиж кг",
-    "images": [
-      "https://images.prom.ua/6535648383_w200_h200_konfety-millenium-kara.jpg",
-      "https://images.prom.ua/5287557731_w200_h200_konfety-shokoladnye-kara-kum.jpg",
-      "https://images.prom.ua/5132722628_w200_h200_konfety-kara-kum-22kg.jpg",
-      "https://images.prom.ua/6595285332_w200_h200_konfety-kara-kum-2.jpg",
-      "https://images.prom.ua/5046363322_w200_h200_tm-maria-shokoladnye.jpg",
-      "https://images.prom.ua/5297263188_w200_h200_konfety-shokoladnye-kara-kum.jpg",
-      "https://images.prom.ua/5046355414_w200_h200_tm-maria-shokoladnye.jpg",
-      "https://images.prom.ua/4005171147_w200_h200_konfety-roshen-roshen.jpg",
-      "https://images.prom.ua/6628369851_w200_h200_tsukerki-shokoladni-kara-kum.jpg",
-      "https://images.prom.ua/6552508454_w200_h200_konfety-kara-kum-roshen.jpg"
-    ]
-  },
-  {
-    "article": "1137454",
-    "name": "Цукерки Зоряне сяйво Світоч кг",
-    "images": [
-      "https://images.prom.ua/6598730811_w200_h200_shokoladnye-konfety-svitoch.jpg",
-      "https://images.prom.ua/6641792853_w200_h200_konfety-zvezdnoe-siyanie.jpg",
-      "https://images.prom.ua/6472371438_w200_h200_konfety-zvezdnoe-siyanie.jpg",
-      "https://images.prom.ua/6323089016_w200_h200_tsukerki-svitoch-v.jpg",
-      "https://images.prom.ua/3635434429_w200_h200_konfety-svitoch-zvezdnoe.jpg",
-      "https://images.prom.ua/3049529491_w200_h200_konfety-svitoch-zoryane.jpg",
-      "https://images.prom.ua/4943081348_w200_h200_tsukerki-svitoch-zirkove.jpg",
-      "https://images.prom.ua/5251312327_w200_h200_tsukerki-svitoch-zoryane.jpg",
-      "https://images.prom.ua/5251315156_w200_h200_tsukerki-svitoch-zoryane.jpg",
-      "https://images.prom.ua/4312490527_w200_h200_upakovka-tsukerok-svitoch.jpg"
-    ]
-  },
-  {
-    "article": "1147417",
-    "name": "Цукерки Золота Лілія Конті кг",
-    "images": [
-      "https://images.prom.ua/6439783216_w200_h200_tsukerki-zolota-liliya.jpg",
-      "https://images.prom.ua/6383570801_w200_h200_tsukerki-konti-1kg.jpg",
-      "https://images.prom.ua/6436218351_w200_h200_tsukerki-konti-1kg.jpg",
-      "https://images.prom.ua/6490107135_w200_h200_tsukerki-konti-1kg.jpg",
-      "https://images.prom.ua/6490116917_w200_h200_tsukerki-konti-1kg.jpg",
-      "https://images.prom.ua/6552726623_w200_h200_konfety-konti-zolotaya.jpg",
-      "https://images.prom.ua/6356048484_w200_h200_konfety-konti-zolotaya.jpg",
-      "https://images.prom.ua/6536620941_w200_h200_konfety-zolotaya-liliya.jpg",
-      "https://images.prom.ua/5084642580_w200_h200_tsukerki-konti-zolota.jpg",
-      "https://images.prom.ua/6400423276_w200_h200_tsukerki-konti-zolota.jpg"
-    ]
-  },
-  {
-    "article": "1157380",
-    "name": "Цукерки з начинкою та цілими горіхами Голден Натс Міленіум кг",
-    "images": [
-      "https://images.prom.ua/6581386519_w200_h200_konfety-millennium-golden.jpg",
-      "https://images.prom.ua/6482917243_w200_h200_konfety-millennium-golden.jpg",
-      "https://images.prom.ua/6482934914_w200_h200_konfety-millennium-golden.jpg",
-      "https://images.prom.ua/6323285040_w200_h200_tsukerki-millennium-29g.jpg",
-      "https://images.prom.ua/6326242112_w200_h200_tsukerki-shokoladni-millennium.jpg",
-      "https://images.prom.ua/6446482608_w200_h200_shokoladnye-konfety-millennium.jpg",
-      "https://images.prom.ua/6535410893_w200_h200_konfety-shokoladnye-millenium.jpg",
-      "https://images.prom.ua/6326180514_w200_h200_tsukerki-shokoladni-2kg.jpg",
-      "https://images.prom.ua/6324969984_w200_h200_tsukerki-29g-golden.jpg",
-      "https://images.prom.ua/6486884759_w200_h200_konfety-s-nachinkoj.jpg"
-    ]
-  },
-  {
-    "article": "1167343",
-    "name": "Цукерки з вафельними вівсяними пластівцями та какао Hola! Granola Рошен кг",
-    "images": []
-  },
-  {
-    "article": "1177306",
-    "name": "Цукерки жувальні Тофікс Мікс стік Елван кг",
-    "images": [
-      "https://images.prom.ua/4168993107_w200_h200_zhuvalni-tsukerki-tofiks.jpg",
-      "https://images.prom.ua/3995638620_w200_h200_zhevatelnye-konfety-tofiks.jpg",
-      "https://images.prom.ua/4349412587_w200_h200_zhevatelnye-konfety-toffiks.jpg",
-      "https://images.prom.ua/5050169823_w200_h200_tsukerki-zhuvalni-fruktovi.jpg",
-      "https://images.prom.ua/4349412079_w200_h200_zhevatelnye-konfety-toffiks.jpg",
-      "https://images.prom.ua/6405837220_w200_h200_tsukerki-zhuvalni-toffix.jpg",
-      "https://images.prom.ua/4349413019_w200_h200_zhevatelnaya-konfeta-toffiks.jpg",
-      "https://images.prom.ua/6358082641_w200_h200_tsukerki-zhuvalni-tofiks.jpg",
-      "https://images.prom.ua/2058268923_w200_h200_zhevatelnye-konfety-toffix.jpg",
-      "https://images.prom.ua/4259803105_w200_h200_tayas-zhevatelnye-konfety.jpg"
-    ]
-  },
-  {
-    "article": "1187269",
-    "name": "Цукерки жувальні Тофікс Мікс Елван кг",
-    "images": [
-      "https://images.prom.ua/4168993107_w200_h200_zhuvalni-tsukerki-tofiks.jpg",
-      "https://images.prom.ua/3995638620_w200_h200_zhevatelnye-konfety-tofiks.jpg",
-      "https://images.prom.ua/4349412587_w200_h200_zhevatelnye-konfety-toffiks.jpg",
-      "https://images.prom.ua/6639246600_w200_h200_zhuvalni-tsukerki-chewizz.jpg",
-      "https://images.prom.ua/5198564962_w200_h200_tsukerki-tofiks-1kg.jpg",
-      "https://images.prom.ua/5050169823_w200_h200_tsukerki-zhuvalni-fruktovi.jpg",
-      "https://images.prom.ua/4349412079_w200_h200_zhevatelnye-konfety-toffiks.jpg",
-      "https://images.prom.ua/6405837220_w200_h200_tsukerki-zhuvalni-toffix.jpg",
-      "https://images.prom.ua/4349413019_w200_h200_zhevatelnaya-konfeta-toffiks.jpg",
-      "https://images.prom.ua/6358082641_w200_h200_tsukerki-zhuvalni-tofiks.jpg"
-    ]
-  },
-  {
-    "article": "1197232",
-    "name": "Цукерки жувальні зі смаком фруктів Тоффі Ямміс Рошен кг",
-    "images": [
-      "https://images.prom.ua/4903102014_w200_h200_fruktovye-zhevatelnye-konfety.jpg"
-    ]
-  },
-  {
-    "article": "1207195",
-    "name": "Цукерки ЖЛ БатонЧик хрусткий кг",
-    "images": [
-      "https://images.prom.ua/6530790654_w200_h200_tsukerki-batonchik-kozak.jpg",
-      "https://images.prom.ua/403048638_w200_h200_konfety-batonchiki.jpg"
-    ]
-  },
-  {
-    "article": "1217158",
-    "name": "Цукерки желейні Яєшня Фіні кг",
-    "images": [
-      "https://images.prom.ua/3202371699_w200_h200_spagetti-multifrut-v.jpg",
-      "https://images.prom.ua/4698863135_w200_h200_mega-yaichnitsa--zhelejnye.jpg",
-      "https://images.prom.ua/6317434949_w200_h200_lenta-fantaziya--.jpg",
-      "https://images.prom.ua/3197433323_w200_h200_fruktovaya-ataka--.jpg",
-      "https://images.prom.ua/4980169692_w200_h200_yaichnitsa--zhelejnye-konfety.jpg",
-      "https://images.prom.ua/6508934598_w200_h200_zhelejni-tsukerki-fini.jpg",
-      "https://images.prom.ua/5956827556_w200_h200_1-kg-zhelejnih.jpg",
-      "https://images.prom.ua/5359188922_w200_h200_miks-kislyh-zheleek.jpg",
-      "https://images.prom.ua/3949014495_w200_h200_1-kg-zheleek.jpg",
-      "https://images.prom.ua/6508873978_w200_h200_zhelejni-tsukerki-fini.jpg"
-    ]
-  },
-  {
-    "article": "1227121",
-    "name": "Цукерки желейні Шалена бджілка фрутті Рошен кг",
-    "images": [
-      "https://images.prom.ua/5297258706_w200_h200_konfety-zhelejnye-bezumnaya.jpg",
-      "https://images.prom.ua/5276537409_w200_h200_konfety-zhelejnye-bezumnaya.jpg",
-      "https://images.prom.ua/6419279506_w200_h200_tsukerki-roshen-shalena.jpg",
-      "https://images.prom.ua/3448010366_w200_h200_zhelejnye-konfety-s.jpg",
-      "https://images.prom.ua/3913941724_w200_h200_konfety-roshen-roshen.jpg",
-      "https://images.prom.ua/6628414395_w200_h200_zhelejni-tsukerki-roshen.jpg",
-      "https://images.prom.ua/4443200058_w200_h200_konfety-roshen-roshen.jpg",
-      "https://images.prom.ua/6408103496_w200_h200_tsukerki-zhelejni-dzhelli.jpg",
-      "https://images.prom.ua/4141443847_w200_h200_zhelejnye-konfety-dzhelli.jpg",
-      "https://images.prom.ua/6628413814_w200_h200_zhelejni-tsukerki-roshen.jpg"
-    ]
-  },
-  {
-    "article": "1237084",
-    "name": "Цукерки желейні Фруктова атака Фіні кг",
-    "images": [
-      "https://images.prom.ua/3197433323_w200_h200_fruktovaya-ataka--.jpg",
-      "https://images.prom.ua/3202371699_w200_h200_spagetti-multifrut-v.jpg",
-      "https://images.prom.ua/3202330920_w200_h200_poleno-tornado-6.jpg",
-      "https://images.prom.ua/6317434949_w200_h200_lenta-fantaziya--.jpg",
-      "https://images.prom.ua/6473265138_w200_h200_banany-s-napolnitelem.jpg",
-      "https://images.prom.ua/4958886106_w200_h200_zhelejki-fini-fruktova.jpg",
-      "https://images.prom.ua/6243274844_w200_h200_zhelejni-tsukerki-trolli.jpg",
-      "https://images.prom.ua/6408103496_w200_h200_tsukerki-zhelejni-dzhelli.jpg",
-      "https://images.prom.ua/5747918611_w200_h200_fruktovye-zhevatelnyj-marmelad.jpg",
-      "https://images.prom.ua/3173106755_w200_h200_fruktovye-zhevatelnye-konfety.jpg"
-    ]
-  },
-  {
-    "article": "1247047",
-    "name": "Цукерки желейні Джеллі Рошен п/е кг",
-    "images": [
-      "https://images.prom.ua/6408103496_w200_h200_tsukerki-zhelejni-dzhelli.jpg",
-      "https://images.prom.ua/4141443847_w200_h200_zhelejnye-konfety-dzhelli.jpg",
-      "https://images.prom.ua/3913902610_w200_h200_konfety-roshen-roshen.jpg",
-      "https://images.prom.ua/5297263187_w200_h200_konfety-zhelejnye-dzhelli.jpg",
-      "https://images.prom.ua/6628413814_w200_h200_zhelejni-tsukerki-roshen.jpg",
-      "https://images.prom.ua/5287542219_w200_h200_konfety-zhelejnye-dzhelli.jpg",
-      "https://images.prom.ua/6628414395_w200_h200_zhelejni-tsukerki-roshen.jpg",
-      "https://images.prom.ua/4605075485_w200_h200_zhelejnye-konfety-dzhelli.jpg",
-      "https://images.prom.ua/5297258706_w200_h200_konfety-zhelejnye-bezumnaya.jpg",
-      "https://images.prom.ua/5276637738_w200_h200_konfety-zhelejnye-galaretka.jpg"
-    ]
-  },
-  {
-    "article": "1257010",
-    "name": "Цукерки желейні глазуровані Мармілайк зі смаком апельсину Лукас кг",
-    "images": [
-      "https://images.prom.ua/6563004812_w200_h200_konfety-marmilike-so.jpg",
-      "https://images.prom.ua/6555876546_w200_h200_konfety-grilyazhnye-bifesti.jpg",
-      "https://images.prom.ua/6562814441_w200_h200_konfety-grilyazhnye-bifesti.jpg",
-      "https://images.prom.ua/6562876977_w200_h200_konfety-melodiplum-so.jpg",
-      "https://images.prom.ua/6562827269_w200_h200_konfety-grilyazhnye-bifesti.jpg",
-      "https://images.prom.ua/4312860163_w200_h200_tsukerki-lukas-marmilajk.jpg",
-      "https://images.prom.ua/4123044224_w200_h200_konfety-solnechnyj-venochek.jpg",
-      "https://images.prom.ua/4312860155_w200_h200_tsukerki-lukas-marmilajk.jpg",
-      "https://images.prom.ua/3755836356_w200_h200_konfety-glazirovanye-co.jpg",
-      "https://images.prom.ua/6510972311_w200_h200_tsukerki-lukas-bifesti.jpg"
-    ]
-  },
-  {
-    "article": "1266973",
-    "name": "Цукерки Еклер Рошен кг",
-    "images": [
-      "https://images.prom.ua/4006468280_w200_h200_konfety-roshen-roshen.jpg",
-      "https://images.prom.ua/6376847645_w200_h200_tsukerki-ekler-roshen.jpg",
-      "https://images.prom.ua/2347066112_w200_h200_konfety-ekler-roshen.jpg",
-      "https://images.prom.ua/5729946036_w200_h200_konfety-ekler-s.jpg"
-    ]
-  },
-  {
-    "article": "1276936",
-    "name": "Цукерки Джонні Крокер з шоколадом Рошен кг",
-    "images": [
-      "https://images.prom.ua/4443202642_w200_h200_konfety-roshen-roshen.jpg",
-      "https://images.prom.ua/3639540233_w200_h200_vafelnye-konfety-roshen.jpg",
-      "https://images.prom.ua/3624533148_w200_h200_vafelnye-konfety-roshen.jpg",
-      "https://images.prom.ua/4183204981_w200_h200_konfety-roshen-roshen.jpg",
-      "https://images.prom.ua/6419289649_w200_h200_tsukerki-dzhoni-kroker.jpg",
-      "https://images.prom.ua/6419287851_w200_h200_tsukerki-dzhoni-kroker.jpg",
-      "https://images.prom.ua/6628395252_w200_h200_tsukerki-roshen-roshen.jpg",
-      "https://images.prom.ua/6628393208_w200_h200_tsukerki-roshen-roshen.jpg",
-      "https://images.prom.ua/4443202643_w200_h200_konfety-roshen-roshen.jpg",
-      "https://images.prom.ua/4183267797_w200_h200_konfety-roshen-roshen.jpg"
-    ]
-  },
-  {
-    "article": "1286899",
-    "name": "Цукерки Джонні Крокер з молоком Рошен кг",
-    "images": [
-      "https://images.prom.ua/4443202642_w200_h200_konfety-roshen-roshen.jpg",
-      "https://images.prom.ua/4183204981_w200_h200_konfety-roshen-roshen.jpg",
-      "https://images.prom.ua/6419289649_w200_h200_tsukerki-dzhoni-kroker.jpg",
-      "https://images.prom.ua/6419287851_w200_h200_tsukerki-dzhoni-kroker.jpg",
-      "https://images.prom.ua/6628395252_w200_h200_tsukerki-roshen-roshen.jpg",
-      "https://images.prom.ua/6628393208_w200_h200_tsukerki-roshen-roshen.jpg",
-      "https://images.prom.ua/4443202643_w200_h200_konfety-roshen-roshen.jpg",
-      "https://images.prom.ua/4183267797_w200_h200_konfety-roshen-roshen.jpg",
-      "https://images.prom.ua/4185106177_w200_h200_konfety-roshen-stakan.jpg",
-      "https://images.prom.ua/4633304277_w200_h200_konfety-candy-nut.jpg"
-    ]
-  },
-  {
-    "article": "1296862",
-    "name": "Цукерки Джек Конті кг",
-    "images": [
-      "https://images.prom.ua/6409194216_w200_h200_tsukerki-dzhek-shok.jpg",
-      "https://images.prom.ua/6635739592_w200_h200_konfety-konti-konti.jpg",
-      "https://images.prom.ua/6383657632_w200_h200_tsukerki-konti-4kg.jpg",
-      "https://images.prom.ua/6400346503_w200_h200_konfety-vafelnye-dzhek.jpg",
-      "https://images.prom.ua/6307310094_w200_h200_vafelni-tsukerki-dzhek.jpg",
-      "https://images.prom.ua/5729947924_w200_h200_konfety-dzhek-tm.jpg",
-      "https://images.prom.ua/6383642777_w200_h200_tsukerki-konti-22kg.jpg",
-      "https://images.prom.ua/3634035322_w200_h200_konfety-konti-shokoladnye.jpg",
-      "https://images.prom.ua/4444617965_w200_h200_vafli-dzhek-6.jpg"
-    ]
-  },
-  {
-    "article": "1306825",
-    "name": "Цукерки Гулівер АВК кг",
-    "images": [
-      "https://images.prom.ua/6535899567_w200_h200_tsukerki-avk-guliver.jpg",
-      "https://images.prom.ua/6535912996_w200_h200_tsukerki-avk-guliver.jpg",
-      "https://images.prom.ua/6454360230_w200_h200_tsukerki-avk-guliver.jpg",
-      "https://images.prom.ua/6192128197_w200_h200_konfety-avk-guliver.jpg",
-      "https://images.prom.ua/6192182575_w200_h200_konfety-avk-guliver.jpg",
-      "https://images.prom.ua/2739860769_w200_h200_tsukerka-avk-shokoladno-vafelna.jpg",
-      "https://images.prom.ua/5195623321_w200_h200_konfety-avk-guliver.jpg",
-      "https://images.prom.ua/3162033339_w200_h200_tsukerka-shokoladno-vafelna-gulivernizhnij.jpg",
-      "https://images.prom.ua/4606873151_w200_h200_konfety-avk-guliver.jpg",
-      "https://images.prom.ua/6192099760_w200_h200_konfety-avk-guliver.jpg"
-    ]
-  },
-  {
-    "article": "1316788",
-    "name": "Цукерки глазуровані Шпаки ХБФ кг",
-    "images": [
-      "https://images.prom.ua/3985273140_w200_h200_konfety-hbf-skvortsy.jpg",
-      "https://images.prom.ua/5099763062_w200_h200_konfety-glazirovannye-intryga.jpg"
-    ]
-  },
-  {
-    "article": "1326751",
-    "name": "Цукерки глазуровані Трюфель ХБФ кг",
-    "images": [
-      "https://images.prom.ua/3985288445_w200_h200_konfety-hbf-tryufel.jpg",
-      "https://images.prom.ua/6567574955_w200_h200_konfety-dolche-de.jpg",
-      "https://images.prom.ua/6260046751_w200_h200_tsukerka-glazurovana-tryufel.jpg",
-      "https://images.prom.ua/5039635241_w200_h200_konfety-truffle-tryufel.jpg",
-      "https://images.prom.ua/5099763062_w200_h200_konfety-glazirovannye-intryga.jpg",
-      "https://images.prom.ua/3808660374_w200_h200_tsukerki-glazurovani-piccolo.jpg"
-    ]
-  },
-  {
-    "article": "1336714",
-    "name": "Цукерки глазуровані Соренто Рошен кг",
-    "images": [
-      "https://images.prom.ua/3654070822_w200_h200_tsukerki-glazurovani-roshen.jpg",
-      "https://images.prom.ua/4555084633_w200_h200_konfety-roshen-sorrento.jpg",
-      "https://images.prom.ua/4596374141_w200_h200_konfety-glazirovannye-roshen.jpg",
-      "https://images.prom.ua/6400392032_w200_h200_tsukerki-roshen-slivki-lenivki.jpg",
-      "https://images.prom.ua/5112459396_w200_h200_tsukerki-glazurovani-roshen.jpg",
-      "https://images.prom.ua/5112490542_w200_h200_tsukerki-glazurovani-roshen.jpg",
-      "https://images.prom.ua/3654065170_w200_h200_tsukerki-sorento-sorrento.jpg",
-      "https://images.prom.ua/5112507024_w200_h200_tsukerki-glazurovani-roshen.jpg",
-      "https://images.prom.ua/5112543469_w200_h200_tsukerki-glazurovani-roshen.jpg",
-      "https://images.prom.ua/5112609622_w200_h200_tsukerki-glazurovani-roshen.jpg"
-    ]
-  },
-  {
-    "article": "1346677",
-    "name": "Цукерки глазуровані Солодкий оберіг Лукася Лукас кг",
-    "images": [
-      "https://images.prom.ua/6413632986_w200_h200_tsukerki-lukasya-lukas.jpg",
-      "https://images.prom.ua/6413630522_w200_h200_tsukerki-lukasya-lukas.jpg",
-      "https://images.prom.ua/5027789902_w200_h200_tsukerki-lukas-lukasya.jpg",
-      "https://images.prom.ua/6248931892_w200_h200_tsukerki-lukas-lukasya.jpg",
-      "https://images.prom.ua/6248939110_w200_h200_tsukerki-lukas-odamer.jpg",
-      "https://images.prom.ua/6248939115_w200_h200_tsukerki-lukas-odamer.jpg",
-      "https://images.prom.ua/4312859708_w200_h200_tsukerki-lukas-sungrizzy.jpg",
-      "https://images.prom.ua/4312860163_w200_h200_tsukerki-lukas-marmilajk.jpg",
-      "https://images.prom.ua/1570992197_w200_h200_konfety-lukasya-lukasia.jpg",
-      "https://images.prom.ua/1571002768_w200_h200_konfety-lukasya-lukasia.jpg"
-    ]
-  },
-  {
-    "article": "1356640",
-    "name": "Цукерки глазуровані Слобожанська ластівка ХБФ кг",
-    "images": [
-      "https://images.prom.ua/3985356825_w200_h200_konfety-hbf-slobozhanskaya.jpg",
-      "https://images.prom.ua/3985256345_w200_h200_konfety-hbf-slobozhanskaya.jpg",
-      "https://images.prom.ua/6192118058_w200_h200_konfety-pomadnye-slobozhanskaya.jpg",
-      "https://images.prom.ua/5900944392_w200_h200_shokoladnye-konfety-slobozhanskaya.jpg",
-      "https://images.prom.ua/6434810145_w200_h200_tsukerki-glazurovani-vale.jpg",
-      "https://images.prom.ua/6481964932_w200_h200_tsukerki-glazurovani-vale.jpg",
-      "https://images.prom.ua/6494379008_w200_h200_tsukerki-glazurovani-vale.jpg",
-      "https://images.prom.ua/4443200808_w200_h200_konfety-hbf-slobozhanskaya.jpg",
-      "https://images.prom.ua/3985187148_w200_h200_konfety-hbf-ananasnye.jpg",
-      "https://images.prom.ua/5011860928_w200_h200_konfety-hbf-gloriya.jpg"
-    ]
-  },
-  {
-    "article": "1366603",
-    "name": "Цукерки глазуровані Сливки Ленивки Рошен кг",
-    "images": [
-      "https://images.prom.ua/6409190476_w200_h200_tsukerki-slivki-lenivki.jpg",
-      "https://images.prom.ua/3624221022_w200_h200_vafelnye-konfety-roshen.jpg",
-      "https://images.prom.ua/4006506747_w200_h200_konfety-vafelnye-roshen.jpg",
-      "https://images.prom.ua/4443201029_w200_h200_konfety-roshen-roshen.jpg",
-      "https://images.prom.ua/5276556338_w200_h200_konfety-vafelnye-slivki-lenivki.jpg",
-      "https://images.prom.ua/6628389187_w200_h200_tsukerki-vafelni-roshen.jpg",
-      "https://images.prom.ua/5297258707_w200_h200_konfety-vafelnye-slivki-lenivki.jpg",
-      "https://images.prom.ua/6376856177_w200_h200_tsukerki-shipuchka-roshen.jpg",
-      "https://images.prom.ua/6395708254_w200_h200_tsukerki-korovka-1kg.jpg",
-      "https://images.prom.ua/4596374496_w200_h200_vafelnye-konfety-roshen.jpg"
-    ]
-  },
-  {
-    "article": "1376566",
-    "name": "Цукерки глазуровані Ромашка Слобожанська ХБФ кг",
-    "images": [
-      "https://images.prom.ua/3985256345_w200_h200_konfety-hbf-slobozhanskaya.jpg",
-      "https://images.prom.ua/6192118062_w200_h200_konfety-pomadnye-slobozhanskaya.jpg",
-      "https://images.prom.ua/3985356825_w200_h200_konfety-hbf-slobozhanskaya.jpg",
-      "https://images.prom.ua/5900995180_w200_h200_shokoladnye-konfety-slobozhanskaya.jpg",
-      "https://images.prom.ua/6138116371_w200_h200_konfety-hbf-slobozhanskaya.jpg",
-      "https://images.prom.ua/6434810145_w200_h200_tsukerki-glazurovani-vale.jpg",
-      "https://images.prom.ua/6481964932_w200_h200_tsukerki-glazurovani-vale.jpg",
-      "https://images.prom.ua/6494379008_w200_h200_tsukerki-glazurovani-vale.jpg",
-      "https://images.prom.ua/4443200805_w200_h200_konfety-hbf-slobozhanskaya.jpg",
-      "https://images.prom.ua/3985187148_w200_h200_konfety-hbf-ananasnye.jpg"
-    ]
-  },
-  {
-    "article": "1386529",
-    "name": "Цукерки глазуровані Пташине молоко Лукас кг",
-    "images": [
-      "https://images.prom.ua/6413660901_w200_h200_tsukerki-lukas-ptashine.jpg",
-      "https://images.prom.ua/6530808576_w200_h200_tsukerki-lukas-ptashine.jpg",
-      "https://images.prom.ua/6530835700_w200_h200_tsukerki-lukas-ptashine.jpg",
-      "https://images.prom.ua/6530769966_w200_h200_tsukerki-ptashine-moloko.jpg",
-      "https://images.prom.ua/6444048429_w200_h200_ptashine-moloko-tsukerki.jpg",
-      "https://images.prom.ua/6640795704_w200_h200_konfety-ptiche-moloko.jpg",
-      "https://images.prom.ua/4008135934_w200_h200_konfety-zhako-ptiche.jpg",
-      "https://images.prom.ua/4946650808_w200_h200_tsukerki-ptashine-moloko.jpg",
-      "https://images.prom.ua/5019956924_w200_h200_tsukerki-ptashine-moloko.jpg",
-      "https://images.prom.ua/6579985755_w200_h200_tsukerki-lukas-ptashine.jpg"
-    ]
-  },
-  {
-    "article": "1396492",
-    "name": "Цукерки глазуровані Ніколь ХБФ кг",
-    "images": [
-      "https://images.prom.ua/3985228343_w200_h200_konfety-hbf-nikol.jpg",
-      "https://images.prom.ua/5926780606_w200_h200_shokoladnye-glazirovannye-konfety.jpg",
-      "https://images.prom.ua/3985231810_w200_h200_konfety-hbf-nikol.jpg",
-      "https://images.prom.ua/5099763062_w200_h200_konfety-glazirovannye-intryga.jpg",
-      "https://images.prom.ua/4388323715_w200_h200_konfety-shokoladnye-glazirovannye.jpg"
-    ]
-  },
-  {
-    "article": "1406455",
-    "name": "Цукерки глазуровані лікерні Столичні Ріконд кг",
-    "images": [
-      "https://images.prom.ua/6434810145_w200_h200_tsukerki-glazurovani-vale.jpg",
-      "https://images.prom.ua/6481964932_w200_h200_tsukerki-glazurovani-vale.jpg",
-      "https://images.prom.ua/6494379008_w200_h200_tsukerki-glazurovani-vale.jpg",
-      "https://images.prom.ua/6313325226_w200_h200_tsukerki-vafelni-mimi.jpg",
-      "https://images.prom.ua/6313358492_w200_h200_tsukerki-vafelni-mimi.jpg",
-      "https://images.prom.ua/5616356146_w200_h200_konfety-stolichnye-s.jpg",
-      "https://images.prom.ua/4749231897_w200_h200_tsukerki-rikond-stolichni.jpg",
-      "https://images.prom.ua/3654070822_w200_h200_tsukerki-glazurovani-roshen.jpg",
-      "https://images.prom.ua/4935541494_w200_h200_tsukerki-amanti-chornosliv.jpg",
-      "https://images.prom.ua/4217436904_w200_h200_konfety-stolichnye-s.jpg"
-    ]
-  },
-  {
-    "article": "1416418",
-    "name": "Цукерки глазуровані лікерні Пікова дама Ріконд кг",
-    "images": [
-      "https://images.prom.ua/4217813707_w200_h200_konfety-pikovaya-dama.jpg",
-      "https://images.prom.ua/4749231897_w200_h200_tsukerki-rikond-pikova.jpg",
-      "https://images.prom.ua/5616355551_w200_h200_konfety-pikovaya-dama.jpg",
-      "https://images.prom.ua/3756934677_w200_h200_konfety-glazirovannye-lastochka.jpg",
-      "https://images.prom.ua/3771691854_w200_h200_konfety-glazirovannye-shturm.jpg",
-      "https://images.prom.ua/3771716613_w200_h200_konfety-glazirovannye-shlyager.jpg",
-      "https://images.prom.ua/3810904829_w200_h200_konfety-glazirovannye-s.jpg"
-    ]
-  },
-  {
-    "article": "1426381",
-    "name": "Цукерки глазуровані кондитерською глазур'ю Метеорит Львівський Аметист плюс кг",
-    "images": []
-  },
-  {
-    "article": "1436344",
-    "name": "Цукерки глазуровані кондитерською глазур'ю Лулу Лукас кг",
-    "images": [
-      "https://images.prom.ua/6434810145_w200_h200_tsukerki-glazurovani-vale.jpg",
-      "https://images.prom.ua/6481964932_w200_h200_tsukerki-glazurovani-vale.jpg",
-      "https://images.prom.ua/6494379008_w200_h200_tsukerki-glazurovani-vale.jpg",
-      "https://images.prom.ua/6425056458_w200_h200_tsukerki-vafelni-sosos.jpg",
-      "https://images.prom.ua/6425055750_w200_h200_tsukerki-vafelni-pineapple.jpg",
-      "https://images.prom.ua/5923029641_w200_h200_tsukerki-glazurovani-shokoladnoyu.jpg",
-      "https://images.prom.ua/6558015864_w200_h200_tsukerki-glazurovani-shokoladnoyu.jpg",
-      "https://images.prom.ua/3523916657_w200_h200_konfety-sufle-ptiche.jpg",
-      "https://images.prom.ua/4116402827_w200_h200_glazirovannye-konditerskoj-glazuryu.jpg",
-      "https://images.prom.ua/6400392032_w200_h200_tsukerki-roshen-slivki-lenivki.jpg"
-    ]
-  },
-  {
-    "article": "1446307",
-    "name": "Цукерки глазуровані кондитерською глазур'ю Кокосове диво Аметист плюс кг",
-    "images": []
-  },
-  {
-    "article": "1456270",
-    "name": "Цукерки глазуровані кондитерською глазур'ю з м'яким грильяжним корпусом Тузя Класік Лукас кг",
-    "images": [
-      "https://images.prom.ua/6248927975_w200_h200_tsukerki-lukas-patron.jpg"
-    ]
-  },
-  {
-    "article": "1466233",
-    "name": "Цукерки глазуровані Інжир з грецьким горіхом Ріконд кг",
-    "images": [
-      "https://images.prom.ua/4525419802_w200_h200_tsukerki-inzhir-z.jpg",
-      "https://images.prom.ua/4935518706_w200_h200_tsukerki-amanti-inzhir.jpg",
-      "https://images.prom.ua/5164492582_w200_h200_shokoladna-tsukerki-1.jpg",
-      "https://images.prom.ua/2751459063_w200_h200_konfety-inzhir-s.jpg",
-      "https://images.prom.ua/3916446189_w200_h200_konfety-tm-ametist.jpg",
-      "https://images.prom.ua/4574902029_w200_h200_konfety-ametist-plyus.jpg",
-      "https://images.prom.ua/6405829694_w200_h200_tsukerki-glazurovani-chornosliv.jpg",
-      "https://images.prom.ua/4749271637_w200_h200_tsukerki-rikond-chornosliv.jpg",
-      "https://images.prom.ua/4749271642_w200_h200_tsukerki-rikond-finiki.jpg",
-      "https://images.prom.ua/894414581_w200_h200_tsukerki-1kg-inzhir.jpg"
-    ]
-  },
-  {
-    "article": "1476196",
-    "name": "Цукерки глазуровані зі смаком лайму Біфесті Лукас кг",
-    "images": [
-      "https://images.prom.ua/5717801441_w200_h200_konfety-lukas-bifesti.jpg",
-      "https://images.prom.ua/6555876546_w200_h200_konfety-grilyazhnye-bifesti.jpg",
-      "https://images.prom.ua/6562814441_w200_h200_konfety-grilyazhnye-bifesti.jpg",
-      "https://images.prom.ua/6562876977_w200_h200_konfety-melodiplum-so.jpg",
-      "https://images.prom.ua/6563004812_w200_h200_konfety-marmilike-so.jpg",
-      "https://images.prom.ua/3808657292_w200_h200_tsukerki-glazurovani-piccolo.jpg",
-      "https://images.prom.ua/3808660374_w200_h200_tsukerki-glazurovani-piccolo.jpg",
-      "https://images.prom.ua/3808657701_w200_h200_tsukerki-glazurovani-piccolo.jpg",
-      "https://images.prom.ua/6562827269_w200_h200_konfety-grilyazhnye-bifesti.jpg",
-      "https://images.prom.ua/4116402827_w200_h200_glazirovannye-konditerskoj-glazuryu.jpg"
-    ]
-  },
-  {
-    "article": "1486159",
-    "name": "Цукерки глазуровані з лікерною начинкою Мідний вершник Ріконд кг",
-    "images": [
-      "https://images.prom.ua/5616357250_w200_h200_konfety-mednyj-vsadnik.jpg",
-      "https://images.prom.ua/4217801156_w200_h200_konfety-mednyj-vsadnik.jpg"
-    ]
-  },
-  {
-    "article": "1496122",
-    "name": "Цукерки глазуровані з вишневим наповнювачем Лукася Лукас кг",
-    "images": [
-      "https://images.prom.ua/6628905393_w200_h200_konfety-lukas-lucasia.jpg",
-      "https://images.prom.ua/5304649527_w200_h200_kruassanchik-s-vishnevym.jpg",
-      "https://images.prom.ua/5297056277_w200_h200_kruassanchik-s-vishnevym.jpg",
-      "https://images.prom.ua/4312859705_w200_h200_tsukerki-lukas-lukasia.jpg",
-      "https://images.prom.ua/6248931892_w200_h200_tsukerki-lukas-lukasya.jpg",
-      "https://images.prom.ua/6248939110_w200_h200_tsukerki-lukas-odamer.jpg",
-      "https://images.prom.ua/6248939115_w200_h200_tsukerki-lukas-odamer.jpg",
-      "https://images.prom.ua/4312860163_w200_h200_tsukerki-lukas-marmilajk.jpg",
-      "https://images.prom.ua/4312859708_w200_h200_tsukerki-lukas-sungrizzy.jpg",
-      "https://images.prom.ua/4312858998_w200_h200_tsukerki-lukas-lukasia.jpg"
-    ]
-  },
-  {
-    "article": "1506085",
-    "name": "Цукерки глазуровані желейні Престижний віночок Престиж кг",
-    "images": [
-      "https://images.prom.ua/6618044232_w200_h200_konfety-zhelejnye-glazirovannye.jpg",
-      "https://images.prom.ua/4388366419_w200_h200_konfety-glazirovanye-zhelejnye.jpg",
-      "https://images.prom.ua/4312860163_w200_h200_tsukerki-lukas-marmilajk.jpg",
-      "https://images.prom.ua/4123044224_w200_h200_konfety-solnechnyj-venochek.jpg",
-      "https://images.prom.ua/4312860155_w200_h200_tsukerki-lukas-marmilajk.jpg",
-      "https://images.prom.ua/4388356391_w200_h200_konfety-glazirovanye-zhelejnye.jpg",
-      "https://images.prom.ua/681449725_w200_h200_konfety-zhelejnye-vesennij.jpg",
-      "https://images.prom.ua/683109562_w200_h200_konfety-venochek-nezhnyj.jpg"
-    ]
-  },
-  {
-    "article": "1516048",
-    "name": "Цукерки глазуровані Графиня вишенька ХБФ кг",
-    "images": [
-      "https://images.prom.ua/5011860928_w200_h200_konfety-hbf-gloriya.jpg",
-      "https://images.prom.ua/3985187148_w200_h200_konfety-hbf-ananasnye.jpg",
-      "https://images.prom.ua/3985197429_w200_h200_konfety-hbf-venok.jpg",
-      "https://images.prom.ua/5011951881_w200_h200_konfety-hbf-vinograd.jpg",
-      "https://images.prom.ua/4185412612_w200_h200_konfety-hbf-kurortnye.jpg",
-      "https://images.prom.ua/4935541494_w200_h200_tsukerki-amanti-chornosliv.jpg",
-      "https://images.prom.ua/3636132005_w200_h200_konfety-glazirovannye-grafinya.jpg",
-      "https://images.prom.ua/6370762558_w200_h200_konfety-glazirovannye-venok.jpg",
-      "https://images.prom.ua/5257012742_w200_h200_krasnyj-mak-konfety.jpg",
-      "https://images.prom.ua/6405829694_w200_h200_tsukerki-glazurovani-chornosliv.jpg"
-    ]
-  },
-  {
-    "article": "1526011",
-    "name": "Цукерки глазуровані Бон Блисс хрусткі ЖЛ кг",
-    "images": [
-      "https://images.prom.ua/6415391666_w200_h200_tsukerki-glazurovani-1.jpg",
-      "https://images.prom.ua/6415387643_w200_h200_tsukerki-glazurovani-250g.jpg",
-      "https://images.prom.ua/6415380009_w200_h200_tsukerki-glazurovani-250g.jpg",
-      "https://images.prom.ua/5923029641_w200_h200_tsukerki-glazurovani-bon.jpg",
-      "https://images.prom.ua/5923029641_w200_h200_tsukerki-glazurovani-bon.jpg",
-      "https://images.prom.ua/5923029641_w200_h200_tsukerki-glazurovani-bon.jpg",
-      "https://images.prom.ua/6410441569_w200_h200_tsukerki-glazurovani-bon.jpg",
-      "https://images.prom.ua/3916673377_w200_h200_konfety-v-shokoladnoj.jpg"
-    ]
-  },
-  {
-    "article": "1535974",
-    "name": "Цукерки глазуровані Бон Блисс арахіс ЖЛ кг",
-    "images": [
-      "https://images.prom.ua/6415380009_w200_h200_tsukerki-glazurovani-250g.jpg",
-      "https://images.prom.ua/6415391666_w200_h200_tsukerki-glazurovani-1.jpg",
-      "https://images.prom.ua/6415387643_w200_h200_tsukerki-glazurovani-250g.jpg",
-      "https://images.prom.ua/6434810145_w200_h200_tsukerki-glazurovani-vale.jpg",
-      "https://images.prom.ua/5923029641_w200_h200_tsukerki-glazurovani-bon.jpg",
-      "https://images.prom.ua/5923029641_w200_h200_tsukerki-glazurovani-bon.jpg",
-      "https://images.prom.ua/5923029641_w200_h200_tsukerki-glazurovani-bon.jpg",
-      "https://images.prom.ua/6410441569_w200_h200_tsukerki-glazurovani-bon.jpg",
-      "https://images.prom.ua/5133326980_w200_h200_konfeta-sultan-golskij.jpg",
-      "https://images.prom.ua/6482914098_w200_h200_tsukerki-glazurovani-2kg.jpg"
-    ]
-  },
-  {
-    "article": "1545937",
-    "name": "Цукерки глазуровані Аркадія Лукас кг",
-    "images": [
-      "https://images.prom.ua/6413698496_w200_h200_tsukerki-lukas-arkadiya.jpg",
-      "https://images.prom.ua/4330806118_w200_h200_tsukerki-lukas-arkadiya.jpg",
-      "https://images.prom.ua/6248939110_w200_h200_tsukerki-lukas-odamer.jpg",
-      "https://images.prom.ua/6248939115_w200_h200_tsukerki-lukas-odamer.jpg",
-      "https://images.prom.ua/4322105925_w200_h200_tsukerki-lukas-arkadiya.jpg",
-      "https://images.prom.ua/4312859708_w200_h200_tsukerki-lukas-sungrizzy.jpg",
-      "https://images.prom.ua/4312860163_w200_h200_tsukerki-lukas-marmilajk.jpg",
-      "https://images.prom.ua/875086469_w200_h200_konfety-arkadiya-lukas.jpg",
-      "https://images.prom.ua/4312860155_w200_h200_tsukerki-lukas-marmilajk.jpg",
-      "https://images.prom.ua/4312860957_w200_h200_tsukerki-lukas-glazurovani.jpg"
-    ]
-  },
-  {
-    "article": "1555900",
-    "name": "Цукерки Галаретка Рошен кг",
-    "images": [
-      "https://images.prom.ua/6374969087_w200_h200_tsukerki-galaretka-roshen.jpg",
-      "https://images.prom.ua/6628386280_w200_h200_tsukerki-roshen-roshen.jpg"
-    ]
-  },
-  {
-    "article": "1565863",
-    "name": "Цукерки Вкуся хрусткий ХБФ кг",
-    "images": [
-      "https://images.prom.ua/3985208158_w200_h200_konfety-hbf-vkusya.jpg",
-      "https://images.prom.ua/3985215307_w200_h200_konfety-hbf-vkusya.jpg",
-      "https://images.prom.ua/4161805497_w200_h200_konfety-neglazirovannye-vkusya.jpg",
-      "https://images.prom.ua/4443200749_w200_h200_konfety-hbf-vkusya.jpg",
-      "https://images.prom.ua/5065344436_w200_h200_konfety-vkusya-hrustyaschij.jpg",
-      "https://images.prom.ua/1608437204_w200_h200_konfety-vkusya-hrustyaschij.jpg"
-    ]
-  },
-  {
-    "article": "1575826",
-    "name": "Цукерки Віночок Слобожанський без обгортки Авеста кг",
-    "images": []
-  },
-  {
-    "article": "1585789",
-    "name": "Цукерки Відал желейні Анаконди кг",
-    "images": [
-      "https://images.prom.ua/3379334974_w200_h200_konfety-zhelejnye-zhevatelnye.jpg",
-      "https://images.prom.ua/4394254383_w200_h200_vidal-zhevatelnyj-marmelad.jpg",
-      "https://images.prom.ua/4113618470_w200_h200_haribo-anaconda-12.jpg",
-      "https://images.prom.ua/5091642767_w200_h200_zhelejnye-konfety-trolli.jpg",
-      "https://images.prom.ua/809720890_w200_h200_zhelejnye-konfety-trolli.jpg",
-      "https://images.prom.ua/3405264618_w200_h200_zhelejnye-konfety-bez.jpg"
-    ]
-  },
-  {
-    "article": "1595752",
-    "name": "Цукерки Вишня заспиртована в шоколадному кремі ХБФ кг",
-    "images": [
-      "https://images.prom.ua/6192115532_w200_h200_konfety-shokoladnye-vishnya.jpg",
-      "https://images.prom.ua/5011951881_w200_h200_konfety-hbf-vinograd.jpg",
-      "https://images.prom.ua/2856890529_w200_h200_shokoladnye-konfety-s.jpg",
-      "https://images.prom.ua/6543685231_w200_h200_tsukerki-vishnya-zaspirtovana.jpg",
-      "https://images.prom.ua/5234278681_w200_h200_konfety-vishnya-zaspirtovannaya.jpg",
-      "https://images.prom.ua/5923029641_w200_h200_tsukerki-z-shok.jpg",
-      "https://images.prom.ua/5923591076_w200_h200_shokoladnye-konfety-s.jpg",
-      "https://images.prom.ua/3985203271_w200_h200_konfety-hbf-vishnya.jpg",
-      "https://images.prom.ua/4935517216_w200_h200_tsukerki-amanti-vishnya.jpg",
-      "https://images.prom.ua/4980816773_w200_h200_konfety-shokoladnye-vishnya.jpg"
-    ]
-  },
-  {
-    "article": "1605715",
-    "name": "Цукерки вишня в шоколаді з лікером Миешко кг",
-    "images": [
-      "https://images.prom.ua/6641857120_w200_h200_konfety-witors-chernyj.jpg",
-      "https://images.prom.ua/2856890529_w200_h200_shokoladnye-konfety-s.jpg",
-      "https://images.prom.ua/4935517216_w200_h200_tsukerki-amanti-vishnya.jpg",
-      "https://images.prom.ua/4935541493_w200_h200_tsukerki-amanti-chornosliv.jpg",
-      "https://images.prom.ua/4935518710_w200_h200_tsukerki-amanti-bauntino.jpg",
-      "https://images.prom.ua/2751453668_w200_h200_konfety-vishnya-v.jpg",
-      "https://images.prom.ua/6613609943_w200_h200_tsukerki-rovelli-boeri.jpg",
-      "https://images.prom.ua/5272992224_w200_h200_shokoladnye-italyanskie-konfety.jpg",
-      "https://images.prom.ua/4935540216_w200_h200_tsukerki-amanti-kuraga.jpg",
-      "https://images.prom.ua/2856890529_w200_h200_konfety-vishnya-v.jpg"
-    ]
-  },
-  {
-    "article": "1615678",
-    "name": "Цукерки Веселий кокос Престиж кг",
-    "images": []
-  },
-  {
-    "article": "1625641",
-    "name": "Цукерки Верже з ароматом пряженого молока ХБФ кг",
-    "images": [
-      "https://images.prom.ua/6192118054_w200_h200_konfety-pomadnye-verzhet.jpg",
-      "https://images.prom.ua/5923539990_w200_h200_glazirovannye-shokoladnye-konfety.jpg",
-      "https://images.prom.ua/6479368552_w200_h200_verzhe-z-aromatom.jpg",
-      "https://images.prom.ua/5869187192_w200_h200_vafelnye-ruletiki-firmennye.jpg",
-      "https://images.prom.ua/3282725886_w200_h200_tsukerki-vafelni-tm.jpg",
-      "https://images.prom.ua/3352777434_w200_h200_konfety-vafelnye-tm.jpg",
-      "https://images.prom.ua/5600699349_w200_h200_pechene-svezhee-saharnoe.jpg",
-      "https://images.prom.ua/4636851825_w200_h200_portsionnye-vafli-waffles.jpg",
-      "https://images.prom.ua/4622227353_w200_h200_saharnoe-pechene-dzhozi.jpg",
-      "https://images.prom.ua/3776753412_w200_h200_pechene-svezhee-saharnoe.jpg"
-    ]
-  },
-  {
-    "article": "1635604",
-    "name": "Цукерки вафельні Ледача Корівка Престиж кг",
-    "images": [
-      "https://images.prom.ua/2739860769_w200_h200_tsukerka-avk-shokoladno-vafelna.jpg",
-      "https://images.prom.ua/6395708254_w200_h200_tsukerki-korovka-1kg.jpg",
-      "https://images.prom.ua/3162033339_w200_h200_tsukerka-shokoladno-vafelna-gulivernizhnij.jpg",
-      "https://images.prom.ua/4832099094_w200_h200_tsukerka-vafelna-25.jpg",
-      "https://images.prom.ua/4006282739_w200_h200_konfety-roshen-roshen.jpg",
-      "https://images.prom.ua/4006506747_w200_h200_konfety-vafelnye-roshen.jpg",
-      "https://images.prom.ua/6628389187_w200_h200_tsukerki-vafelni-roshen.jpg",
-      "https://images.prom.ua/3611174504_w200_h200_tsukerki-vafelni-francheska.jpg",
-      "https://images.prom.ua/6545578154_w200_h200_konfety-shokoladno-vafelnye-dobryj.jpg",
-      "https://images.prom.ua/6192119587_w200_h200_konfety-vafelnye-ananasnye.jpg"
-    ]
-  },
-  {
-    "article": "1645567",
-    "name": "Цукерки вафельні Джонні шоколад Престиж кг",
-    "images": [
-      "https://images.prom.ua/6419289649_w200_h200_tsukerki-dzhoni-kroker.jpg",
-      "https://images.prom.ua/6419287851_w200_h200_tsukerki-dzhoni-kroker.jpg",
-      "https://images.prom.ua/3624533148_w200_h200_vafelnye-konfety-roshen.jpg",
-      "https://images.prom.ua/6313325226_w200_h200_tsukerki-vafelni-mimi.jpg",
-      "https://images.prom.ua/6313358492_w200_h200_tsukerki-vafelni-mimi.jpg",
-      "https://images.prom.ua/6628393208_w200_h200_tsukerki-roshen-roshen.jpg",
-      "https://images.prom.ua/4183204981_w200_h200_konfety-roshen-roshen.jpg",
-      "https://images.prom.ua/6628389187_w200_h200_tsukerki-vafelni-roshen.jpg",
-      "https://images.prom.ua/3611174504_w200_h200_tsukerki-vafelni-francheska.jpg",
-      "https://images.prom.ua/6628395252_w200_h200_tsukerki-roshen-roshen.jpg"
-    ]
-  },
-  {
-    "article": "1655530",
-    "name": "Цукерки вафельні Джонні молоко Престиж кг",
-    "images": [
-      "https://images.prom.ua/2739860769_w200_h200_tsukerka-avk-shokoladno-vafelna.jpg",
-      "https://images.prom.ua/6530769966_w200_h200_tsukerki-ptashine-moloko.jpg",
-      "https://images.prom.ua/4443202642_w200_h200_konfety-roshen-roshen.jpg",
-      "https://images.prom.ua/6419287851_w200_h200_tsukerki-dzhoni-kroker.jpg",
-      "https://images.prom.ua/6419289649_w200_h200_tsukerki-dzhoni-kroker.jpg",
-      "https://images.prom.ua/4831797663_w200_h200_tsukerka-27-kg.jpg",
-      "https://images.prom.ua/6530778146_w200_h200_tsukerki-ptashine-moloko.jpg",
-      "https://images.prom.ua/6530835700_w200_h200_tsukerki-lukas-ptashine.jpg",
-      "https://images.prom.ua/4183204981_w200_h200_konfety-roshen-roshen.jpg",
-      "https://images.prom.ua/3162033339_w200_h200_tsukerka-shokoladno-vafelna-gulivernizhnij.jpg"
-    ]
-  },
-  {
-    "article": "1665493",
-    "name": "Цукерки вафельна кулька Франческа з цілим мигдалем Балу кг",
-    "images": [
-      "https://images.prom.ua/4749268402_w200_h200_konfety-balu-francheska.jpg",
-      "https://images.prom.ua/2405276166_w200_h200_konfety-vafelnye-franchesko.jpg",
-      "https://images.prom.ua/3611174504_w200_h200_tsukerki-vafelni-francheska.jpg",
-      "https://images.prom.ua/4711720472_w200_h200_konfety-francheska-s.jpg",
-      "https://images.prom.ua/6477508631_w200_h200_konfety-vafelnye-franchesko.jpg",
-      "https://images.prom.ua/5064086786_w200_h200_konfety-balu-francheska.jpg",
-      "https://images.prom.ua/5882867792_w200_h200_konfety-francheska-s.jpg",
-      "https://images.prom.ua/2405273204_w200_h200_konfety-franchesko-vafelnyj.jpg",
-      "https://images.prom.ua/4676997859_w200_h200_konfety-vafelnyj-sharik.jpg",
-      "https://images.prom.ua/4116335184_w200_h200_konfety-vafelnye-francheska.jpg"
-    ]
-  },
-  {
-    "article": "1675456",
-    "name": "Цукерки Білочка з лісовим горіхом Престиж кг",
-    "images": [
-      "https://images.prom.ua/6628372925_w200_h200_tsukerki-roshen-roshen.jpg",
-      "https://images.prom.ua/6495641780_w200_h200_tsukerki-kuraga-z.jpg",
-      "https://images.prom.ua/6530828473_w200_h200_tsukerki-tryufel-z.jpg",
-      "https://images.prom.ua/6527689510_w200_h200_dubajski-tsukerki-lux.jpg",
-      "https://images.prom.ua/4935541493_w200_h200_tsukerki-amanti-chornosliv.jpg",
-      "https://images.prom.ua/4443200056_w200_h200_konfety-roshen-roshen.jpg",
-      "https://images.prom.ua/4020773803_w200_h200_tsukerki-korolivskij-sharm.jpg",
-      "https://images.prom.ua/6409120956_w200_h200_konfety-lindt-lindor.jpg",
-      "https://images.prom.ua/6551339639_w200_h200_konfety-lindt-nuxor.jpg",
-      "https://images.prom.ua/6551345545_w200_h200_konfety-lindt-nuxor.jpg"
-    ]
-  },
-  {
-    "article": "1685419",
-    "name": "Цукерки Беліссімо полуниця з вершками Конті кг",
-    "images": [
-      "https://images.prom.ua/6383633258_w200_h200_tsukerki-konti-1kg.jpg",
-      "https://images.prom.ua/6383616427_w200_h200_tsukerki-konti-1kg.jpg",
-      "https://images.prom.ua/4690030910_w200_h200_chornij-chaj-polunitsya.jpg",
-      "https://images.prom.ua/4648246627_w200_h200_klubnika-so-slivkami.jpg",
-      "https://images.prom.ua/6383633867_w200_h200_desert-konti-bonjour.jpg",
-      "https://images.prom.ua/6383607599_w200_h200_tsukerki-konti-1kg.jpg",
-      "https://images.prom.ua/6383625855_w200_h200_tsukerki-konti-1kg.jpg",
-      "https://images.prom.ua/6402450806_w200_h200_konfety-konti-mishutka.jpg",
-      "https://images.prom.ua/4690030910_w200_h200_chornij-chaj-polunitsya.jpg",
-      "https://images.prom.ua/4261531156_w200_h200_belissimo-klassik-klubnika.jpg"
-    ]
-  },
-  {
-    "article": "1695382",
-    "name": "Цукерки Беліссімо Классіко смак крем-брюле Конті кг",
-    "images": [
-      "https://images.prom.ua/6383650619_w200_h200_tsukerki-konti-1kg.jpg",
-      "https://images.prom.ua/6383641436_w200_h200_tsukerki-konti-1kg.jpg",
-      "https://images.prom.ua/6383666209_w200_h200_tsukerki-konti-1kg.jpg",
-      "https://images.prom.ua/6192117004_w200_h200_konfety-shokoladnye-nikol.jpg",
-      "https://images.prom.ua/3856243105_w200_h200_belissimo-klassik-krem.jpg",
-      "https://images.prom.ua/6383970266_w200_h200_tsukerki-1kg-belissimo.jpg"
-    ]
-  },
-  {
-    "article": "1705345",
-    "name": "Цукерки Балу Коньяк десерт кг",
-    "images": [
-      "https://images.prom.ua/6390881713_w200_h200_tsukerki-francheska-konyak.jpg",
-      "https://images.prom.ua/2405249674_w200_h200_konfety-konyak-desert.jpg",
-      "https://images.prom.ua/4676997859_w200_h200_konfety-vafelnyj-sharik.jpg",
-      "https://images.prom.ua/4116385118_w200_h200_konfety-konyak-desert.jpg",
-      "https://images.prom.ua/4116402827_w200_h200_glazirovannye-konditerskoj-glazuryu.jpg",
-      "https://images.prom.ua/681441289_w200_h200_konfety-vafilnyj-sharik.jpg"
-    ]
-  },
-  {
-    "article": "1715308",
-    "name": "Цукерки Асорті кг",
-    "images": [
-      "https://images.prom.ua/6455084698_w200_h200_tsukerki-asorti-roshen.jpg",
-      "https://images.prom.ua/6413647153_w200_h200_tsukerki-lukasya-asorti.jpg",
-      "https://images.prom.ua/5223075520_w200_h200_shokoladnye-konfety-amanti.jpg",
-      "https://images.prom.ua/5168139323_w200_h200_konfety-tryufel-assorti.jpg",
-      "https://images.prom.ua/6409611371_w200_h200_konfety-amanti-1.jpg",
-      "https://images.prom.ua/1287284715_w200_h200_zhevatelnye-konfety-toffix.jpg",
-      "https://images.prom.ua/5018479967_w200_h200_tsukerki-multizlakova-asorti.jpg",
-      "https://images.prom.ua/6513647241_w200_h200_shokoladnye-grecheskie-konfety.jpg",
-      "https://images.prom.ua/4434042934_w200_h200_tsukerki-dolciando-asorti.jpg",
-      "https://images.prom.ua/6377786406_w200_h200_tsukerki-amanti-asorti.jpg"
-    ]
-  },
-  {
-    "article": "1725271",
-    "name": "Цукерки Ананасні ХБФ кг",
-    "images": [
-      "https://images.prom.ua/3985187148_w200_h200_konfety-hbf-ananasnye.jpg",
-      "https://images.prom.ua/4981090896_w200_h200_konfety-ananasnye-1.jpg"
-    ]
-  },
-  {
-    "article": "1735234",
-    "name": "Цукерки Аманті Чорнослив з волоським горіхом кг",
-    "images": [
-      "https://images.prom.ua/4935541493_w200_h200_tsukerki-amanti-chornosliv.jpg",
-      "https://images.prom.ua/6387178034_w200_h200_tsukerki-amanti-chornosliv.jpg",
-      "https://images.prom.ua/6409612187_w200_h200_konfety-amanti-1.jpg",
-      "https://images.prom.ua/4935540216_w200_h200_tsukerki-amanti-kuraga.jpg",
-      "https://images.prom.ua/6545620830_w200_h200_chernosliv-v-shokolade.jpg",
-      "https://images.prom.ua/4935518706_w200_h200_tsukerki-amanti-inzhir.jpg",
-      "https://images.prom.ua/4935541494_w200_h200_tsukerki-amanti-chornosliv.jpg",
-      "https://images.prom.ua/5266221175_w200_h200_konfety-finik-s.jpg",
-      "https://images.prom.ua/4935517219_w200_h200_tsukerki-amanti-persik.jpg",
-      "https://images.prom.ua/4068631698_w200_h200_konfety-chernosliv-s.jpg"
-    ]
-  },
-  {
-    "article": "1745197",
-    "name": "Цукерки Аманті Асорті кг",
-    "images": [
-      "https://images.prom.ua/4970051916_w200_h200_fruktovye-konfety-amanti.jpg",
-      "https://images.prom.ua/4068701091_w200_h200_konfety-amanti-assorti.jpg",
-      "https://images.prom.ua/6409611371_w200_h200_konfety-amanti-1.jpg",
-      "https://images.prom.ua/6409612187_w200_h200_konfety-amanti-1.jpg",
-      "https://images.prom.ua/5223075520_w200_h200_shokoladnye-konfety-amanti.jpg",
-      "https://images.prom.ua/5780749539_w200_h200_konfety-assorti-amanti.jpg",
-      "https://images.prom.ua/6409614016_w200_h200_konfety-assorti-amanti.jpg",
-      "https://images.prom.ua/6409617515_w200_h200_konfety-amanti-1.jpg",
-      "https://images.prom.ua/4935492235_w200_h200_tsukerki-amanti-asorti.jpg",
-      "https://images.prom.ua/6377786406_w200_h200_tsukerki-amanti-asorti.jpg"
+    "article": 40085,
+    "name": "Гребінці морські Вічі очищені с/м кг",
+    "images": [
+      "https://st4.depositphotos.com/3259293/38832/i/380/depositphotos_388326940-stock-photo-opened-closed-scallops.jpg",
+      "https://st4.depositphotos.com/3259293/38832/i/450/depositphotos_388326940-stock-photo-opened-closed-scallops.jpg",
+      "https://st4.depositphotos.com/3259293/38836/i/380/depositphotos_388362264-stock-photo-opened-scallops-isolated-white.jpg",
+      "https://st4.depositphotos.com/3259293/38836/i/450/depositphotos_388362264-stock-photo-opened-scallops-isolated-white.jpg",
+      "https://st4.depositphotos.com/4147207/40583/i/380/depositphotos_405838578-stock-photo-seremban-malaysia-december-2016-various.jpg",
+      "https://st4.depositphotos.com/4147207/40583/i/450/depositphotos_405838578-stock-photo-seremban-malaysia-december-2016-various.jpg",
+      "https://st2.depositphotos.com/6967968/9814/i/380/depositphotos_98141810-stock-photo-cardiidae-in-black-and-white.jpg",
+      "https://st2.depositphotos.com/6967968/9814/i/450/depositphotos_98141810-stock-photo-cardiidae-in-black-and-white.jpg",
+      "https://st4.depositphotos.com/3259293/38826/i/380/depositphotos_388261318-stock-photo-scallops-isolated-white.jpg",
+      "https://st4.depositphotos.com/3259293/38826/i/450/depositphotos_388261318-stock-photo-scallops-isolated-white.jpg",
+      "https://st4.depositphotos.com/3259293/38833/i/380/depositphotos_388333118-stock-photo-scallop-openes-scallop.jpg",
+      "https://st4.depositphotos.com/3259293/38833/i/450/depositphotos_388333118-stock-photo-scallop-openes-scallop.jpg",
+      "https://st3.depositphotos.com/29320862/33158/i/380/depositphotos_331583412-stock-photo-fresh-shells-close-view.jpg",
+      "https://st3.depositphotos.com/29320862/33158/i/450/depositphotos_331583412-stock-photo-fresh-shells-close-view.jpg",
+      "https://st4.depositphotos.com/3259293/38862/i/380/depositphotos_388622672-stock-photo-three-scallops-isolated-white.jpg",
+      "https://st4.depositphotos.com/3259293/38862/i/450/depositphotos_388622672-stock-photo-three-scallops-isolated-white.jpg",
+      "https://st3.depositphotos.com/28229612/35965/i/380/depositphotos_359651018-stock-photo-sea-shells-black-background.jpg",
+      "https://st3.depositphotos.com/28229612/35965/i/450/depositphotos_359651018-stock-photo-sea-shells-black-background.jpg",
+      "https://st4.depositphotos.com/3259293/38837/i/380/depositphotos_388379966-stock-photo-opened-scallops-isolated-white.jpg",
+      "https://st4.depositphotos.com/3259293/38837/i/450/depositphotos_388379966-stock-photo-opened-scallops-isolated-white.jpg",
+      "https://st.depositphotos.com/7610136/55149/i/380/depositphotos_551496688-stock-photo-ibaraki-japan-march-2022-closeup.jpg",
+      "https://st.depositphotos.com/7610136/55149/i/450/depositphotos_551496688-stock-photo-ibaraki-japan-march-2022-closeup.jpg",
+      "https://st2.depositphotos.com/1736195/5318/i/380/depositphotos_53186457-stock-photo-seashells.jpg",
+      "https://st2.depositphotos.com/1736195/5318/i/450/depositphotos_53186457-stock-photo-seashells.jpg",
+      "https://static5.depositphotos.com/1045223/521/i/380/depositphotos_5213592-stock-photo-easter-eggs-on-the-sea.jpg",
+      "https://static5.depositphotos.com/1045223/521/i/450/depositphotos_5213592-stock-photo-easter-eggs-on-the-sea.jpg",
+      "https://st4.depositphotos.com/3259293/38833/i/380/depositphotos_388331838-stock-photo-opened-closed-scallops.jpg",
+      "https://st4.depositphotos.com/3259293/38833/i/450/depositphotos_388331838-stock-photo-opened-closed-scallops.jpg",
+      "https://static3.depositphotos.com/1003792/178/i/380/depositphotos_1787466-stock-photo-exclamation-mark.jpg",
+      "https://static3.depositphotos.com/1003792/178/i/450/depositphotos_1787466-stock-photo-exclamation-mark.jpg",
+      "https://st2.depositphotos.com/1777193/5765/i/380/depositphotos_57652781-stock-photo-scallops-with-butter.jpg",
+      "https://st2.depositphotos.com/1777193/5765/i/450/depositphotos_57652781-stock-photo-scallops-with-butter.jpg",
+      "https://st2.depositphotos.com/1874629/6824/i/380/depositphotos_68247431-stock-photo-fresh-scallops-saltwater-clams.jpg",
+      "https://st2.depositphotos.com/1874629/6824/i/450/depositphotos_68247431-stock-photo-fresh-scallops-saltwater-clams.jpg",
+      "https://st4.depositphotos.com/3259293/38827/i/380/depositphotos_388271518-stock-photo-scallops-opened-scallop.jpg",
+      "https://st4.depositphotos.com/3259293/38827/i/450/depositphotos_388271518-stock-photo-scallops-opened-scallop.jpg",
+      "https://st2.depositphotos.com/1006360/10167/i/380/depositphotos_101673786-stock-photo-heap-of-seashells.jpg",
+      "https://st2.depositphotos.com/1006360/10167/i/450/depositphotos_101673786-stock-photo-heap-of-seashells.jpg",
+      "https://st.depositphotos.com/1017146/2186/i/380/depositphotos_21861123-stock-photo-scallop-shells.jpg",
+      "https://st.depositphotos.com/1017146/2186/i/450/depositphotos_21861123-stock-photo-scallop-shells.jpg",
+      "https://st.depositphotos.com/17499462/52162/i/380/depositphotos_521627398-stock-photo-fresh-clams-close-background.jpg",
+      "https://st.depositphotos.com/17499462/52162/i/450/depositphotos_521627398-stock-photo-fresh-clams-close-background.jpg"
+    ]
+  },
+  {
+    "article": 31982,
+    "name": "Кальмар с/м тушка кг",
+    "images": [
+      "https://st3.depositphotos.com/30499588/36672/i/380/depositphotos_366724924-stock-photo-monkfish-baked-glass-tray.jpg",
+      "https://st3.depositphotos.com/30499588/36672/i/450/depositphotos_366724924-stock-photo-monkfish-baked-glass-tray.jpg",
+      "https://st2.depositphotos.com/5963752/9456/i/380/depositphotos_94562260-stock-photo-fresh-sea-food.jpg",
+      "https://st2.depositphotos.com/5963752/9456/i/450/depositphotos_94562260-stock-photo-fresh-sea-food.jpg",
+      "https://st5.depositphotos.com/76470424/68467/i/380/depositphotos_684678056-stock-photo-lamb-head-prawns-yellow-bowl.jpg",
+      "https://st5.depositphotos.com/76470424/68467/i/450/depositphotos_684678056-stock-photo-lamb-head-prawns-yellow-bowl.jpg",
+      "https://st3.depositphotos.com/7610136/18393/i/380/depositphotos_183934782-stock-photo-paris-france-january-2018-seafood.jpg",
+      "https://st3.depositphotos.com/7610136/18393/i/450/depositphotos_183934782-stock-photo-paris-france-january-2018-seafood.jpg",
+      "https://st4.depositphotos.com/26845228/28786/i/380/depositphotos_287862028-stock-photo-pot-chicken-stock-chicken-ribs.jpg",
+      "https://st4.depositphotos.com/26845228/28786/i/450/depositphotos_287862028-stock-photo-pot-chicken-stock-chicken-ribs.jpg",
+      "https://st4.depositphotos.com/37008448/40689/i/380/depositphotos_406893934-stock-photo-boiled-lard-plate-sprinkled-black.jpg",
+      "https://st4.depositphotos.com/37008448/40689/i/450/depositphotos_406893934-stock-photo-boiled-lard-plate-sprinkled-black.jpg",
+      "https://st4.depositphotos.com/4738303/24809/i/380/depositphotos_248099866-stock-photo-squid-with-garlic-and-pepper.jpg",
+      "https://st4.depositphotos.com/4738303/24809/i/450/depositphotos_248099866-stock-photo-squid-with-garlic-and-pepper.jpg",
+      "https://st4.depositphotos.com/4110347/31451/i/380/depositphotos_314511592-stock-photo-spicy-boiled-pork-innards-herb.jpg",
+      "https://st4.depositphotos.com/4110347/31451/i/450/depositphotos_314511592-stock-photo-spicy-boiled-pork-innards-herb.jpg",
+      "https://st4.depositphotos.com/12318692/26374/i/380/depositphotos_263740506-stock-photo-fried-squid-eggs-pan-street.jpg",
+      "https://st4.depositphotos.com/12318692/26374/i/450/depositphotos_263740506-stock-photo-fried-squid-eggs-pan-street.jpg",
+      "https://st3.depositphotos.com/1122921/13502/i/380/depositphotos_135020670-stock-photo-fresh-squid-in-fish-market.jpg",
+      "https://st3.depositphotos.com/1122921/13502/i/450/depositphotos_135020670-stock-photo-fresh-squid-in-fish-market.jpg",
+      "https://st4.depositphotos.com/18732104/20930/i/380/depositphotos_209308424-stock-photo-bait-preparation-fishing.jpg",
+      "https://st4.depositphotos.com/18732104/20930/i/450/depositphotos_209308424-stock-photo-bait-preparation-fishing.jpg",
+      "https://st5.depositphotos.com/2101559/67334/i/380/depositphotos_673349958-stock-photo-photography-bowl-soup-mushrooms-other.jpg",
+      "https://st5.depositphotos.com/2101559/67334/i/450/depositphotos_673349958-stock-photo-photography-bowl-soup-mushrooms-other.jpg",
+      "https://st2.depositphotos.com/31855538/42712/i/380/depositphotos_427120570-stock-photo-fresh-small-squids-ice-wicker.jpg",
+      "https://st2.depositphotos.com/31855538/42712/i/450/depositphotos_427120570-stock-photo-fresh-small-squids-ice-wicker.jpg",
+      "https://st.depositphotos.com/1907667/4764/i/380/depositphotos_47645537-stock-photo-double-big-squids-roasted.jpg",
+      "https://st.depositphotos.com/1907667/4764/i/450/depositphotos_47645537-stock-photo-double-big-squids-roasted.jpg",
+      "https://st.depositphotos.com/1801979/4030/i/380/depositphotos_40300775-stock-photo-b-b-q-grilled-squid.jpg",
+      "https://st.depositphotos.com/1801979/4030/i/450/depositphotos_40300775-stock-photo-b-b-q-grilled-squid.jpg",
+      "https://st3.depositphotos.com/28751796/36481/i/380/depositphotos_364814624-stock-photo-carciofi-alla-romana-typical-dish.jpg",
+      "https://st3.depositphotos.com/28751796/36481/i/450/depositphotos_364814624-stock-photo-carciofi-alla-romana-typical-dish.jpg",
+      "https://st.depositphotos.com/37306504/51656/i/380/depositphotos_516562618-stock-photo-delicious-grilled-splendid-squid-fresh.jpg",
+      "https://st.depositphotos.com/37306504/51656/i/450/depositphotos_516562618-stock-photo-delicious-grilled-splendid-squid-fresh.jpg",
+      "https://st5.depositphotos.com/84338648/70505/i/380/depositphotos_705059380-stock-photo-delicious-oyster-sauce-squid-restaurant.jpg",
+      "https://st5.depositphotos.com/84338648/70505/i/450/depositphotos_705059380-stock-photo-delicious-oyster-sauce-squid-restaurant.jpg",
+      "https://st5.depositphotos.com/92151478/77884/i/380/depositphotos_778844428-stock-photo-fresh-steamed-white-fish-ginger.jpg",
+      "https://st5.depositphotos.com/92151478/77884/i/450/depositphotos_778844428-stock-photo-fresh-steamed-white-fish-ginger.jpg",
+      "https://st2.depositphotos.com/14305584/47725/i/380/depositphotos_477259856-stock-photo-small-fish-curry-pumpkin-slices.jpg",
+      "https://st2.depositphotos.com/14305584/47725/i/450/depositphotos_477259856-stock-photo-small-fish-curry-pumpkin-slices.jpg",
+      "https://st5.depositphotos.com/93304708/78777/i/380/depositphotos_787779552-stock-photo-dried-fish-sun-preserved-food.jpg",
+      "https://st5.depositphotos.com/93304708/78777/i/450/depositphotos_787779552-stock-photo-dried-fish-sun-preserved-food.jpg"
+    ]
+  },
+  {
+    "article": 31656,
+    "name": "Кальмар туба с/м кг",
+    "images": [
+      "https://st4.depositphotos.com/4601851/27419/i/380/depositphotos_274194764-stock-photo-group-of-isolated-silicone-lures.jpg",
+      "https://st4.depositphotos.com/4601851/27419/i/450/depositphotos_274194764-stock-photo-group-of-isolated-silicone-lures.jpg",
+      "https://st2.depositphotos.com/3688875/8996/i/380/depositphotos_89969596-stock-photo-winter-fishing-rod-with-mormyshkae.jpg",
+      "https://st2.depositphotos.com/3688875/8996/i/450/depositphotos_89969596-stock-photo-winter-fishing-rod-with-mormyshkae.jpg",
+      "https://st5.depositphotos.com/1801483/76806/i/380/depositphotos_768067528-stock-photo-abstract-background-beautiful-photo-digital.jpg",
+      "https://st5.depositphotos.com/1801483/76806/i/450/depositphotos_768067528-stock-photo-abstract-background-beautiful-photo-digital.jpg",
+      "https://st.depositphotos.com/1009391/53500/i/380/depositphotos_535008410-stock-photo-squid-red-sea-colorful-beautiful.jpg",
+      "https://st.depositphotos.com/1009391/53500/i/450/depositphotos_535008410-stock-photo-squid-red-sea-colorful-beautiful.jpg",
+      "https://st4.depositphotos.com/3228843/21755/i/380/depositphotos_217556144-stock-photo-close-jellyfish-medusa-fish-tank.jpg",
+      "https://st4.depositphotos.com/3228843/21755/i/450/depositphotos_217556144-stock-photo-close-jellyfish-medusa-fish-tank.jpg",
+      "https://st5.depositphotos.com/13064652/74092/i/380/depositphotos_740926990-stock-photo-lobed-comb-jellyfish-leucothea-multicornis.jpg",
+      "https://st5.depositphotos.com/13064652/74092/i/450/depositphotos_740926990-stock-photo-lobed-comb-jellyfish-leucothea-multicornis.jpg",
+      "https://st2.depositphotos.com/2074169/42894/i/380/depositphotos_428945116-stock-photo-new-year-retro-christmas-tree.jpg",
+      "https://st2.depositphotos.com/2074169/42894/i/450/depositphotos_428945116-stock-photo-new-year-retro-christmas-tree.jpg",
+      "https://st4.depositphotos.com/3228843/21755/i/380/depositphotos_217556294-stock-photo-close-jellyfish-medusa-fish-tank.jpg",
+      "https://st4.depositphotos.com/3228843/21755/i/450/depositphotos_217556294-stock-photo-close-jellyfish-medusa-fish-tank.jpg",
+      "https://st3.depositphotos.com/7148634/36817/i/380/depositphotos_368171942-stock-photo-white-violet-plastic-tweezers-soft.jpg",
+      "https://st3.depositphotos.com/7148634/36817/i/450/depositphotos_368171942-stock-photo-white-violet-plastic-tweezers-soft.jpg",
+      "https://st5.depositphotos.com/93168938/79984/i/380/depositphotos_799843500-stock-photo-beautiful-drift-ice-angel-clione.jpg",
+      "https://st5.depositphotos.com/93168938/79984/i/450/depositphotos_799843500-stock-photo-beautiful-drift-ice-angel-clione.jpg",
+      "https://st4.depositphotos.com/1500997/21044/i/380/depositphotos_210445360-stock-photo-ice-fishing-mormyshka-wobbler-white.jpg",
+      "https://st4.depositphotos.com/1500997/21044/i/450/depositphotos_210445360-stock-photo-ice-fishing-mormyshka-wobbler-white.jpg",
+      "https://st4.depositphotos.com/21377728/30571/i/380/depositphotos_305716716-stock-photo-caribbean-reef-squid.jpg",
+      "https://st4.depositphotos.com/21377728/30571/i/450/depositphotos_305716716-stock-photo-caribbean-reef-squid.jpg",
+      "https://st5.depositphotos.com/93168938/79984/i/380/depositphotos_799843400-stock-photo-beautiful-drift-ice-angel-clione.jpg",
+      "https://st5.depositphotos.com/93168938/79984/i/450/depositphotos_799843400-stock-photo-beautiful-drift-ice-angel-clione.jpg",
+      "https://st3.depositphotos.com/13735766/37000/i/380/depositphotos_370000798-stock-photo-box-jellyfish-also-known-sea.jpg",
+      "https://st3.depositphotos.com/13735766/37000/i/450/depositphotos_370000798-stock-photo-box-jellyfish-also-known-sea.jpg",
+      "https://st2.depositphotos.com/50444160/46555/i/380/depositphotos_465555042-stock-photo-octopus-white-background.jpg",
+      "https://st2.depositphotos.com/50444160/46555/i/450/depositphotos_465555042-stock-photo-octopus-white-background.jpg",
+      "https://st5.depositphotos.com/11206426/75177/i/380/depositphotos_751775028-stock-photo-vibrant-purple-shapes-swirl-dance.jpg",
+      "https://st5.depositphotos.com/11206426/75177/i/450/depositphotos_751775028-stock-photo-vibrant-purple-shapes-swirl-dance.jpg",
+      "https://st.depositphotos.com/1736021/5155/i/380/depositphotos_51551381-stock-photo-sea-slug.jpg",
+      "https://st.depositphotos.com/1736021/5155/i/450/depositphotos_51551381-stock-photo-sea-slug.jpg",
+      "https://st.depositphotos.com/2158079/2492/i/380/depositphotos_24923141-stock-photo-artificial-baits-and-fishing-line.jpg",
+      "https://st.depositphotos.com/2158079/2492/i/450/depositphotos_24923141-stock-photo-artificial-baits-and-fishing-line.jpg",
+      "https://st5.depositphotos.com/1751835/78899/i/380/depositphotos_788991624-stock-photo-photos-ajelly-fish-san-francisco.jpg",
+      "https://st5.depositphotos.com/1751835/78899/i/450/depositphotos_788991624-stock-photo-photos-ajelly-fish-san-francisco.jpg",
+      "https://st5.depositphotos.com/93168938/79984/i/380/depositphotos_799843112-stock-photo-beautiful-drift-ice-angel-clione.jpg",
+      "https://st5.depositphotos.com/93168938/79984/i/450/depositphotos_799843112-stock-photo-beautiful-drift-ice-angel-clione.jpg",
+      "https://st4.depositphotos.com/24236038/25418/i/380/depositphotos_254184302-stock-photo-close-up-of-air-bubbles.jpg",
+      "https://st4.depositphotos.com/24236038/25418/i/450/depositphotos_254184302-stock-photo-close-up-of-air-bubbles.jpg"
+    ]
+  },
+  {
+    "article": 32599,
+    "name": "Креветка вар/мор 90-120 кг",
+    "images": [
+      "https://st4.depositphotos.com/27179552/31516/i/380/depositphotos_315166760-stock-photo-fresh-shrimp-on-dish.jpg",
+      "https://st4.depositphotos.com/27179552/31516/i/450/depositphotos_315166760-stock-photo-fresh-shrimp-on-dish.jpg",
+      "https://st4.depositphotos.com/15151134/40510/i/380/depositphotos_405105390-stock-photo-cooled-fish-carp-lies-ice.jpg",
+      "https://st4.depositphotos.com/15151134/40510/i/450/depositphotos_405105390-stock-photo-cooled-fish-carp-lies-ice.jpg",
+      "https://static8.depositphotos.com/1419769/1054/i/380/depositphotos_10542596-stock-photo-fresh-adriatic-brown-shrimps.jpg",
+      "https://static8.depositphotos.com/1419769/1054/i/450/depositphotos_10542596-stock-photo-fresh-adriatic-brown-shrimps.jpg",
+      "https://st2.depositphotos.com/1594701/5487/i/380/depositphotos_54873133-stock-photo-shrimp.jpg",
+      "https://st2.depositphotos.com/1594701/5487/i/450/depositphotos_54873133-stock-photo-shrimp.jpg",
+      "https://st3.depositphotos.com/2212984/14997/i/380/depositphotos_149979738-stock-photo-prawns-on-the-table-plate.jpg",
+      "https://st3.depositphotos.com/2212984/14997/i/450/depositphotos_149979738-stock-photo-prawns-on-the-table-plate.jpg",
+      "https://st3.depositphotos.com/29442850/32177/i/380/depositphotos_321771964-stock-illustration-shrimp-lies-mirror-reflection-white.jpg",
+      "https://st3.depositphotos.com/29442850/32177/i/450/depositphotos_321771964-stock-illustration-shrimp-lies-mirror-reflection-white.jpg",
+      "https://static8.depositphotos.com/1206677/1063/i/380/depositphotos_10633835-stock-photo-lobster.jpg",
+      "https://static8.depositphotos.com/1206677/1063/i/450/depositphotos_10633835-stock-photo-lobster.jpg",
+      "https://st3.depositphotos.com/1719830/14132/i/380/depositphotos_141323020-stock-photo-big-tiger-shrimps-for-sale.jpg",
+      "https://st3.depositphotos.com/1719830/14132/i/450/depositphotos_141323020-stock-photo-big-tiger-shrimps-for-sale.jpg",
+      "https://st4.depositphotos.com/32856862/40477/i/380/depositphotos_404776630-stock-photo-delicious-shrimps-table.jpg",
+      "https://st4.depositphotos.com/32856862/40477/i/450/depositphotos_404776630-stock-photo-delicious-shrimps-table.jpg",
+      "https://st5.depositphotos.com/48430940/75104/i/380/depositphotos_751045978-stock-photo-close-fresh-raw-shrimp-prawns.jpg",
+      "https://st5.depositphotos.com/48430940/75104/i/450/depositphotos_751045978-stock-photo-close-fresh-raw-shrimp-prawns.jpg",
+      "https://st4.depositphotos.com/36864246/38350/i/380/depositphotos_383505622-stock-photo-fresh-raw-uncooked-shrimp-plate.jpg",
+      "https://st4.depositphotos.com/36864246/38350/i/450/depositphotos_383505622-stock-photo-fresh-raw-uncooked-shrimp-plate.jpg",
+      "https://st3.depositphotos.com/30499588/36672/i/380/depositphotos_366726278-stock-photo-fresh-prawns-tupper.jpg",
+      "https://st3.depositphotos.com/30499588/36672/i/450/depositphotos_366726278-stock-photo-fresh-prawns-tupper.jpg",
+      "https://st3.depositphotos.com/30499588/36226/i/380/depositphotos_362262974-stock-photo-fresh-red-prawns-cooked-grill.jpg",
+      "https://st3.depositphotos.com/30499588/36226/i/450/depositphotos_362262974-stock-photo-fresh-red-prawns-cooked-grill.jpg",
+      "https://st.depositphotos.com/2451847/3169/i/380/depositphotos_31695909-stock-photo-low-price-fresh-shrimp-in.jpg",
+      "https://st.depositphotos.com/2451847/3169/i/450/depositphotos_31695909-stock-photo-low-price-fresh-shrimp-in.jpg",
+      "https://st.depositphotos.com/1032749/2053/i/380/depositphotos_20538737-stock-photo-raw-prawns.jpg",
+      "https://st.depositphotos.com/1032749/2053/i/450/depositphotos_20538737-stock-photo-raw-prawns.jpg",
+      "https://st.depositphotos.com/5550632/60983/i/380/depositphotos_609830676-stock-photo-juicy-pink-shrimp-lying-plate.jpg",
+      "https://st.depositphotos.com/5550632/60983/i/450/depositphotos_609830676-stock-photo-juicy-pink-shrimp-lying-plate.jpg",
+      "https://st4.depositphotos.com/11450098/40268/i/380/depositphotos_402684596-stock-photo-lots-white-shrimp-shrimp-random.jpg",
+      "https://st4.depositphotos.com/11450098/40268/i/450/depositphotos_402684596-stock-photo-lots-white-shrimp-shrimp-random.jpg",
+      "https://static8.depositphotos.com/1316984/796/i/380/depositphotos_7961365-stock-photo-mediterranean-red-shrimps.jpg",
+      "https://static8.depositphotos.com/1316984/796/i/450/depositphotos_7961365-stock-photo-mediterranean-red-shrimps.jpg",
+      "https://st5.depositphotos.com/3275441/68986/i/380/depositphotos_689863890-stock-photo-shrimp-fresh-prawn-raw-seafood.jpg",
+      "https://st5.depositphotos.com/3275441/68986/i/450/depositphotos_689863890-stock-photo-shrimp-fresh-prawn-raw-seafood.jpg",
+      "https://st3.depositphotos.com/22341038/34300/i/380/depositphotos_343006270-stock-photo-plate-with-shrimps-isolated-on.jpg",
+      "https://st3.depositphotos.com/22341038/34300/i/450/depositphotos_343006270-stock-photo-plate-with-shrimps-isolated-on.jpg",
+      "https://st2.depositphotos.com/1541589/5802/i/380/depositphotos_58027691-stock-photo-tasty-of-dried-shrimp.jpg",
+      "https://st2.depositphotos.com/1541589/5802/i/450/depositphotos_58027691-stock-photo-tasty-of-dried-shrimp.jpg"
+    ]
+  },
+  {
+    "article": 32644,
+    "name": "Креветка вар/мор чищена з хвостом 31-40 кг",
+    "images": [
+      "https://st2.depositphotos.com/1594701/5487/i/380/depositphotos_54873133-stock-photo-shrimp.jpg",
+      "https://st2.depositphotos.com/1594701/5487/i/450/depositphotos_54873133-stock-photo-shrimp.jpg",
+      "https://st2.depositphotos.com/1541589/5803/i/380/depositphotos_58036869-stock-photo-fresh-shrimp-and-squid.jpg",
+      "https://st2.depositphotos.com/1541589/5803/i/450/depositphotos_58036869-stock-photo-fresh-shrimp-and-squid.jpg",
+      "https://st4.depositphotos.com/15151134/40510/i/380/depositphotos_405105390-stock-photo-cooled-fish-carp-lies-ice.jpg",
+      "https://st4.depositphotos.com/15151134/40510/i/450/depositphotos_405105390-stock-photo-cooled-fish-carp-lies-ice.jpg",
+      "https://st.depositphotos.com/1440280/2633/i/380/depositphotos_26332685-stock-photo-fish-market.jpg",
+      "https://st.depositphotos.com/1440280/2633/i/450/depositphotos_26332685-stock-photo-fish-market.jpg",
+      "https://st4.depositphotos.com/36592336/39429/i/380/depositphotos_394296596-stock-photo-group-indian-detailed-raw-prawns.jpg",
+      "https://st4.depositphotos.com/36592336/39429/i/450/depositphotos_394296596-stock-photo-group-indian-detailed-raw-prawns.jpg",
+      "https://st5.depositphotos.com/94428396/80368/i/380/depositphotos_803689946-stock-photo-fresh-seafood-box-ice-market.jpg",
+      "https://st5.depositphotos.com/94428396/80368/i/450/depositphotos_803689946-stock-photo-fresh-seafood-box-ice-market.jpg",
+      "https://st5.depositphotos.com/68140326/68836/i/380/depositphotos_688361268-stock-photo-close-half-cooked-fried-shrimp.jpg",
+      "https://st5.depositphotos.com/68140326/68836/i/450/depositphotos_688361268-stock-photo-close-half-cooked-fried-shrimp.jpg",
+      "https://st3.depositphotos.com/3248091/37123/i/380/depositphotos_371233578-stock-photo-fresh-raw-prawns-prepared-cooking.jpg",
+      "https://st3.depositphotos.com/3248091/37123/i/450/depositphotos_371233578-stock-photo-fresh-raw-prawns-prepared-cooking.jpg",
+      "https://st5.depositphotos.com/3848923/65217/i/380/depositphotos_652172726-stock-photo-fresh-raw-shrimp-basket.jpg",
+      "https://st5.depositphotos.com/3848923/65217/i/450/depositphotos_652172726-stock-photo-fresh-raw-shrimp-basket.jpg",
+      "https://st2.depositphotos.com/2515395/10391/i/380/depositphotos_103917928-stock-photo-many-raw-green-king-size.jpg",
+      "https://st2.depositphotos.com/2515395/10391/i/450/depositphotos_103917928-stock-photo-many-raw-green-king-size.jpg",
+      "https://st3.depositphotos.com/3248091/37123/i/380/depositphotos_371233546-stock-photo-fresh-raw-prawns-prepared-cooking.jpg",
+      "https://st3.depositphotos.com/3248091/37123/i/450/depositphotos_371233546-stock-photo-fresh-raw-prawns-prepared-cooking.jpg",
+      "https://st2.depositphotos.com/44423472/43936/i/380/depositphotos_439366010-stock-photo-raw-shrimp-shining-light-brown.jpg",
+      "https://st2.depositphotos.com/44423472/43936/i/450/depositphotos_439366010-stock-photo-raw-shrimp-shining-light-brown.jpg",
+      "https://st2.depositphotos.com/1031967/6604/i/380/depositphotos_66049103-stock-photo-raw-octopus-at-la-boqueria.jpg",
+      "https://st2.depositphotos.com/1031967/6604/i/450/depositphotos_66049103-stock-photo-raw-octopus-at-la-boqueria.jpg",
+      "https://st2.depositphotos.com/1762283/11523/i/380/depositphotos_115239412-stock-photo-mixed-fried-fish.jpg",
+      "https://st2.depositphotos.com/1762283/11523/i/450/depositphotos_115239412-stock-photo-mixed-fried-fish.jpg",
+      "https://st.depositphotos.com/2714851/3624/i/380/depositphotos_36248133-stock-photo-shrimps.jpg",
+      "https://st.depositphotos.com/2714851/3624/i/450/depositphotos_36248133-stock-photo-shrimps.jpg",
+      "https://st4.depositphotos.com/2801855/22869/i/380/depositphotos_228699582-stock-photo-fresh-shrimp-cooking-street-food.jpg",
+      "https://st4.depositphotos.com/2801855/22869/i/450/depositphotos_228699582-stock-photo-fresh-shrimp-cooking-street-food.jpg",
+      "https://st.depositphotos.com/1579158/3145/i/380/depositphotos_31459249-stock-photo-steamed-shrimp-dish.jpg",
+      "https://st.depositphotos.com/1579158/3145/i/450/depositphotos_31459249-stock-photo-steamed-shrimp-dish.jpg",
+      "https://st5.depositphotos.com/3848923/64589/i/380/depositphotos_645891018-stock-photo-fresh-raw-shrimp-market.jpg",
+      "https://st5.depositphotos.com/3848923/64589/i/450/depositphotos_645891018-stock-photo-fresh-raw-shrimp-market.jpg",
+      "https://st3.depositphotos.com/1719830/14132/i/380/depositphotos_141323020-stock-photo-big-tiger-shrimps-for-sale.jpg",
+      "https://st3.depositphotos.com/1719830/14132/i/450/depositphotos_141323020-stock-photo-big-tiger-shrimps-for-sale.jpg",
+      "https://st5.depositphotos.com/4873823/66998/i/380/depositphotos_669988144-stock-photo-fresh-shrimp-plastic-box.jpg",
+      "https://st5.depositphotos.com/4873823/66998/i/450/depositphotos_669988144-stock-photo-fresh-shrimp-plastic-box.jpg",
+      "https://st5.depositphotos.com/4873823/66998/i/380/depositphotos_669988152-stock-photo-fresh-shrimp-tbe-market.jpg",
+      "https://st5.depositphotos.com/4873823/66998/i/450/depositphotos_669988152-stock-photo-fresh-shrimp-tbe-market.jpg"
+    ]
+  },
+  {
+    "article": 38478,
+    "name": "Креветка королівська у панцирі с/м 70/80 кг",
+    "images": [
+      "https://st4.depositphotos.com/27179552/31516/i/380/depositphotos_315166760-stock-photo-fresh-shrimp-on-dish.jpg",
+      "https://st4.depositphotos.com/27179552/31516/i/450/depositphotos_315166760-stock-photo-fresh-shrimp-on-dish.jpg",
+      "https://st5.depositphotos.com/67903508/61702/i/380/depositphotos_617024726-stock-photo-closeup-shot-raw-fresh-dublin.jpg",
+      "https://st5.depositphotos.com/67903508/61702/i/450/depositphotos_617024726-stock-photo-closeup-shot-raw-fresh-dublin.jpg",
+      "https://st3.depositphotos.com/8687452/14910/i/380/depositphotos_149104171-stock-photo-fresh-shrimpprawn-on-white-background.jpg",
+      "https://st3.depositphotos.com/8687452/14910/i/450/depositphotos_149104171-stock-photo-fresh-shrimpprawn-on-white-background.jpg",
+      "https://st4.depositphotos.com/32856862/40477/i/380/depositphotos_404776630-stock-photo-delicious-shrimps-table.jpg",
+      "https://st4.depositphotos.com/32856862/40477/i/450/depositphotos_404776630-stock-photo-delicious-shrimps-table.jpg",
+      "https://st4.depositphotos.com/36864246/38350/i/380/depositphotos_383505622-stock-photo-fresh-raw-uncooked-shrimp-plate.jpg",
+      "https://st4.depositphotos.com/36864246/38350/i/450/depositphotos_383505622-stock-photo-fresh-raw-uncooked-shrimp-plate.jpg",
+      "https://st.depositphotos.com/1579158/3145/i/380/depositphotos_31459249-stock-photo-steamed-shrimp-dish.jpg",
+      "https://st.depositphotos.com/1579158/3145/i/450/depositphotos_31459249-stock-photo-steamed-shrimp-dish.jpg",
+      "https://st2.depositphotos.com/1000605/49746/i/380/depositphotos_497461254-stock-photo-tasty-big-langoustine-seafood-board.jpg",
+      "https://st2.depositphotos.com/1000605/49746/i/450/depositphotos_497461254-stock-photo-tasty-big-langoustine-seafood-board.jpg",
+      "https://st5.depositphotos.com/83706992/69021/i/380/depositphotos_690211960-stock-photo-fresh-shrimp-table.jpg",
+      "https://st5.depositphotos.com/83706992/69021/i/450/depositphotos_690211960-stock-photo-fresh-shrimp-table.jpg",
+      "https://st.depositphotos.com/2631141/3257/i/380/depositphotos_32570379-stock-photo-raw-king-prawns-on-a.jpg",
+      "https://st.depositphotos.com/2631141/3257/i/450/depositphotos_32570379-stock-photo-raw-king-prawns-on-a.jpg",
+      "https://st3.depositphotos.com/16122460/32696/i/380/depositphotos_326962152-stock-photo-delicious-cooked-whole-shrimps-isolated.jpg",
+      "https://st3.depositphotos.com/16122460/32696/i/450/depositphotos_326962152-stock-photo-delicious-cooked-whole-shrimps-isolated.jpg",
+      "https://st.depositphotos.com/8687452/54936/i/380/depositphotos_549363444-stock-photo-fresh-tiger-prawn-shrimp-isolated.jpg",
+      "https://st.depositphotos.com/8687452/54936/i/450/depositphotos_549363444-stock-photo-fresh-tiger-prawn-shrimp-isolated.jpg",
+      "https://st2.depositphotos.com/1594701/5487/i/380/depositphotos_54873133-stock-photo-shrimp.jpg",
+      "https://st2.depositphotos.com/1594701/5487/i/450/depositphotos_54873133-stock-photo-shrimp.jpg",
+      "https://st4.depositphotos.com/20046674/22643/i/380/depositphotos_226436688-stock-photo-prawns-surrounded-white-background.jpg",
+      "https://st4.depositphotos.com/20046674/22643/i/450/depositphotos_226436688-stock-photo-prawns-surrounded-white-background.jpg",
+      "https://st3.depositphotos.com/30499588/36675/i/380/depositphotos_366757632-stock-photo-cooked-prawn-isolated-white-background.jpg",
+      "https://st3.depositphotos.com/30499588/36675/i/450/depositphotos_366757632-stock-photo-cooked-prawn-isolated-white-background.jpg",
+      "https://st.depositphotos.com/64200226/57759/i/380/depositphotos_577594268-stock-photo-close-fresh-raw-shrimp-pink.jpg",
+      "https://st.depositphotos.com/64200226/57759/i/450/depositphotos_577594268-stock-photo-close-fresh-raw-shrimp-pink.jpg",
+      "https://st5.depositphotos.com/94428396/80368/i/380/depositphotos_803689946-stock-photo-fresh-seafood-box-ice-market.jpg",
+      "https://st5.depositphotos.com/94428396/80368/i/450/depositphotos_803689946-stock-photo-fresh-seafood-box-ice-market.jpg",
+      "https://st.depositphotos.com/2805411/5132/i/380/depositphotos_51325523-stock-photo-grilled-shrimp-isolate-on-a.jpg",
+      "https://st.depositphotos.com/2805411/5132/i/450/depositphotos_51325523-stock-photo-grilled-shrimp-isolate-on-a.jpg",
+      "https://static4.depositphotos.com/1010322/314/i/380/depositphotos_3145113-stock-photo-raw-shrimps.jpg",
+      "https://static4.depositphotos.com/1010322/314/i/450/depositphotos_3145113-stock-photo-raw-shrimps.jpg",
+      "https://static4.depositphotos.com/1010322/312/i/380/depositphotos_3129665-stock-photo-raw-shrimps.jpg",
+      "https://static4.depositphotos.com/1010322/312/i/450/depositphotos_3129665-stock-photo-raw-shrimps.jpg",
+      "https://st4.depositphotos.com/11040300/38025/i/380/depositphotos_380258056-stock-photo-fresh-black-tiger-shrimp-tails.jpg",
+      "https://st4.depositphotos.com/11040300/38025/i/450/depositphotos_380258056-stock-photo-fresh-black-tiger-shrimp-tails.jpg",
+      "https://st3.depositphotos.com/29442850/32177/i/380/depositphotos_321771964-stock-illustration-shrimp-lies-mirror-reflection-white.jpg",
+      "https://st3.depositphotos.com/29442850/32177/i/450/depositphotos_321771964-stock-illustration-shrimp-lies-mirror-reflection-white.jpg"
+    ]
+  },
+  {
+    "article": 32648,
+    "name": "Морський коктейль с/м кг",
+    "images": [
+      "https://st5.depositphotos.com/65867894/80546/i/380/depositphotos_805465288-stock-photo-glass-ice-tea-ice-cubes.jpg",
+      "https://st5.depositphotos.com/65867894/80546/i/450/depositphotos_805465288-stock-photo-glass-ice-tea-ice-cubes.jpg",
+      "https://st5.depositphotos.com/85677200/73238/i/380/depositphotos_732387994-stock-photo-close-iced-kiwi-fruit-juice.jpg",
+      "https://st5.depositphotos.com/85677200/73238/i/450/depositphotos_732387994-stock-photo-close-iced-kiwi-fruit-juice.jpg",
+      "https://st.depositphotos.com/2570941/57719/i/380/depositphotos_577191666-stock-photo-blue-cold-drink-glass-ice.jpg",
+      "https://st.depositphotos.com/2570941/57719/i/450/depositphotos_577191666-stock-photo-blue-cold-drink-glass-ice.jpg",
+      "https://st4.depositphotos.com/36716422/38591/i/380/depositphotos_385919902-stock-photo-homemade-berry-rose-sangria-lmeon.jpg",
+      "https://st4.depositphotos.com/36716422/38591/i/450/depositphotos_385919902-stock-photo-homemade-berry-rose-sangria-lmeon.jpg",
+      "https://st5.depositphotos.com/65867894/80357/i/380/depositphotos_803579396-stock-photo-blurred-interior-coffee-shop-resterruant.jpg",
+      "https://st5.depositphotos.com/65867894/80357/i/450/depositphotos_803579396-stock-photo-blurred-interior-coffee-shop-resterruant.jpg",
+      "https://st4.depositphotos.com/5624298/20914/i/380/depositphotos_209140604-stock-photo-tasty-blue-curacao-cocktail.jpg",
+      "https://st4.depositphotos.com/5624298/20914/i/450/depositphotos_209140604-stock-photo-tasty-blue-curacao-cocktail.jpg",
+      "https://st2.depositphotos.com/12289818/46486/i/380/depositphotos_464860836-stock-photo-blue-cocktail-cherry-window-view.jpg",
+      "https://st2.depositphotos.com/12289818/46486/i/450/depositphotos_464860836-stock-photo-blue-cocktail-cherry-window-view.jpg",
+      "https://st5.depositphotos.com/80813678/66477/i/380/depositphotos_664776452-stock-photo-apple-ade-refreshment-made-apple.jpg",
+      "https://st5.depositphotos.com/80813678/66477/i/450/depositphotos_664776452-stock-photo-apple-ade-refreshment-made-apple.jpg",
+      "https://st.depositphotos.com/69287748/59530/i/380/depositphotos_595305618-stock-photo-close-blue-lagoon-cocktail-ice.jpg",
+      "https://st.depositphotos.com/69287748/59530/i/450/depositphotos_595305618-stock-photo-close-blue-lagoon-cocktail-ice.jpg",
+      "https://st3.depositphotos.com/3262633/18947/i/380/depositphotos_189470796-stock-photo-alcohol-green-cocktail-citrus-served.jpg",
+      "https://st3.depositphotos.com/3262633/18947/i/450/depositphotos_189470796-stock-photo-alcohol-green-cocktail-citrus-served.jpg",
+      "https://st3.depositphotos.com/1010386/37705/i/380/depositphotos_377056806-stock-illustration-blue-lagoon-cocktail-highball-glass.jpg",
+      "https://st3.depositphotos.com/1010386/37705/i/450/depositphotos_377056806-stock-illustration-blue-lagoon-cocktail-highball-glass.jpg",
+      "https://st.depositphotos.com/15601798/58391/i/380/depositphotos_583910402-stock-photo-lavander-fizz-cocktail-based-refreshing.jpg",
+      "https://st.depositphotos.com/15601798/58391/i/450/depositphotos_583910402-stock-photo-lavander-fizz-cocktail-based-refreshing.jpg",
+      "https://st2.depositphotos.com/26289866/42830/i/380/depositphotos_428300004-stock-photo-glass-water-blue-curacao-ice.jpg",
+      "https://st2.depositphotos.com/26289866/42830/i/450/depositphotos_428300004-stock-photo-glass-water-blue-curacao-ice.jpg",
+      "https://st4.depositphotos.com/38198886/39927/i/380/depositphotos_399277552-stock-photo-tropical-summer-drink-cruise-vacation.jpg",
+      "https://st4.depositphotos.com/38198886/39927/i/450/depositphotos_399277552-stock-photo-tropical-summer-drink-cruise-vacation.jpg",
+      "https://st.depositphotos.com/2570941/57735/i/380/depositphotos_577353590-stock-photo-blue-cold-drink-glass-ice.jpg",
+      "https://st.depositphotos.com/2570941/57735/i/450/depositphotos_577353590-stock-photo-blue-cold-drink-glass-ice.jpg",
+      "https://static9.depositphotos.com/1594308/1121/i/380/depositphotos_11215900-stock-photo-orange-juice.jpg",
+      "https://static9.depositphotos.com/1594308/1121/i/450/depositphotos_11215900-stock-photo-orange-juice.jpg",
+      "https://st3.depositphotos.com/2719629/35313/i/380/depositphotos_353133560-stock-photo-blank-greeting-card-cocktail-starfish.jpg",
+      "https://st3.depositphotos.com/2719629/35313/i/450/depositphotos_353133560-stock-photo-blank-greeting-card-cocktail-starfish.jpg",
+      "https://st.depositphotos.com/35079176/55820/i/380/depositphotos_558204684-stock-photo-beautiful-natural-scenery-beach-enjoying.jpg",
+      "https://st.depositphotos.com/35079176/55820/i/450/depositphotos_558204684-stock-photo-beautiful-natural-scenery-beach-enjoying.jpg",
+      "https://st3.depositphotos.com/4087771/37106/i/380/depositphotos_371062100-stock-photo-mojito-cocktail-bar-mojito-cocktail.jpg",
+      "https://st3.depositphotos.com/4087771/37106/i/450/depositphotos_371062100-stock-photo-mojito-cocktail-bar-mojito-cocktail.jpg",
+      "https://st.depositphotos.com/55566044/51435/i/380/depositphotos_514354626-stock-photo-glowing-neon-lights-flashing-liquid.jpg",
+      "https://st.depositphotos.com/55566044/51435/i/450/depositphotos_514354626-stock-photo-glowing-neon-lights-flashing-liquid.jpg",
+      "https://st5.depositphotos.com/41117186/69276/i/380/depositphotos_692762324-stock-photo-images-drinks-restaurants-bars-high.jpg",
+      "https://st5.depositphotos.com/41117186/69276/i/450/depositphotos_692762324-stock-photo-images-drinks-restaurants-bars-high.jpg"
+    ]
+  },
+  {
+    "article": 32645,
+    "name": "М'ясо мідії вар/мор 100-200 кг",
+    "images": [
+      "https://st5.depositphotos.com/6591208/66558/i/380/depositphotos_665586838-stock-photo-mussel-meat-styrofoam-food-container.jpg",
+      "https://st5.depositphotos.com/6591208/66558/i/450/depositphotos_665586838-stock-photo-mussel-meat-styrofoam-food-container.jpg",
+      "https://st2.depositphotos.com/31855538/44664/i/380/depositphotos_446649022-stock-photo-frozen-mussels-trasparent-plastic-bag.jpg",
+      "https://st2.depositphotos.com/31855538/44664/i/450/depositphotos_446649022-stock-photo-frozen-mussels-trasparent-plastic-bag.jpg",
+      "https://st3.depositphotos.com/30499588/37310/i/380/depositphotos_373100304-stock-photo-small-steamed-rock-mussels.jpg",
+      "https://st3.depositphotos.com/30499588/37310/i/450/depositphotos_373100304-stock-photo-small-steamed-rock-mussels.jpg",
+      "https://st.depositphotos.com/1596964/5056/i/380/depositphotos_50563367-stock-photo-cooked-mussels-clams.jpg",
+      "https://st.depositphotos.com/1596964/5056/i/450/depositphotos_50563367-stock-photo-cooked-mussels-clams.jpg",
+      "https://st3.depositphotos.com/12057646/15927/i/380/depositphotos_159276972-stock-photo-three-single-sea-mussels.jpg",
+      "https://st3.depositphotos.com/12057646/15927/i/450/depositphotos_159276972-stock-photo-three-single-sea-mussels.jpg",
+      "https://st4.depositphotos.com/30971152/39842/i/380/depositphotos_398423908-stock-photo-photography-mussels-bamboo-steamer-basket.jpg",
+      "https://st4.depositphotos.com/30971152/39842/i/450/depositphotos_398423908-stock-photo-photography-mussels-bamboo-steamer-basket.jpg",
+      "https://st2.depositphotos.com/2212984/11647/i/380/depositphotos_116478900-stock-photo-seafood-mussels-isolated-on-white.jpg",
+      "https://st2.depositphotos.com/2212984/11647/i/450/depositphotos_116478900-stock-photo-seafood-mussels-isolated-on-white.jpg",
+      "https://st2.depositphotos.com/1000605/7227/i/380/depositphotos_72274291-stock-photo-boiled-mussels.jpg",
+      "https://st2.depositphotos.com/1000605/7227/i/450/depositphotos_72274291-stock-photo-boiled-mussels.jpg",
+      "https://st.depositphotos.com/1066342/5098/i/380/depositphotos_50988445-stock-photo-a-mold-assembly-before-curing.jpg",
+      "https://st.depositphotos.com/1066342/5098/i/450/depositphotos_50988445-stock-photo-a-mold-assembly-before-curing.jpg",
+      "https://st2.depositphotos.com/3500059/43222/i/380/depositphotos_432222094-stock-photo-cooked-almonds-shellfish-isolated-white.jpg",
+      "https://st2.depositphotos.com/3500059/43222/i/450/depositphotos_432222094-stock-photo-cooked-almonds-shellfish-isolated-white.jpg",
+      "https://st5.depositphotos.com/81299366/68300/i/380/depositphotos_683003306-stock-photo-close-black-mussels-white-background.jpg",
+      "https://st5.depositphotos.com/81299366/68300/i/450/depositphotos_683003306-stock-photo-close-black-mussels-white-background.jpg",
+      "https://st2.depositphotos.com/1821481/12177/i/380/depositphotos_121777740-stock-photo-pile-of-mussels-close-up.jpg",
+      "https://st2.depositphotos.com/1821481/12177/i/450/depositphotos_121777740-stock-photo-pile-of-mussels-close-up.jpg",
+      "https://st2.depositphotos.com/1010050/8123/i/380/depositphotos_81231706-stock-photo-raw-mussels-on-ice.jpg",
+      "https://st2.depositphotos.com/1010050/8123/i/450/depositphotos_81231706-stock-photo-raw-mussels-on-ice.jpg",
+      "https://st3.depositphotos.com/30499588/37310/i/380/depositphotos_373100392-stock-photo-small-steamed-rock-mussels.jpg",
+      "https://st3.depositphotos.com/30499588/37310/i/450/depositphotos_373100392-stock-photo-small-steamed-rock-mussels.jpg",
+      "https://st.depositphotos.com/1170638/1695/i/380/depositphotos_16951829-stock-photo-fresh-oysters.jpg",
+      "https://st.depositphotos.com/1170638/1695/i/450/depositphotos_16951829-stock-photo-fresh-oysters.jpg",
+      "https://st2.depositphotos.com/1420579/8340/i/380/depositphotos_83408636-stock-photo-mussels-with-parsley.jpg",
+      "https://st2.depositphotos.com/1420579/8340/i/450/depositphotos_83408636-stock-photo-mussels-with-parsley.jpg",
+      "https://st3.depositphotos.com/12057646/15927/i/380/depositphotos_159276870-stock-photo-fresh-and-raw-sea-mussels.jpg",
+      "https://st3.depositphotos.com/12057646/15927/i/450/depositphotos_159276870-stock-photo-fresh-and-raw-sea-mussels.jpg",
+      "https://st3.depositphotos.com/30499588/37310/i/380/depositphotos_373100378-stock-photo-small-steamed-rock-mussels.jpg",
+      "https://st3.depositphotos.com/30499588/37310/i/450/depositphotos_373100378-stock-photo-small-steamed-rock-mussels.jpg",
+      "https://st.depositphotos.com/3275441/57717/i/380/depositphotos_577171626-stock-photo-mussels-shell-seafood-fresh-healthy.jpg",
+      "https://st.depositphotos.com/3275441/57717/i/450/depositphotos_577171626-stock-photo-mussels-shell-seafood-fresh-healthy.jpg",
+      "https://st2.depositphotos.com/1420579/8340/i/380/depositphotos_83408640-stock-photo-mussels-with-parsley.jpg",
+      "https://st2.depositphotos.com/1420579/8340/i/450/depositphotos_83408640-stock-photo-mussels-with-parsley.jpg",
+      "https://st3.depositphotos.com/12057646/15927/i/380/depositphotos_159276834-stock-photo-fresh-and-raw-sea-mussels.jpg",
+      "https://st3.depositphotos.com/12057646/15927/i/450/depositphotos_159276834-stock-photo-fresh-and-raw-sea-mussels.jpg"
     ]
   }
 ]
